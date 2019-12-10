@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "Adarsh123",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\Adarsh123.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-10 11:57:03",
+  "sys_id": "91e2380fdba500107ad2f36f29961912",
+  "sys_mod_count": 0,
+  "sys_name": "Adarsh123",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_91e2380fdba500107ad2f36f29961912",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-10 11:57:03",
+  "unloadable": false
+}
