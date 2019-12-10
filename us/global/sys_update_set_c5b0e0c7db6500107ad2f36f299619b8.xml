@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-10 10:39:01">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Servicenow</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c5b0e0c7db6500107ad2f36f299619b8</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-12-10 10:39:00</sys_created_on>
+<sys_id>8211200bdb6500107ad2f36f29961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-12-10 10:39:00</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Integration">19190fabdbebd300dfa9b94ffe96193e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_ab334283db9540107ad2f36f29961901</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;Tanoy test&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[//gs.log("TestTanoy");
+
+//gs.log("TestTanoy");
+gs.log("Tehhhhad23");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-28 07:32:32&lt;/sys_created_on&gt;&lt;sys_id&gt;ab334283db9540107ad2f36f29961901&lt;/sys_id&gt;&lt;sys_mod_count&gt;27&lt;/sys_mod_count&gt;&lt;sys_name&gt;Tanoy test&lt;/sys_name&gt;&lt;sys_package display_value="CICD Integration" source="19190fabdbebd300dfa9b94ffe96193e"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Integration"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_ab334283db9540107ad2f36f29961901&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-10 10:37:43&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-686110941</payload_hash>
+<remote_update_set display_value="Servicenow">8211200bdb6500107ad2f36f29961941</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-12-10 10:39:00</sys_created_on>
+<sys_id>4611200bdb6500107ad2f36f29961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16eef62d99c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-12-10 10:39:00</sys_updated_on>
+<table/>
+<target_name>Tanoy test</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>47c0ac4b7e650010d1868a9553687457</update_guid>
+<update_guid_history>47c0ac4b7e650010d1868a9553687457:-686110941,53be50c7356500105df3f823c4ff7481:1719494310,0cf194c732250010fa8d30869e9bca02:694594381,367dc0472f250010642b2f2714f2a9b3:1262659535,9086c84f01e100106cdc62ce3262c8ee:-1922561204,0785880fcce10010aa3368b0cd95c3ae:1748035799,40a1c4c791e1001031c80f2ec5e87241:-549871513,9dfb54304a65001085b3b5b96b2dd71a:-1072438970,cde5c4b4a2e10010826422530c3a7b08:-1897422287,18b5047875e10010e448e0aee3973cbe:1044763431,ddf308f481e1001085840112ac9ce61f:-1212667815,944340b8e3a10010bdc94cf033155a9a:915900372,ec77ff6835a10010d4527ecf5b8e5071:-221671374,1527b76480a100100d5d769ae3a34103:-637803229,0ec2376439a10010a1c3164e678a649c:-1096986715,7ff9afe86c610010c6b7fa23549c5cb1:1641502902,f3f39f4f8ad9401065557c197f9eae0c:1142228086,2e873ac73b5940100ff71584ff5df032:152155624,e4313a4b4859401012674e959241d3e2:-2131546084,8710ba0b795940100624b44363f57d1b:339445788,284f6e0706594010cfccba1251bce940:-719851177,645e6e0777594010322389f1907dfa3c:1811937111,32ebeac3ac5940104003e91d92b5a431:2043810302,50a7a203435940105203dbe2ea50494d:-970060135,b166228f051940102c1bf7db58502dcb:-1297422333,3a85a28f26d540102db864389ceb5d56:774912413,ed068e0b9e9540106560905987b29323:829693258,6153868740954010f33f9e3284b2096f:-519207949</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
