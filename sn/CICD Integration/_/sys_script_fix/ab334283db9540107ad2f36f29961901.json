@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "Tanoy test",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\CICD Integration\\Fix Script\\active_true\\Tanoy test.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-28 07:32:32",
+  "sys_id": "ab334283db9540107ad2f36f29961901",
+  "sys_mod_count": 23,
+  "sys_name": "Tanoy test",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_script_fix_ab334283db9540107ad2f36f29961901",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-10 08:42:50",
+  "unloadable": false
+}
