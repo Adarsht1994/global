@@ -3,11 +3,11 @@
  * ClassName   : sys_script_fix
  * Created On  : 2019-11-28 07:32:32
  * Created By  : admin
- * Updated On  : 2019-12-10 08:42:50
+ * Updated On  : 2019-12-10 09:13:19
  * Updated By  : admin
  * URL         : /sys_script_fix.do?sys_id=ab334283db9540107ad2f36f29961901
  */
 //gs.log("TestTanoy");
 
 //gs.log("TestTanoy");
-gs.log("Testabcdsc12scxjbdsdjddsdjj312dda329");
+gs.log("Test9");
