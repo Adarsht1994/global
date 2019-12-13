@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "DevopsTest123",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\DevopsTest123.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2019-12-13 06:11:12",
+  "sys_id": "d890877f1b250c10059a65b82d4bcb64",
+  "sys_mod_count": 1,
+  "sys_name": "DevopsTest123",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_d890877f1b250c10059a65b82d4bcb64",
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2019-12-13 06:11:21",
+  "unloadable": false
+}
