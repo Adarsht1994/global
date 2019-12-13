@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-13 06:04:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>New Update Set 1245</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>43aeb2771b250c10059a65b82d4bcb6f</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-13 06:04:06</sys_created_on>
+<sys_id>90fe3a771b250c10059a65b82d4bcbe2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-13 06:04:06</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_b029c1171b69c41000584225bd4bcbd2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;DevopsTest&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("123");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-11 08:12:26&lt;/sys_created_on&gt;&lt;sys_id&gt;b029c1171b69c41000584225bd4bcbd2&lt;/sys_id&gt;&lt;sys_mod_count&gt;21&lt;/sys_mod_count&gt;&lt;sys_name&gt;DevopsTest&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_b029c1171b69c41000584225bd4bcbd2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-13 06:03:19&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>798166089</payload_hash>
+<remote_update_set display_value="New Update Set 1245">90fe3a771b250c10059a65b82d4bcbe2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-13 06:04:06</sys_created_on>
+<sys_id>58fe3a771b250c10059a65b82d4bcbe2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efddab7450000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-13 06:04:06</sys_updated_on>
+<table/>
+<target_name>DevopsTest</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>09cef63307250c10df95a38a879814a3</update_guid>
+<update_guid_history>09cef63307250c10df95a38a879814a3:798166089,fdfb7aff8ce10c10de6a0bcd8440ea0a:-948401178,d61943a3a4e18810c0fc193181a85944:-1631796740,96c64baf50a18810eebe19f67d17af85:88609223,7ab9fa2bd3618810ffd5500093ddcd94:1530437928,99a71eebf46d48101ebe1045a17fa011:-220285665,9c3c06271a2d48100704de421844152f:1653341865,3d5a8ea3802d48103f8ec6502345bd5c:-646321112,57c6cea7c5e94810cbf46b24195dce03:1530437928,04f5c227ece948107afff2c72b13f9c6:1608301592,1dbff91790edc4109c52fb43ef5a4bfe:2010830130,41956197a42dc41059074aa8972c8a2e:998810693,9b8d555724e9c4103fe12103e1181a6f:-81599161,6cba555f38a9c410ac1f5e1e0d15140a:233930535,4bb8d9dfa7a9c410d7d1940809701472:-739717465,a4571d1f1ba9c4106f9dbc79e6991d95:-229107499,5d6ecd5f8c69c41013332e18a47399f4:199561325,ae4d411f5769c410a34a85316f924e0f:678892589,281c811b4969c4101094dea314248ae9:-2018944659,287ac1170969c41041e6394f08475612:1026289325,ae298517ad69c4102e5f717eb9f654ae:-1095867731,3029c1172469c4108c5dd5f9f662c3d3:-296047269</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
