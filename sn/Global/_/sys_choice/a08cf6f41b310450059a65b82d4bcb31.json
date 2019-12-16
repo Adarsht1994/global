@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "u_member_s_firm",
+  "hint": null,
+  "inactive": false,
+  "label": "AU",
+  "language": "en",
+  "name": "sys_user_group",
+  "sequence": null,
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 08:27:23",
+  "sys_id": "a08cf6f41b310450059a65b82d4bcb31",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 08:27:48",
+  "value": "AU"
+}

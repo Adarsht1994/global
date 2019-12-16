@@ -1,0 +1,16 @@
+{
+  "contains": "2e6671ed7f00000176bde2f701c7c650",
+  "role": "285abd551ba94c5400584225bd4bcba6",
+  "sys_class_name": "sys_user_role_contains",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 09:04:02",
+  "sys_id": "ade487bc1b710450059a65b82d4bcb22",
+  "sys_mod_count": 0,
+  "sys_name": "scrum_admin.coe_scrum_team_member",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_user_role_contains_ade487bc1b710450059a65b82d4bcb22",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 09:04:02"
+}

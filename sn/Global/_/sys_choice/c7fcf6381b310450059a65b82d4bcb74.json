@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "u_member_s_firm",
+  "hint": null,
+  "inactive": false,
+  "label": "GB",
+  "language": "en",
+  "name": "sys_user_group",
+  "sequence": null,
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 08:29:29",
+  "sys_id": "c7fcf6381b310450059a65b82d4bcb74",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 08:29:29",
+  "value": "GB"
+}

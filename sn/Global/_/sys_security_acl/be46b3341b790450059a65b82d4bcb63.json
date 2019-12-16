@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": true,
+  "condition": null,
+  "description": "Allow write for u_member_s_firm in sys_user_group, if the ACL script returns true.",
+  "name": "sys_user_group.u_member_s_firm",
+  "operation": "write",
+  "script": {
+    "____see": "sn\\Global\\Access Control\\active_true\\record\\sys_user_group.u_member_s_firm\\write.js"
+  },
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 12:41:12",
+  "sys_id": "be46b3341b790450059a65b82d4bcb63",
+  "sys_mod_count": 1,
+  "sys_name": "sys_user_group.u_member_s_firm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_be46b3341b790450059a65b82d4bcb63",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 14:39:31",
+  "type": "record"
+}

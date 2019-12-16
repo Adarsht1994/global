@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "rm_enhancement",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2012-03-23 18:35:49",
+  "sys_id": "0ffe390037412000dadaa3549dbe5d0d",
+  "sys_mod_count": 0,
+  "sys_name": "rm_enhancement",
+  "sys_package": "bb689b521bae770000584225bd4bcbd6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_0ffe390037412000dadaa3549dbe5d0d",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2012-03-23 18:35:49",
+  "title": false,
+  "view": "89f580ed1beaf300059a65b82d4bcb88",
+  "view_name": null
+}

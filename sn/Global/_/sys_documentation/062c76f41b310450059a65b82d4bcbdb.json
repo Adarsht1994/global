@@ -1,0 +1,23 @@
+{
+  "element": "u_member_s_firm",
+  "help": null,
+  "hint": null,
+  "label": "Member's Firm",
+  "language": "en",
+  "name": "sys_user_group",
+  "plural": "Member's Firms",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 08:25:51",
+  "sys_id": "062c76f41b310450059a65b82d4bcbdb",
+  "sys_mod_count": 0,
+  "sys_name": "Member's Firm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_documentation_sys_user_group_u_member_s_firm_en",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 08:25:51",
+  "url": null,
+  "url_target": null
+}
