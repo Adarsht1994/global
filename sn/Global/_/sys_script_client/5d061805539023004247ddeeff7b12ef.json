@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "assignment_group",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Empty assigned_to on group change",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\problem_task\\active_true\\Empty assigned_to on group change.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-08-31 09:02:28",
+  "sys_id": "5d061805539023004247ddeeff7b12ef",
+  "sys_mod_count": 2,
+  "sys_name": "Empty assigned_to on group change",
+  "sys_package": "62014f391b3533007456ecadee4bcbdb",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_5d061805539023004247ddeeff7b12ef",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 09:56:03",
+  "table": "problem_task",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}

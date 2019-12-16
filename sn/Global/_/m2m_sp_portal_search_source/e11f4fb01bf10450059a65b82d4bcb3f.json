@@ -1,0 +1,17 @@
+{
+  "order": 100,
+  "sp_portal": "722a7ea91b6dcc5400584225bd4bcb55",
+  "sp_search_source": "c6170ae86721220023c82e08f585efe6",
+  "sys_class_name": "m2m_sp_portal_search_source",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-16 09:48:33",
+  "sys_id": "e11f4fb01bf10450059a65b82d4bcb3f",
+  "sys_mod_count": 0,
+  "sys_name": "SLATAM.Knowledge Bases",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "m2m_sp_portal_search_source_e11f4fb01bf10450059a65b82d4bcb3f",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 09:48:33"
+}

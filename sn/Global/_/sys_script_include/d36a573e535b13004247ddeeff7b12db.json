@@ -1,0 +1,24 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "global.ProblemTaskStateUtils",
+  "caller_access": null,
+  "client_callable": true,
+  "description": "Provides utility APIs for state transitions on the Problem Task record.\r\n\r\nOverwrite functions defined in ProblemTaskStateUtilsSNC, by defining the same function in this script include.",
+  "name": "ProblemTaskStateUtils",
+  "script": {
+    "____see": "sn\\Global\\Script Include\\active_true\\global.ProblemTaskStateUtils.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-07-18 16:48:40",
+  "sys_id": "d36a573e535b13004247ddeeff7b12db",
+  "sys_mod_count": 15,
+  "sys_name": "ProblemTaskStateUtils",
+  "sys_package": "3b01cf391b3533007456ecadee4bcba6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_include_d36a573e535b13004247ddeeff7b12db",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 10:28:11"
+}

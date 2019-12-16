@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "conditions": "problem.u_member_firm=465bdf551ba58c5400584225bd4bcbf5^EQ",
+  "description": null,
+  "global": true,
+  "inherit": false,
+  "isolate_script": true,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": false,
+  "script_false": {
+    "____see": "sn\\Global\\UI Policy\\problem_task\\active_true\\Fields Read-Only for Problem task\\script_false.js"
+  },
+  "script_true": {
+    "____see": "sn\\Global\\UI Policy\\problem_task\\active_true\\Fields Read-Only for Problem task\\script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Fields Read-Only for Problem task ",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "tanpal",
+  "sys_created_on": "2019-12-11 12:29:47",
+  "sys_id": "a4c34a9f1badc410059a65b82d4bcbfc",
+  "sys_mod_count": 4,
+  "sys_name": "Fields Read-Only for Problem task ",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_policy_a4c34a9f1badc410059a65b82d4bcbfc",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 09:59:35",
+  "table": "problem_task",
+  "u_roles": null,
+  "ui_type": 0,
+  "view": "SLATAM"
+}

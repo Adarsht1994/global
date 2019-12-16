@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": "Dynamically change the Closed field labels based on Close code.",
+  "field": "close_code",
+  "global": true,
+  "isolate_script": true,
+  "messages": "Closed\r\nClosed by\r\nClose notes\r\nCanceled\r\nCanceled by\r\nCanceled reason\r\nCompleted\r\nCompleted by",
+  "name": "Rename Closed fields on change",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\problem_task\\active_true\\Rename Closed fields on change.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-08-21 18:40:01",
+  "sys_id": "132aba71538823004247ddeeff7b1201",
+  "sys_mod_count": 4,
+  "sys_name": "Rename Closed fields on change",
+  "sys_package": "3b01cf391b3533007456ecadee4bcba6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_132aba71538823004247ddeeff7b1201",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 09:56:03",
+  "table": "problem_task",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}
