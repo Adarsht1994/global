@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Encerrado",
+  "language": "pb",
+  "name": "problem_task",
+  "sequence": 5,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-06-04 06:20:46",
+  "sys_id": "ac815a46db793300bac12736059619cd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-06-04 06:20:46",
+  "value": 157
+}
