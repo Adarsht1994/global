@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "Test12345",
+  "record_for_rollback": false,
+  "run_once": false,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_false\\Test12345.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2019-12-16 10:56:14",
+  "sys_id": "848e1b781b39c05000584225bd4bcb5d",
+  "sys_mod_count": 1,
+  "sys_name": "Test12345",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_848e1b781b39c05000584225bd4bcb5d",
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2019-12-16 10:56:22",
+  "unloadable": false
+}
