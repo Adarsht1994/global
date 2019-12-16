@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "rm_release",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "jerrod.maint",
+  "sys_created_on": "2010-08-18 22:29:58",
+  "sys_id": "8752b3717f0000015c7a63dc065c061a",
+  "sys_mod_count": 0,
+  "sys_name": "rm_release",
+  "sys_package": "f7689b521bae770000584225bd4bcbd7",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_8752b3717f0000015c7a63dc065c061a",
+  "sys_updated_by": "jerrod.maint",
+  "sys_updated_on": "2010-08-18 22:29:58",
+  "title": false,
+  "view": "7964a48b0a0a0b8c0018cc6ffa3afe49",
+  "view_name": null
+}
