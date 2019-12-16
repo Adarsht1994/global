@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "sys_user_group",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2016-11-08 06:22:33",
+  "sys_id": "45aee7880b472200a6acc93563673a56",
+  "sys_mod_count": 0,
+  "sys_name": "sys_user_group",
+  "sys_package": "b3689b521bae770000584225bd4bcbd6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_45aee7880b472200a6acc93563673a56",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2016-11-08 06:22:33",
+  "title": false,
+  "view": "89f580ed1beaf300059a65b82d4bcb88",
+  "view_name": null
+}
