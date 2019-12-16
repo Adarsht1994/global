@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "rm_story",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2011-08-01 15:33:08",
+  "sys_id": "8757b94d7f0000011c1ae8aa30062c20",
+  "sys_mod_count": 1,
+  "sys_name": "rm_story",
+  "sys_package": "bda897d21bae770000584225bd4bcb95",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_8757b94d7f0000011c1ae8aa30062c20",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2014-07-09 07:57:16",
+  "title": false,
+  "view": "89f580ed1beaf300059a65b82d4bcb88",
+  "view_name": null
+}
