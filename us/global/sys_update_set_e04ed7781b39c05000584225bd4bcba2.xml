@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-16 11:00:04">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Testupdateset 13</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e04ed7781b39c05000584225bd4bcba2</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 11:00:04</sys_created_on>
+<sys_id>817f57b01bb50450059a65b82d4bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 11:00:04</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_848e1b781b39c05000584225bd4bcb5d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;Test12345&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;false&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[//var enc = "u_member_firm.u_member_firmSTARTSWITHus";
+var gr3 = new GlideRecord("incident");
+//gr3.addEncodedQuery(enc);
+gr3.query();
+while (gr3.next()) {
+    var gr = new GlideRecord("incident_task");
+    gr.addQuery("incident", gr3.sys_id);
+    gr.query();
+    var gr2 = new GlideRecord("incident");
+    gr2.addQuery("sys_id", gr3.sys_id);
+    gr2.query();
+    if (gr2.next()) {
+     //   gs.log('Task Row count is ' + gr.getRowCount());
+		gr2.setWorkflow(false);
+		gr2.autoSysFields(false);
+        gr2.u_task_counter = gr.getRowCount();
+        gr2.update();
+    }
+   
+}
+ gs.log('Incident Row count is ' + gr3.getRowCount());]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 10:56:14&lt;/sys_created_on&gt;&lt;sys_id&gt;848e1b781b39c05000584225bd4bcb5d&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test12345&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_848e1b781b39c05000584225bd4bcb5d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:56:22&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>262597148</payload_hash>
+<remote_update_set display_value="Testupdateset 13">817f57b01bb50450059a65b82d4bcb52</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 11:00:04</sys_created_on>
+<sys_id>8d7f57b01bb50450059a65b82d4bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e5a153c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 11:00:04</sys_updated_on>
+<table/>
+<target_name>Test12345</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>729e53b8be39c050dc728d2ba86f5d8f</update_guid>
+<update_guid_history>729e53b8be39c050dc728d2ba86f5d8f:262597148,b09edbb84839c0504b9762fc94ddf881:113364987</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_00be9f781b39c05000584225bd4bcb73</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;test&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	gs.log("test");
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 10:57:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;00be9f781b39c05000584225bd4bcb73&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_00be9f781b39c05000584225bd4bcb73&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:57:20&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=00be9f781b39c05000584225bd4bcb73"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>756047147</payload_hash>
+<remote_update_set display_value="Testupdateset 13">817f57b01bb50450059a65b82d4bcb52</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 11:00:04</sys_created_on>
+<sys_id>c57f57b01bb50450059a65b82d4bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e5af9ef0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 11:00:04</sys_updated_on>
+<table>incident</table>
+<target_name>test</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>01de5bf82e39c050b9b596dd57f87d8a</update_guid>
+<update_guid_history>01de5bf82e39c050b9b596dd57f87d8a:756047147</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
