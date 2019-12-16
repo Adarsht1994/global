@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "acceptance_criteria",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Story Member's Firm ",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\rm_story\\active_true\\Story Member's Firm .js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-10 15:08:24",
+  "sys_id": "51ae1d871b6d4410059a65b82d4bcbcc",
+  "sys_mod_count": 4,
+  "sys_name": "Story Member's Firm ",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_51ae1d871b6d4410059a65b82d4bcbcc",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 06:41:11",
+  "table": "rm_story",
+  "type": "onLoad",
+  "ui_type": 0,
+  "view": null
+}
