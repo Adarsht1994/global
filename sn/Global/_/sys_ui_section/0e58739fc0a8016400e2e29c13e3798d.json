@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "sys_user_group",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2005-02-14 00:50:40",
+  "sys_id": "0e58739fc0a8016400e2e29c13e3798d",
+  "sys_mod_count": 3,
+  "sys_name": "sys_user_group",
+  "sys_package": "b48a76b11b3133007456ecadee4bcbe9",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_0e58739fc0a8016400e2e29c13e3798d",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2018-07-17 20:15:29",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
