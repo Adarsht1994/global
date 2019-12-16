@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "active",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Enhancement Member's Firm ",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\rm_enhancement\\active_true\\Enhancement Member's Firm .js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 14:36:40",
+  "sys_id": "60d0dc0d1b7d0450059a65b82d4bcbc2",
+  "sys_mod_count": 0,
+  "sys_name": "Enhancement Member's Firm ",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_60d0dc0d1b7d0450059a65b82d4bcbc2",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 14:36:40",
+  "table": "rm_enhancement",
+  "type": "onLoad",
+  "ui_type": 0,
+  "view": null
+}

@@ -1,0 +1,16 @@
+{
+  "element": "u_member_s_firm",
+  "name": "sys_user_group",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 08:27:02",
+  "sys_id": "976cbaf41b310450059a65b82d4bcbd7",
+  "sys_mod_count": 0,
+  "sys_name": "u_member_s_firm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_sys_user_group_u_member_s_firm",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 08:27:02"
+}

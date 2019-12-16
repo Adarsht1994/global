@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": true,
+  "condition": null,
+  "description": null,
+  "name": "rm_enhancement.u_member_s_firm",
+  "operation": "write",
+  "script": {
+    "____see": "sn\\Global\\Access Control\\active_true\\record\\rm_enhancement.u_member_s_firm\\write.js"
+  },
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-16 14:40:07",
+  "sys_id": "be91984d1b7d0450059a65b82d4bcb6f",
+  "sys_mod_count": 0,
+  "sys_name": "rm_enhancement.u_member_s_firm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_be91984d1b7d0450059a65b82d4bcb6f",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-16 14:40:07",
+  "type": "record"
+}
