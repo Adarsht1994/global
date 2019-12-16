@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-16 06:12:59">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>AdarshNewUpdateset</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>8f2d1ef81bb9c050059a65b82d4bcbb1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:12:58</sys_created_on>
+<sys_id>a7bd12301b3d805000584225bd4bcb7e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:12:58</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_5c4d56fc1bb9c050059a65b82d4bcbcd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;AdarshDevops&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Adarshtest123");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 06:11:14&lt;/sys_created_on&gt;&lt;sys_id&gt;5c4d56fc1bb9c050059a65b82d4bcbcd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;AdarshDevops&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_5c4d56fc1bb9c050059a65b82d4bcbcd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:11:14&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1348527926</payload_hash>
+<remote_update_set display_value="AdarshNewUpdateset">a7bd12301b3d805000584225bd4bcb7e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:12:58</sys_created_on>
+<sys_id>afbd12301b3d805000584225bd4bcb7e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d550b8c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:12:58</sys_updated_on>
+<table/>
+<target_name>AdarshDevops</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>da5dd2fc4fb9c0505945082d4e0a6b09</update_guid>
+<update_guid_history>da5dd2fc4fb9c0505945082d4e0a6b09:1348527926</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
