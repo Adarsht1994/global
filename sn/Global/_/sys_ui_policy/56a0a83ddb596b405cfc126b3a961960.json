@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "conditions": "sys_class_name!=rm_defect^sys_class_name!=rm_sprint^sys_class_name!=rm_epic^sys_class_name!=rm_story^sys_class_name!=rm_release_scrum^EQ",
+  "description": null,
+  "global": true,
+  "inherit": true,
+  "isolate_script": false,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": false,
+  "script_false": {
+    "____see": "sn\\Global\\UI Policy\\task\\active_true\\Hide Member's firm in the form\\script_false.js"
+  },
+  "script_true": {
+    "____see": "sn\\Global\\UI Policy\\task\\active_true\\Hide Member's firm in the form\\script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Hide Member's firm in the form",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "ABALLI",
+  "sys_created_on": "2018-10-22 10:47:21",
+  "sys_id": "56a0a83ddb596b405cfc126b3a961960",
+  "sys_mod_count": 37,
+  "sys_name": "Hide Member's firm in the form",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_policy_56a0a83ddb596b405cfc126b3a961960",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-12 06:32:09",
+  "table": "task",
+  "u_roles": null,
+  "ui_type": 0,
+  "view": null
+}

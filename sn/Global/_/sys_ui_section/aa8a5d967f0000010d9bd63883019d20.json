@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "rm_release_scrum",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "jerrod.maint",
+  "sys_created_on": "2010-08-25 18:37:28",
+  "sys_id": "aa8a5d967f0000010d9bd63883019d20",
+  "sys_mod_count": 0,
+  "sys_name": "rm_release_scrum",
+  "sys_package": "ff689b521bae770000584225bd4bcbd6",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_aa8a5d967f0000010d9bd63883019d20",
+  "sys_updated_by": "jerrod.maint",
+  "sys_updated_on": "2010-08-25 18:37:28",
+  "title": false,
+  "view": "89f580ed1beaf300059a65b82d4bcb88",
+  "view_name": null
+}

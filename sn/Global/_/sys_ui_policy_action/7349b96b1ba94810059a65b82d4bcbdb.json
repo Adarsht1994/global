@@ -1,0 +1,21 @@
+{
+  "cleared": false,
+  "disabled": "ignore",
+  "field": "u_member_firm",
+  "mandatory": "ignore",
+  "sys_class_name": "sys_ui_policy_action",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-12 06:21:42",
+  "sys_id": "7349b96b1ba94810059a65b82d4bcbdb",
+  "sys_mod_count": 0,
+  "sys_name": "u_member_firm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_policy_action_7349b96b1ba94810059a65b82d4bcbdb",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-12 06:21:42",
+  "table": "rm_release_scrum",
+  "ui_policy": "5ee8392b1ba94810059a65b82d4bcbf6",
+  "visible": false
+}

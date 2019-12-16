@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "active",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Release Member's Firm ",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\rm_release_scrum\\active_true\\Release Member's Firm .js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2019-12-11 13:28:35",
+  "sys_id": "a111961b1b210810059a65b82d4bcbbf",
+  "sys_mod_count": 1,
+  "sys_name": "Release Member's Firm ",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_a111961b1b210810059a65b82d4bcbbf",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2019-12-12 06:34:32",
+  "table": "rm_release_scrum",
+  "type": "onLoad",
+  "ui_type": 0,
+  "view": null
+}

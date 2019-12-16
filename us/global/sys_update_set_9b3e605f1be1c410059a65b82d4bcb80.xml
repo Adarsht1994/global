@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-16 06:56:07">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Seggregaion of new items </description>
+<inserted/>
+<name>SSJ_Agile_2.0_New_item_V4</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>9b3e605f1be1c410059a65b82d4bcb80</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>2f97e2f01bbd805000584225bd4bcb33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_8752b3717f0000015c7a63dc065c061a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="8752b3717f0000015c7a63dc065c061a" sys_domain="global" table="rm_release" version="3" view="release"><sys_ui_element action="INSERT_OR_UPDATE"><element>process_flow.xml</element><position>0</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>c1e942db1bedc410059a65b82d4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Process flow">69c6332a7f0000017ae073a70e7500ad</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>89e942db1bedc410059a65b82d4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>2</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>0de942db1bedc410059a65b82d4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>3</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>8de942db1bedc410059a65b82d4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_s_firm</element><position>4</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>01e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>5</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>81e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>05e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>7</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>85e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>8</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>09e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>9</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>89e942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>10</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>0de942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>11</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>8de942db1bedc410059a65b82d4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>12</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>01e942db1bedc410059a65b82d4bcb85</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>13</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>81e942db1bedc410059a65b82d4bcb85</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_firm</element><position>14</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 12:55:21</sys_created_on><sys_id>c5e942db1bedc410059a65b82d4bcb85</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release" sys_domain="global" view="7964a48b0a0a0b8c0018cc6ffa3afe49">8752b3717f0000015c7a63dc065c061a</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 12:55:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>rm_release</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>jerrod.maint</sys_created_by><sys_created_on>2010-08-18 22:29:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8752b3717f0000015c7a63dc065c061a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>rm_release</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Release Management" source="com.snc.release_management_v2">f7689b521bae770000584225bd4bcbd7</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_8752b3717f0000015c7a63dc065c061a</sys_update_name><sys_updated_by>jerrod.maint</sys_updated_by><sys_updated_on>2010-08-18 22:29:58</sys_updated_on><sys_user/><title>false</title><view display_value="Release" name="release">7964a48b0a0a0b8c0018cc6ffa3afe49</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>790348986</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>2397e2f01bbd805000584225bd4bcb36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef5073a540000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_release</table>
+<target_name>Release</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>89e942db2dedc4101e9afc2ff2b02287</update_guid>
+<update_guid_history>89e942db2dedc4101e9afc2ff2b02287:790348986,c9e942db24edc4102998694845182e7e:362641052</update_guid_history>
+<update_set display_value=""/>
+<view>release</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_f61f50961bcc0010059a65b82d4bcb67</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message&gt;&lt;![CDATA[&lt;p&gt;hiii&lt;/p&gt;]]&gt;&lt;/message&gt;&lt;name&gt;Sync - Member Firm &amp;amp; Member's Firm &lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+
+    var mf = current.u_member_s_firm.getDisplayValue();
+    //	gs.addInfoMessage(mf);
+    var gr = new GlideRecord("u_member_firm");
+    gr.addQuery("u_member_firm", mf);
+    gr.query();
+    if (gr.next()) {
+        	//gs.addInfoMessage('inside if loop' );
+		
+        current.u_member_firm = gr.sys_id;
+		var gf = current.u_member_firm ;
+		//gs.addInfoMessage(gf);
+    }
+
+
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-24 13:00:42&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f61f50961bcc0010059a65b82d4bcb67&lt;/sys_id&gt;&lt;sys_mod_count&gt;43&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sync - Member Firm &amp;amp; Member's Firm &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_f61f50961bcc0010059a65b82d4bcb67&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:55:24&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f61f50961bcc0010059a65b82d4bcb67"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-959520755</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>2797e2f01bbd805000584225bd4bcb35</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d7d7a4d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>task</table>
+<target_name>Sync - Member Firm &amp; Member's Firm </target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>c1772e70057dc050426838c215c85662</update_guid>
+<update_guid_history>c1772e70057dc050426838c215c85662:-959520755,894e6eeb58258810097d6326ed3f51e8:-1907210931,79fd6eab65258810fabf8b91a27ee7cd:-2084716166,6904ae27a3e18810005e256de10f6b76:-1907210931,bb726eefd5a1881017ac3b70927aca73:1039167596,f0b1ee6f2ea18810fa380a60300db665:514991185,3ab338930425c410a2a65a3eed6c1d3d:-1131207727,14ea45032fe944101087895ed6fd6e2b:1574947665,19e401870ea94410870c3cc494fd649b:591455550,ccf2872e99e58010e0704b8bf0b55391:-1693043610,e8d24b6e56e58010331c666d91cbbade:-2116238055,864c6eee10e180109ee4826e2b0ea4a3:-1693043610,00f9226626e180102f2e0c918eb4dbec:-134851674,9e15eaa6e16180101c68927ed4275b42:-42901509,cc1a1cfdf7290094ee5d06936aa5c745:541907214,d10ad431666900949a3175a9eb9ea0d0:197785197,9149587d6c2900946208439210f4cbfd:1304182651,8d68d07d9f2900949f1c5a67dc7dff00:429734702,f973d8358b29009412091559013b914c:1304182651,3a7210716b290094f7fe3f59908f8937:-29295685,6e615c317a290094666e18ec54ded92a:277225120,ac9f847d11e50094b4de0a7982c5da91:1454786536,0f1d403911e5009442ee1fdf93759b35:1972022963,b3bc40f520e500948fb9b599fa4aee0e:1133171700,96ac8cb54ee5009424c46a5b6d332752:-1974572708,508c4cb5dde50094cfc3586aae5cf02a:-2134430208,4f4c0cb5a0e500946244ecbe746721ee:-893643199,df3c88b500e500943060d0635852b24f:-1277924064,043c08b557e50094031d86e7354b93e6:1703796499,96ebccf1f4e50094d6f0673abb09d1af:-1113132320,43db4c75b7e50094d97198d559a7a533:-1518644175,60ba4cb15fe5009445a6c0639be0dd35:-1675327251,740a4871dce500941bd7ac951ef884fd:-1548281828,d0b2ff29ea250094e85ce9f33b975d16:-1181167663,6ae05b29742100946acd3e46292d239e:-1895924753,3a709f2d6f210094f2d015ce058e8a9e:-429611543,47fe472959210094707ac2b48f31ed81:-624317542,75be4f25ca21009407f08af77c3f5278:1860505641,205acf6991edcc541ed734340a9cea03:792963878,8a86c3a1e8edcc549e119de45cf56cd4:-1919591019,9a420be90eadcc54a228c4e8e8519800:1778469308,003f9f1d3da58c54f818ad691c27240c:1192283668,1b8fdc96a6cc00105c9bfc85f4f0ccfb:-85047575,7a1f5096d2cc00102910d164d219d46a:320389116</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_980b3809dbb3e70005d2147a3a961919</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;rm_story&lt;/collection&gt;&lt;condition&gt;current.isNewRecord() || !(gs.hasRole('admin'))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Set MF for Story&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	current.u_member_firm = current.opened_by.u_member_firm;
+	current.u_member_s_firm = current.opened_by.u_member_firm.getDisplayValue();
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admritwij&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-21 11:23:19&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;980b3809dbb3e70005d2147a3a961919&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set MF for Story&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_980b3809dbb3e70005d2147a3a961919&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:53:54&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=980b3809dbb3e70005d2147a3a961919"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1279871048</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>2b97e2f01bbd805000584225bd4bcb34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d7c18600000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_story</table>
+<target_name>Set MF for Story</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>c7172afc9b3dc050fcd6f56606706c39</update_guid>
+<update_guid_history>c7172afc9b3dc050fcd6f56606706c39:-1279871048,180b3809b3b3e70002da23850616df1c:1285346729</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_4555941d0fc9eb001ef9f55be1050e28</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition&gt;!gs.hasRole('admin') &amp;amp;&amp;amp; !gs.hasRole('coe_scrum') &amp;amp;&amp;amp; !gs.hasRole("coe genesis")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;member firm List&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	var ttype = current.getTableName();
+	if(ttype!='chat_queue_entry'){
+	var user = new GlideRecord('sys_user');
+	user.addActiveQuery();
+	user.addQuery('sys_id', gs.getUserID());
+	user.query();
+	if(user.next()){
+		var loggedInUser= gs.getUserID();
+		//var loc = user.u_member_firm;
+		/*var qc = current.addEncodedQuery('u_member_firmISNOTEMPTY^u_member_firm='+loc+'^ORopened_by'+user+'^ORwatch_listDYNAMIC'+user);*/
+		var loc = user.u_member_firm.getDisplayValue();
+		var memberFirm=user.u_member_firm;
+		
+		//var qc = current.addEncodedQuery('u_member_s_firm='+loc);
+		
+		
+			if(!gs.hasRole('x_detc_itsm_global.itil_global_std'))
+				{
+					if(!gs.hasRole('coe_scrum_team_member'))
+						{
+				var qc = current.addEncodedQuery('u_member_firmISNOTEMPTY^u_member_s_firm='+loc+'^ORopened_by='+loggedInUser+'^ORwatch_list='+loggedInUser+'^ORu_raised_for_mf='+memberFirm);
+						//	gs.addInfoMessage(qc);
+						}
+					else
+						{
+							
+						}
+					
+			}
+			else
+				{
+				 var qc = current.addEncodedQuery('u_member_s_firm=COE - Admin');
+			}
+
+		}
+	
+	}
+	
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;bavinash&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-10-08 10:25:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4555941d0fc9eb001ef9f55be1050e28&lt;/sys_id&gt;&lt;sys_mod_count&gt;83&lt;/sys_mod_count&gt;&lt;sys_name&gt;member firm List&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_4555941d0fc9eb001ef9f55be1050e28&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:47:15&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4555941d0fc9eb001ef9f55be1050e28"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1925780899</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>6397e2f01bbd805000584225bd4bcb34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d7603630000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>task</table>
+<target_name>member firm List</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>bd95667cf43dc050561342fe8296c1be</update_guid>
+<update_guid_history>bd95667cf43dc050561342fe8296c1be:-1925780899,c1d426b84a3dc050f4de8346173caf2c:1521848445,1c77662f32e18810d5bc5560daaff961:-968355700,7c3722eb51e188102aa9634bbfc0a582:1370583835,299ee37efa2d0410e5339504030b687b:-968355700,876cab3ad12d041006861e1bb594c8d6:-1315680667,076687e62729801042f551ffd80bd70b:1353806228,b0710faa4de580101287352578542618:-528246982,2e018f6a50e580101581db7752c187d8:161042731,4336e26adb6180107022137c7b7bff14:1544152245,3e45aee6d26180107cc921f14e87f0d7:1893374012,2c14aaa257618010bf3d37ba6d6bf9bf:161042731,ea5322ae42218010f3c9a8d7926f0b15:-528246982,a085e435aea90094cfc032530819fea5:-940151104,3263ac3195a90094a94aae92ca170ce6:-528246982,bb5e5039b86900944b1d310dd692d0a5:1852324243,ceba37a5d60f2f40afbc16be0a2d81db:1979939982,f66a77a5460f2f4009cab6d470951f46:-729047558,e4a9f7653d0f2f404b6ef0c81666869a:-705066342,96d83b25e20f2f40aaffdbd6b932f43d:1766874778,fba7636ddf8b2f40c0216db3913fe2d4:-1968596934,d2376b2d848b2f40f84e77b62821c8af:-592323971,0bd623a93b8b2f40228a1bd6c982af34:602123353,dab6af69378b2f400c9d91cd9d327009:298119644,bbe5af29b88b2f40375267cf7176e98a:-2076343614,77a5eb29088b2f402dacfaf5860e0c3c:1404775088,23356329aa8b2f407f874c089f7568f4:-2076343614,f2e02fe1718b2f408c3ac63e3d60cc8c:-1341393953,50ebdfadc34b2f40e187f490407d02ab:993729543,3c0f031d93872b40abaad0b6b3ab9a2d:1546257942,bd0e4b196b872b407e341261712bc58a:-673428397,9b5d4bd589872b40b9c4e12efe042300:-2076343614,13030a8db40fab40feb090a7674751dd:-1513452789,4552c28d290fab40b3a8c4f4586a1362:1459249005,28def9893d0fab4060cb366d67846f1b:-1513452789,332eb549470fab40695641deb26e481f:-1761202788,a22bf145660fab40d0458e22639ae55e:1459249005,f3316df6f03227404dd669f09d6a4bd5:298119644,27a64bf07a322f00eb3c321dbba9e6f9:1459249005,f958667c6ebeeb00d1eb501a01aee033:298119644,fdf52a7836beeb00b483c954c5f2b365:96688487,da2cbc386ff5230029851a9362df4079:-472277211,59f595e0773123004ce4e61adc6a7165:-108113891,714599a0c4312300319e4990d3c582ed:1985130286,bcc61c64b3316700bf9240126a71ea16:1366261879,f0c61c64cd3167002472c06b19908a15:1366261879,c4f2bdd81f29ef4086df33be64ddea46:-720493123,3a10b9d42229ef4015e7a261e6db9e51:556318284,6b9fa5d4d829ef40d527426833a02b5d:-1851640719,144ee194ad29ef407d4900e15e5d0016:1454041246,ce5ca5146e29ef40810caab02fbe3237:348255305,c56719d0e8e5ef408022f4f6bc817dbb:593283912,e9a49d5018e5ef408904d718c6cc073d:-178141087,3834d510ace5ef400ea4016a7cac9460:593283912,15e2155cb365ef40d27bd492b2d1fdc2:-396642229,21aff85c7de1ef402f9b77d391729ee0:-163984294,eadcd6707ebd63003e87f522bf65deee:-214270318,959cd27080bd63004759d312e4cb2c4d:-1665631873,80e7b61ac151eb40eaff3573f3d4906b:-214270318,7a079e46f1d5ab407aea86ae47ba2283:987955239,e0e616461bd5ab4006efb81b48ae96d6:-884660344,e4a6d24673d5ab4092a918c0de4fa791:-653868312,8d765246b7d5ab408b8eb23b9a99a420:-1136431341,0a16de8267d5ab408eee316695f2d152:1842938363,317296826bd5ab401ec4404cab0013e9:435607702,630c51c6f915ab4000f4e5f4647f33d6:1868650141,a9625ec20f952700020eabfefa7dc3c3:435607702,6e5c024e6e95ab405abb7a520fa6f059:-65110809,b4f30a864b95ab404b0b42448995efc5:-413019503,dcb202824395ab40056f3920848ba6a9:-1411807147,630c51c6f915ab4000f4e5f4647f33d6:1868650141,45d5450253152340d237522117da89f5:1752832910,1e5585020f1523405c10aa678db77535:-581849075,ad350502701523408b7834bb485f020c:-1822400738,b753858eced12340a2fffb7bb350d8ab:-581849075,d76b343125d96b406e0ba6b92799cecd:-1594948820,52d4d47dd4196b40c0cb3f875e9338f7:51409595,2acd8cf58659ef000b87b883faab5b30:-232999543,037d0875d3196b4018dbd6da02165fe3:-1938103217,da4dc47598196b406ed9354234f49875:-1672680590,031d8475af196b407686a1ef410aa635:-172983188,920dc075ba196b4076950f7efe0cda01:484338229,dcec4c3525196b4059d7bdcec8c2f4f2:1277733182,677c4835a0196b40f7979bb12bd282b9:1272386503,da1cc4f12a196b4065b5d30a36b51845:-795355249,b8aa84b176196b40e18daf39c2ce9d9b:-1558711851,0b8904f14d59ef00f729158dd8218e26:950800733,765814abce8d6b00aab3051f479dc8aa:-810584349,c0d45c27348d6b00ac21463a07d6ab04:151697114,86e310e3598d6b00710ca93b41bb2170:-810584349,07f59c1db9c9eb00baabc237c848b508:948173246,3eb5581d2ec9eb0027e7153072072b4d:712909613,0795d41d6fc9eb006f01a7bd00cdebb0:948173246,a975541d42c9eb00399a2c86c0830a14:712909613</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_a111961b1b210810059a65b82d4bcbbf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Release Member's Firm &lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+    
+    if(g_form.isNewRecord())
+        {
+        
+        var mf = new GlideAjax('getUserMemberFirm');
+        mf.addParam('sysparm_name', 'userMemberFirm');
+        mf.getXML(memberfirm);
+        
+    }
+}
+function memberfirm(response) {
+            var answer = response.responseXML.documentElement.getAttribute("answer");
+
+            g_form.setValue('u_member_s_firm', answer);
+//	alert("Hiii"+answer);
+	
+        }]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-11 13:28:35&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a111961b1b210810059a65b82d4bcbbf&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Release Member's Firm &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_a111961b1b210810059a65b82d4bcbbf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 06:34:32&lt;/sys_updated_on&gt;&lt;table&gt;rm_release_scrum&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1455639374</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>6397e2f01bbd805000584225bd4bcb35</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef8d0ef050000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_release_scrum</table>
+<target_name>Release Member's Firm </target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>645cbd2358e948106f2fcbb6dc48f6e0</update_guid>
+<update_guid_history>645cbd2358e948106f2fcbb6dc48f6e0:1455639374,4881525fad2108105adfd719898d91ec:-1413687405</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_7349b96b1ba94810059a65b82d4bcbdb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_member_firm</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 06:21:42</sys_created_on><sys_id>7349b96b1ba94810059a65b82d4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_member_firm</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_policy_action_7349b96b1ba94810059a65b82d4bcbdb</sys_update_name><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 06:21:42</sys_updated_on><table>rm_release_scrum</table><ui_policy display_value="Hiding of Member firm in Scrum Release form">5ee8392b1ba94810059a65b82d4bcbf6</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>-1983147783</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>6f97e2f01bbd805000584225bd4bcb35</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef8c530b50000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_release_scrum</table>
+<target_name>u_member_firm</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>a0693d6b44a94810fc4a4bfc32316cf2</update_guid>
+<update_guid_history>a0693d6b44a94810fc4a4bfc32316cf2:-1983147783</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_aa8a5d967f0000010d9bd63883019d20</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="aa8a5d967f0000010d9bd63883019d20" sys_domain="global" table="rm_release_scrum" version="3" view="scrum"><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>4e5cb1131badc410059a65b82d4bcba2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>c25cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>2</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>465cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>points</element><position>3</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>c65cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_s_firm</element><position>4</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>4a5cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>release_capacity</element><position>5</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>ca5cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>4e5cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>start_date</element><position>7</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>ce5cb1131badc410059a65b82d4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>end_date</element><position>8</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>425cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>9</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>d25cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>565cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>11</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>d65cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>12</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>5a5cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>13</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>da5cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>14</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>5e5cb1131badc410059a65b82d4bcba4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_firm</element><position>15</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-11 11:56:10</sys_created_on><sys_id>925cb1131badc410059a65b82d4bcba5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_release_scrum" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">aa8a5d967f0000010d9bd63883019d20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-11 11:56:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>rm_release_scrum</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>jerrod.maint</sys_created_by><sys_created_on>2010-08-25 18:37:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aa8a5d967f0000010d9bd63883019d20</sys_id><sys_mod_count>0</sys_mod_count><sys_name>rm_release_scrum</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="SDLC - SCRUM" source="com.snc.sdlc.scrum">ff689b521bae770000584225bd4bcbd6</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_aa8a5d967f0000010d9bd63883019d20</sys_update_name><sys_updated_by>jerrod.maint</sys_updated_by><sys_updated_on>2010-08-25 18:37:28</sys_updated_on><sys_user/><title>false</title><view display_value="Scrum" name="scrum">89f580ed1beaf300059a65b82d4bcb88</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>869838566</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>a797e2f01bbd805000584225bd4bcb36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef4d10ae70000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_release_scrum</table>
+<target_name>Scrum release</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>125c7913feadc41026332a618a0757d8</update_guid>
+<update_guid_history>125c7913feadc41026332a618a0757d8:869838566,465cb113eaadc4104d20d3f0e2beea9e:736549205</update_guid_history>
+<update_set display_value=""/>
+<view>scrum</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_5ee8392b1ba94810059a65b82d4bcbf6</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hiding of Member firm in Scrum Release form&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-12 06:20:50&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5ee8392b1ba94810059a65b82d4bcbf6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hiding of Member firm in Scrum Release form&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_5ee8392b1ba94810059a65b82d4bcbf6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 06:20:50&lt;/sys_updated_on&gt;&lt;table&gt;rm_release_scrum&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>288780678</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>ab97e2f01bbd805000584225bd4bcb35</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef8c462fa0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_release_scrum</table>
+<target_name>Hiding of Member firm in Scrum Release form</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>bf29bd2b3aa94810f70b872e63bb0d17</update_guid>
+<update_guid_history>bf29bd2b3aa94810f70b872e63bb0d17:288780678</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_51ae1d871b6d4410059a65b82d4bcbcc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;acceptance_criteria&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Story Member's Firm &lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+    
+    if(g_form.isNewRecord())
+        {
+        
+        var mf = new GlideAjax('getUserMemberFirm');
+        mf.addParam('sysparm_name', 'userMemberFirm');
+        mf.getXML(memberfirm);
+        
+    }
+}
+function memberfirm(response) {
+            var answer = response.responseXML.documentElement.getAttribute("answer");
+
+            g_form.setValue('u_member_s_firm', answer);
+//	alert("Hiii"+answer);
+	
+        }]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-10 15:08:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51ae1d871b6d4410059a65b82d4bcbcc&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Story Member's Firm &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_51ae1d871b6d4410059a65b82d4bcbcc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:41:11&lt;/sys_updated_on&gt;&lt;table&gt;rm_story&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1755733078</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>af97e2f01bbd805000584225bd4bcb34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d7074bb0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_story</table>
+<target_name>Story Member's Firm </target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>b0342238b73dc05017412b62ea62ea27</update_guid>
+<update_guid_history>b0342238b73dc05017412b62ea62ea27:1755733078,79042e74d23dc05066d28eeb947f3307:-1457158295,34d02ea722a18810676ca09ea4ea178a:1755733078,2160e2eb53a18810b1eb62e2fb065020:1318194614,10ceddc7a26d44104568af25be3e0f28:-126955464</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_8757b94d7f0000011c1ae8aa30062c20</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="8757b94d7f0000011c1ae8aa30062c20" sys_domain="global" table="rm_story" version="3" view="scrum"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>954826af1be18810059a65b82d4bcb91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>product</element><position>1</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>9d4826af1be18810059a65b82d4bcb91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>theme</element><position>2</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>114826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>release</element><position>3</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>914826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>epic</element><position>4</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>154826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>954826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_test_completion</element><position>6</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>194826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>7</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>994826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>8</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>1d4826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>9</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>9d4826af1be18810059a65b82d4bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sprint</element><position>10</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>114826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>11</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>914826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_firm</element><position>12</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>154826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_s_firm</element><position>13</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>954826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>14</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>194826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>story_points</element><position>15</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>994826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>16</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>1d4826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>17</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>9d4826af1be18810059a65b82d4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>blocked</element><position>18</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>114826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>classification</element><position>19</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>914826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>20</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>154826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>21</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>954826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>22</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>194826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>acceptance_criteria</element><position>23</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>994826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>team</element><position>24</position><sys_created_by>admsherine</sys_created_by><sys_created_on>2019-12-12 09:46:33</sys_created_on><sys_id>1d4826af1be18810059a65b82d4bcb94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="rm_story" sys_domain="global" view="89f580ed1beaf300059a65b82d4bcb88">8757b94d7f0000011c1ae8aa30062c20</sys_ui_section><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2019-12-12 09:46:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>rm_story</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2011-08-01 15:33:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8757b94d7f0000011c1ae8aa30062c20</sys_id><sys_mod_count>1</sys_mod_count><sys_name>rm_story</sys_name><sys_overrides/><sys_package display_value="SDLC Scrum PPM Integration" source="com.snc.sdlc.scrum.ppm_int">bda897d21bae770000584225bd4bcb95</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_8757b94d7f0000011c1ae8aa30062c20</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-07-09 07:57:16</sys_updated_on><sys_user/><title>false</title><view display_value="Scrum" name="scrum">89f580ed1beaf300059a65b82d4bcb88</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1925313057</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>e397e2f01bbd805000584225bd4bcb36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef980bbbf0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>rm_story</table>
+<target_name>Story</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>554826afcfe188108ff8d248969db397</update_guid>
+<update_guid_history>554826afcfe188108ff8d248969db397:1925313057,2c4d55474a6d44106f683561a699c319:1925313057,88690bc08b9c4c109ec30c16f964d5d8:1653843666,c4394780239c4c10961a59e1a1f26893:87411974,0cb6838473540c10fce6ed8e1a921b78:399731952,6725cbc091540c1039137f0da7aec8e6:-305423285,d244c3809f540c10264ca44d079dd9e9:2093488749,c0f76a8495900c10dbe8eb9933064ff4:-305423285,fefc5b794e88405083879e8d2a70af3f:-1217982279,3e3c1f39b3884050685d5fa83a2189dd:1513361409,f7eadbf50088405012774cec2032b17b:-1547099566,bfeadbf520884050e15d9e1e4e1bd670:-1802091746</update_guid_history>
+<update_set display_value=""/>
+<view>scrum</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_56a0a83ddb596b405cfc126b3a961960</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="task"&gt;sys_class_name!=rm_defect^sys_class_name!=rm_sprint^sys_class_name!=rm_epic^sys_class_name!=rm_story^sys_class_name!=rm_release_scrum^EQ&lt;item display_value="Defect" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_defect"/&gt;&lt;item display_value="Sprint" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_sprint"/&gt;&lt;item display_value="Epic" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_epic"/&gt;&lt;item display_value="Story" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_story"/&gt;&lt;item display_value="Scrum release" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_release_scrum"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;true&lt;/inherit&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hide Member's firm in the form&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ABALLI&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-10-22 10:47:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;56a0a83ddb596b405cfc126b3a961960&lt;/sys_id&gt;&lt;sys_mod_count&gt;37&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide Member's firm in the form&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_56a0a83ddb596b405cfc126b3a961960&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 06:32:09&lt;/sys_updated_on&gt;&lt;table&gt;task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>74330434</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>e797e2f01bbd805000584225bd4bcb35</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef8cebf320000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>task</table>
+<target_name>Hide Member's firm in the form</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>2dcbb9ef66a94810845da1640028f3d7</update_guid>
+<update_guid_history>2dcbb9ef66a94810845da1640028f3d7:74330434,4bb8f52bf6a9481020dc21737cfac9e8:-1613794277,f0b9069b9aedc4101792ab43f3630c38:-1974946052,7b5d19472b6d4410c9a3eda93b579e60:-1613794277,556cd583bb6d44102f4154d4dc3fb05f:1846923374,3b0c9183d96d441048f6f8f1a802c178:1640243715,989ad9cfe62d44105cd49c899f2fa70e:1846923374,89e7158bd22d441032efc5678d53e763:-329387616,84561d87cb2d441008a2a3b539f3abfa:-494169717,31803ce8cb508c10571512feeaef75b8:-428182304,7810b4e8f9508c10e0b5ec1a9b0ab7e2:-705325344,b00074e8fb508c10c27530d76dbd843a:741094172,9a6f2c2871508c100624b41178affe74:-1924924715,471fe868b9508c109a5ab05c7ae19605:-1349993260,660f60a801508c10ad8020ca2b686b1d:-1820059861,0a9ee4685e508c10373fde2fb8bb4267:2077784478,7fdd6ce425508c10a455115f33f50e0a:-623788021,929caca4c7508c10f585adc513521db7:-764552023,8a8c60a4b7508c10fe3d235aabb73d55:-1957978474,f588e34714840810b317c7201d3169c7:-348433109,23878747e8c00810d1961fb1f91dd9b5:-1957978474,7fd2b9ae5944c010bc5f08945b593fcc:-750955322,96327dae2e44c0108df231ae76dd9e0c:-764552023,cae1f1ae0044c010c92eaa5fdfed8262:1128619811,2e29c2c6436ba7c0b87a43d1f7dcaacf:-1888474007,13ebd7577d57ab80e404c0946c02cdde:-1888474007,7dba17170257ab80f217b99cad60b4ee:2113554740,ab4d2cf45a222700114987e31feac2cd:-1888474007,afaca0f41922270054d29c3b88c56e46:2113554740,85152cf717d22f00902c31e270269142:-1888474007,26d4acf7d9d22f005724b591aedd697d:2113554740,86cfa916914e2f00fedee9a84b3bb792:-1888474007,3e4f61164b4e2f00b65284cfdc21082c:-1648720543,036c4a8d57f163008126def1965f24a9:-625022083,80aa06c9cbf16300789e8ebd1b292eb6:-753653624,fa10c69a479dab40246cb0612d896b15:-523535709,435dbdd6209dab403ad5bc283bf62621:1718385006,6c712a3485bd63000a965f253a32063a:-523535709,2e3cde3099bd6300a891ccb573c67a9c:1718385006,09a28e70b7fdab009bd099a9a4e4619b:-523535709,bbe1c2303bfdab00caa960656336c46b:1718385006,d021ec3d52596b4094abb5aa2c7eb10e:-523535709,84d0e83d25596b40d02c4be1b49821d7:1177737552</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_b43e7d261bc4c010059a65b82d4bcbae</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition&gt;current.isNewRecord() || !(gs.hasRole('admin'))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="task"&gt;sys_class_name!=rm_defect^sys_class_name!=rm_sprint^sys_class_name!=rm_release_scrum^sys_class_name!=rm_epic^sys_class_name!=rm_story^EQ&lt;item display_value="Defect" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_defect"/&gt;&lt;item display_value="Sprint" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_sprint"/&gt;&lt;item display_value="Scrum release" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_release_scrum"/&gt;&lt;item display_value="Epic" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_epic"/&gt;&lt;item display_value="Story" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_story"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Member Firm Field Value&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	//var gf = current.addEncodedQuery('sys_class_name!=rm_defect^sys_class_name!=rm_epic^sys_class_name!=rm_sprint');
+	// Add your code here
+	//if(gf)
+	
+if(current.assignment_group!='423a978f373207004d0e83dcb3990ed7') // COE support group
+	{
+	current.u_member_firm = current.opened_by.u_member_firm;
+		current.u_member_s_firm = current.opened_by.u_member_firm.getDisplayValue();
+	//gs.addInfoMessage('inside');
+	}
+	
+	else
+		{
+			current.u_member_firm='0ad5349adb5e63c06d0b18df4b9619f6';
+			current.u_member_s_firm='COE - Admin';
+		}
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-25 14:34:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b43e7d261bc4c010059a65b82d4bcbae&lt;/sys_id&gt;&lt;sys_mod_count&gt;35&lt;/sys_mod_count&gt;&lt;sys_name&gt;Member Firm Field Value&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_b43e7d261bc4c010059a65b82d4bcbae&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 06:54:42&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b43e7d261bc4c010059a65b82d4bcbae"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1756688627</payload_hash>
+<remote_update_set display_value="SSJ_Agile_2.0_New_item_V4">2f97e2f01bbd805000584225bd4bcb33</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 06:56:07</sys_created_on>
+<sys_id>eb97e2f01bbd805000584225bd4bcb34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0d7cd6e70000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 06:56:07</sys_updated_on>
+<table>task</table>
+<target_name>Member Firm Field Value</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>8f472670ee7dc0506b81a5d448c32812</update_guid>
+<update_guid_history>8f472670ee7dc0506b81a5d448c32812:-1756688627,50272670fe7dc0500db79e82c7f43a0b:1225284556,eff562fc2d3dc050c5f375e747946a5a:-1819744867,54b822ef1de18810a37a0cdcdf79b743:739029681,e927222ff2e18810bbf8740d0c25b36c:1479217733,70e6eaeb72e18810d89aef359890aa02:-517691562,c02326e35ae1881005d0e762db6d08e8:1479217733,8fa1e6aff5a188107b458cfe5939de3c:1592837349,141e126776a18810be64274271575bb6:-86712191,7dedda6725a18810f95afeda46eca464:-721618606,afcd16677ca18810fc4f5a249c988c95:-86712191,6d7d5a67bca18810763c08dea48cc52e:-721618606,81621223a8618810718fc9478b745fb1:-86712191,a7a11a6fc921881022c098608b8cfb05:-649158340,c4567de38aa948105cc8445f239cfa37:-595195134,f2a0425b90adc410bbc1ab953e88bd82:-1361282909,d78fd14bdd6d44101a7605f9b8eff630:249284266,a976cfe6e3298010b678767b6bff3832:487150741,ac61c32aafe5801048bc9ffe6e3dcff5:1614800469,8e1103aa16e58010884f27d4bc430173:1944258142,9e37e26e0e618010b99be1b6d17bb5e3:-272613126,53752ae6216180105dcf9a6f19d741b1:-132231415,bb45222a3f61801018eaa01f447ffeef:-272613126,17042622106180100b600f1267a22ed3:1944258142,488366aea6218010cf35e79a95b049d3:1614800469,ff95a8352aa900945df344e36ef78da7:-1946350370,020e98b5ee690094d5ec89b860a8fd05:1340824138,3e8d1cb5b3690094b39a57d44cb830b6:-673439889,991c90357269009491151f3f575da3f5:-1946350370,f68ad831cf6900945e01dc17699314bb:851146451,9d339cf163290094d285c88f6d41fdf3:-1946350370,109e4f25b9210094e44d7adf1fd4b483:851146451,4ddb43edcfedcc54fa3951e5439c8276:-673439889,a3ca87e9baedcc54ec7b3c9bc03b5a8c:1510046974,6a378c0aa1c5c89057ab48f8a10743bc:-673439889,8b069fe125c9c890f3c32aa5051140a1:-395076513,2705176158c9c8904f8ad4231157765a:389371799,915e79263748c010acd9ed035b79ad31:-673439889,f03e7d26a3c4c010794791de98ff45b3:-85047575</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
