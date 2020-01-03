@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": "new Fix script",
+  "flush_cache": false,
+  "name": "newFixScript10",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\newFixScript10.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-01-03 06:15:50",
+  "sys_id": "6dea4be61b8e88d000584225bd4bcbcf",
+  "sys_mod_count": 0,
+  "sys_name": "newFixScript10",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_6dea4be61b8e88d000584225bd4bcbcf",
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-01-03 06:15:50",
+  "unloadable": false
+}
