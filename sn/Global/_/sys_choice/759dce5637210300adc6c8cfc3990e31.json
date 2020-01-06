@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "1 - Critical",
+  "language": "en",
+  "name": "task",
+  "sequence": 1,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-10-04 01:52:58",
+  "sys_id": "759dce5637210300adc6c8cfc3990e31",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-10-04 01:52:58",
+  "value": 1
+}
