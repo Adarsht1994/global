@@ -1,0 +1,21 @@
+{
+  "activity": "898916271b868414059a65b82d4bcb54",
+  "condition": "activity.result == 'approved' || activity.result == 'skipped'",
+  "condition_default": "586cdc4c0a0a0b5c00888cdfcb07778b",
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": null,
+  "is_positive": true,
+  "name": "Approved",
+  "order": 1,
+  "short_description": "Approval request was approved",
+  "skip_during_generate": false,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-01-06 05:13:30",
+  "sys_id": "458916271b868414059a65b82d4bcb58",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-01-06 05:13:30"
+}

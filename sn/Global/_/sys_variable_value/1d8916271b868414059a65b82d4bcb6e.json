@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "998916271b868414059a65b82d4bcb6e",
+  "order": 2,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-01-06 05:13:30",
+  "sys_id": "1d8916271b868414059a65b82d4bcb6e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-01-06 05:13:30",
+  "value": "// Set the variable 'answer' to true or false to indicate if the condition has been met or not.\r\nanswer = true;\r\n",
+  "variable": "c35debce0a0a0ba96248a709440cf31a"
+}
