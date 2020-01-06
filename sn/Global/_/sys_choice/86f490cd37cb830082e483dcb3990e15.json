@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "Prioridade - 4",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-13 09:28:08",
+  "sys_id": "86f490cd37cb830082e483dcb3990e15",
+  "sys_mod_count": 1,
+  "sys_updated_by": "msreeja",
+  "sys_updated_on": "2017-12-13 09:44:41",
+  "value": 4
+}
