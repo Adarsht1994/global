@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-06 06:59:39">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>LG_Global_Change_V1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>94604c961bf98c50059a65b82d4bcba5</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>8cd132a31b4a8414059a65b82d4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_control_98683cfe0a00064121d65062c422ee3a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label>Approvers</label><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type/><name>change_request</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>false</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>false</omit_new_button><related_list>sysapproval_approver.sysapproval</related_list><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2011-04-27 19:21:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98683cfe0a00064121d65062c422ee3a</sys_id><sys_mod_count>3</sys_mod_count><sys_name>change_request</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Upgrade content for 2011 - activated only for new instances" source="upgrade.2011_common_practice">b27f7e7d1bf133007456ecadee4bcb56</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_control_98683cfe0a00064121d65062c422ee3a</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:19:33</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+<payload_hash>-1287964095</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>04d132a31b4a8414059a65b82d4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f69d8305e0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>change_request</target_name>
+<type>List Control</type>
+<update_domain>global</update_domain>
+<update_guid>282e722eff0e88d0896d2f3b1bde8f18</update_guid>
+<update_guid_history>282e722eff0e88d0896d2f3b1bde8f18:-1287964095,e8ed3aea4b0e88d0d70d8d92f5f6ec8e:1180501922,60ed3aeac10e88d0b6bcd1141e40638d:-2057526253</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_25581eaedb4ab380fb9541a40596198c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;change_request&lt;/collection&gt;&lt;condition&gt;current.isNewRecord()&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Member Firm Field Value&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	if(current.assignment_group!='423a978f373207004d0e83dcb3990ed7') // COE support group
+		{
+		current.u_member_firm = current.opened_by.u_member_firm;
+		current.u_member_s_firm = current.opened_by.u_member_firm.getDisplayValue();
+	}
+	else
+		{
+		current.u_member_firm='0ad5349adb5e63c06d0b18df4b9619f6';
+		current.u_member_s_firm='COE - Admin';
+	}
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;pkhobragade&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-06-18 06:23:57&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;25581eaedb4ab380fb9541a40596198c&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Member Firm Field Value&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_25581eaedb4ab380fb9541a40596198c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-03 09:18:01&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=25581eaedb4ab380fb9541a40596198c"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1575633338</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>08d132a31b4a8414059a65b82d4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6ab283db0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>Member Firm Field Value</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>f9b437aaacc2c8d07735eda05d4cb92f</update_guid>
+<update_guid_history>f9b437aaacc2c8d07735eda05d4cb92f:-1575633338,4132fb66bcc2c8d008df65da5775041c:-67772037,f76ba3aaa782c8d0528e89e357dfcdd7:1310160804</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_cd591479c0a801640182b9b52e6f070b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="cd591479c0a801640182b9b52e6f070b" sys_domain="global" table="change_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ea31f7661bc2c8d000584225bd4bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6231f7661bc2c8d000584225bd4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requested_by</element><position>2</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e631f7661bc2c8d000584225bd4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>3</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6e31f7661bc2c8d000584225bd4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>4</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e231f7661bc2c8d000584225bd4bcb7b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6a31f7661bc2c8d000584225bd4bcb7b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>risk</element><position>6</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ee31f7661bc2c8d000584225bd4bcb7b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>impact</element><position>7</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6631f7661bc2c8d000584225bd4bcb7c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>8</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ea31f7661bc2c8d000584225bd4bcb7c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>approval</element><position>9</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6231f7661bc2c8d000584225bd4bcb7d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>10</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e631f7661bc2c8d000584225bd4bcb7d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>11</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6e31f7661bc2c8d000584225bd4bcb7d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>on_hold</element><position>12</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e231f7661bc2c8d000584225bd4bcb7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>conflict_status</element><position>13</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6a31f7661bc2c8d000584225bd4bcb7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>conflict_last_run</element><position>14</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ee31f7661bc2c8d000584225bd4bcb7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>15</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6631f7661bc2c8d000584225bd4bcb7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>16</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ea31f7661bc2c8d000584225bd4bcb7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>17</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6231f7661bc2c8d000584225bd4bcb80</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>18</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e631f7661bc2c8d000584225bd4bcb80</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>19</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6e31f7661bc2c8d000584225bd4bcb80</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>on_hold_reason</element><position>20</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e231f7661bc2c8d000584225bd4bcb81</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_post_implementation_testing</element><position>21</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6a31f7661bc2c8d000584225bd4bcb81</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_outage</element><position>22</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ee31f7661bc2c8d000584225bd4bcb81</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_impact_change</element><position>23</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6631f7661bc2c8d000584225bd4bcb82</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_backout</element><position>24</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>ea31f7661bc2c8d000584225bd4bcb82</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_impacted</element><position>25</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6231f7661bc2c8d000584225bd4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_complexity_change</element><position>26</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e631f7661bc2c8d000584225bd4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pir_summary</element><position>27</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6e31f7661bc2c8d000584225bd4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pir_details</element><position>28</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>e231f7661bc2c8d000584225bd4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pir_completed</element><position>29</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 09:02:47</sys_created_on><sys_id>6a31f7661bc2c8d000584225bd4bcb84</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="Default view">cd591479c0a801640182b9b52e6f070b</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 09:02:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>change_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admron</sys_created_by><sys_created_on>2017-11-09 22:36:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd591479c0a801640182b9b52e6f070b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>change_request</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_cd591479c0a801640182b9b52e6f070b</sys_update_name><sys_updated_by>admron</sys_updated_by><sys_updated_on>2017-11-09 22:36:58</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1218055020</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>0cd1bea31b4a8414059a65b82d4bcb3c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6aa491b40000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>Change Request</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>6a31f766e2c2c8d065b4733ae2ad5a87</update_guid>
+<update_guid_history>6a31f766e2c2c8d065b4733ae2ad5a87:1218055020,6c11b3662bc2c8d0ed23c0418df82cde:-782041154,8de84b2cedac8490a5787bdc277a0243:1218055020,c298032c89ac8490f19799c07d8c84d5:-25174468,67784fe891ac849087f9346268997c4a:-1523508222,d7970ba8a9ac8490d59c6108ea982ce9:-1714031989,c67587e4e7ac849074ed49abfb775d55:-1153151196,50130fe0b4ac8490f0765c4cdbcbdc0c:-1354263560,f6728ba0daac8490064ae084fa2bf8d4:1662435269,20b1476016ac8490bb1520688a7a0dab:-482176397,2fecfa68706c849094022aa2261a35d9:-151298496,89c4a26ebd293f00664e92ace4ae6470:-2100625595,781501dd12653700c4d4063273a171b2:1448643129,c9758d51890dfb00f67f66d0e765581b:-1592545787,e16bdcab19baeb40252e30347939ee18:1790711423,696b54ab83baeb4082746c7dd9d5fde7:-1592545787,8f2bdfce6cf9730045f4c5c1ef0d9465:1448643129</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_f61f50961bcc0010059a65b82d4bcb67</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message&gt;&lt;![CDATA[&lt;p&gt;hiii&lt;/p&gt;]]&gt;&lt;/message&gt;&lt;name&gt;Sync - Member Firm &amp;amp; Member's Firm &lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+
+    var mf = current.u_member_s_firm.getDisplayValue();
+    	//gs.addInfoMessage(mf);
+    var gr = new GlideRecord("u_member_firm");
+    gr.addQuery("u_member_firm", mf);
+    gr.query();
+    if (gr.next()) {
+      //  	gs.addInfoMessage('inside if loop' );
+        current.u_member_firm = gr.sys_id;
+    }
+
+
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-24 13:00:42&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f61f50961bcc0010059a65b82d4bcb67&lt;/sys_id&gt;&lt;sys_mod_count&gt;44&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sync - Member Firm &amp;amp; Member's Firm &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_f61f50961bcc0010059a65b82d4bcb67&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-03 09:14:35&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f61f50961bcc0010059a65b82d4bcb67"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1498829159</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>40d132a31b4a8414059a65b82d4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6aaf602b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>task</table>
+<target_name>Sync - Member Firm &amp; Member's Firm </target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>a3e37f6a1fc2c8d0a7f2974f44543dfd</update_guid>
+<update_guid_history>a3e37f6a1fc2c8d0a7f2974f44543dfd:-1498829159,58e6773c64790450d33dd156b88c54c0:-1075634714,b909a33885f504505b8c9052bc2d1e8b:-1120588442,5f456b3466f50450c901b6a57ca5b4f5:-1693043610,17c467f052f50450ef22fa3a6fab0452:-1907210931,c1772e70057dc050426838c215c85662:-959520755,894e6eeb58258810097d6326ed3f51e8:-1907210931,79fd6eab65258810fabf8b91a27ee7cd:-2084716166,6904ae27a3e18810005e256de10f6b76:-1907210931,bb726eefd5a1881017ac3b70927aca73:1039167596,f0b1ee6f2ea18810fa380a60300db665:514991185,3ab338930425c410a2a65a3eed6c1d3d:-1131207727,14ea45032fe944101087895ed6fd6e2b:1574947665,19e401870ea94410870c3cc494fd649b:591455550,ccf2872e99e58010e0704b8bf0b55391:-1693043610,e8d24b6e56e58010331c666d91cbbade:-2116238055,864c6eee10e180109ee4826e2b0ea4a3:-1693043610,00f9226626e180102f2e0c918eb4dbec:-134851674,9e15eaa6e16180101c68927ed4275b42:-42901509,cc1a1cfdf7290094ee5d06936aa5c745:541907214,d10ad431666900949a3175a9eb9ea0d0:197785197,9149587d6c2900946208439210f4cbfd:1304182651,8d68d07d9f2900949f1c5a67dc7dff00:429734702,f973d8358b29009412091559013b914c:1304182651,3a7210716b290094f7fe3f59908f8937:-29295685,6e615c317a290094666e18ec54ded92a:277225120,ac9f847d11e50094b4de0a7982c5da91:1454786536,0f1d403911e5009442ee1fdf93759b35:1972022963,b3bc40f520e500948fb9b599fa4aee0e:1133171700,96ac8cb54ee5009424c46a5b6d332752:-1974572708,508c4cb5dde50094cfc3586aae5cf02a:-2134430208,4f4c0cb5a0e500946244ecbe746721ee:-893643199,df3c88b500e500943060d0635852b24f:-1277924064,043c08b557e50094031d86e7354b93e6:1703796499,96ebccf1f4e50094d6f0673abb09d1af:-1113132320,43db4c75b7e50094d97198d559a7a533:-1518644175,60ba4cb15fe5009445a6c0639be0dd35:-1675327251,740a4871dce500941bd7ac951ef884fd:-1548281828,d0b2ff29ea250094e85ce9f33b975d16:-1181167663,6ae05b29742100946acd3e46292d239e:-1895924753,3a709f2d6f210094f2d015ce058e8a9e:-429611543,47fe472959210094707ac2b48f31ed81:-624317542,75be4f25ca21009407f08af77c3f5278:1860505641,205acf6991edcc541ed734340a9cea03:792963878,8a86c3a1e8edcc549e119de45cf56cd4:-1919591019,9a420be90eadcc54a228c4e8e8519800:1778469308,003f9f1d3da58c54f818ad691c27240c:1192283668,1b8fdc96a6cc00105c9bfc85f4f0ccfb:-85047575,7a1f5096d2cc00102910d164d219d46a:320389116</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_191c2f341b390450059a65b82d4bcb1c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition&gt;current.isNewRecord() || !(gs.hasRole('admin')) || !(gs.hasRole('coe_scrum_team_member'))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Population of MF after creation&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	if(!gs.hasRole('coe_scrum_team_member')){
+		
+		var g_sys = gs.getUser().getRecord().getValue('u_member_firm'); 
+	var a_sys = gs.getUser().getRecord().getDisplayValue('u_member_firm'); 
+	// Add your code here
+
+	current.u_member_firm = g_sys;
+		current.u_member_s_firm = a_sys;  
+	//	gs.addInfoMessage("Hiii"+current.u_member_firm);
+	} 
+	
+
+	
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 11:57:09&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;191c2f341b390450059a65b82d4bcb1c&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Population of MF after creation&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_191c2f341b390450059a65b82d4bcb1c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-03 08:51:32&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=191c2f341b390450059a65b82d4bcb1c"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>299433446</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>44d132a31b4a8414059a65b82d4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6a9a42d80000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>task</table>
+<target_name>Population of MF after creation</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>61aeaf2281c2c8d0eb045b85a391fead</update_guid>
+<update_guid_history>61aeaf2281c2c8d0eb045b85a391fead:299433446,0a1aa36a4c82c8d01f3013e144f2f352:-25801387,144813e2a202c8d048a5f2f7222c1494:1554312856,7e961bae11ce88d0432c5bfe6606066d:1713825417,67c27ff08f790450c0bf40b918585ffc:-25801387,82c27ff04179045022471e3a5aff8471:299433446,7362ffbcae390450f7532cf6eda93b2a:1939155221,5d42b7b062790450fbad2985b9aebd61:-614893882,6c4eebb8f1390450ae43c815a74fc91b:291426832,1d1e67b8283904501a8d3f5de1cac5cf:-1926805729,44fc6ff42e3904502a2414ff1ec57ff1:291426832,4dacebb423390450d9df03463c4d56f1:-1454653472,958ce3b411390450e296dd5cb7775916:-1816152</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_99ebc3e11b0604d000584225bd4bcb21</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Change">deecb70ec611228700bafda6dde05102</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New (Global)</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>change_request</name><order>110</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-31 03:47:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99ebc3e11b0604d000584225bd4bcb21</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create New (Global)</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_99ebc3e11b0604d000584225bd4bcb21</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 04:56:39</sys_updated_on><timeline_page/><title>Create New (Global)</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1735898077</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>80d132a31b4a8414059a65b82d4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f69c33b690000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>Create New (Global)</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>d5e8f2a29b0e88d06b7c2bf951066f51</update_guid>
+<update_guid_history>d5e8f2a29b0e88d06b7c2bf951066f51:1735898077,868c8f2173c204d036326c10c668fbd3:510287507,aa5c8fe1c20604d0ef4fb8b0f7deb7d7:-1671926439</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_b43e7d261bc4c010059a65b82d4bcbae</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;task&lt;/collection&gt;&lt;condition&gt;current.isNewRecord() || !(gs.hasRole('admin'))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="task"&gt;sys_class_name!=rm_defect^sys_class_name!=rm_sprint^sys_class_name!=rm_release_scrum^sys_class_name!=rm_epic^sys_class_name!=rm_story^sys_class_name!=rm_enhancement^EQ&lt;item display_value="Defect" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_defect"/&gt;&lt;item display_value="Sprint" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_sprint"/&gt;&lt;item display_value="Scrum release" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_release_scrum"/&gt;&lt;item display_value="Epic" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_epic"/&gt;&lt;item display_value="Story" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_story"/&gt;&lt;item display_value="Enhancement" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="rm_enhancement"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Member Firm Field Value&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	//var gf = current.addEncodedQuery('sys_class_name!=rm_defect^sys_class_name!=rm_epic^sys_class_name!=rm_sprint');
+	// Add your code here
+	//if(gf)
+	
+if(current.assignment_group!='423a978f373207004d0e83dcb3990ed7') // COE support group
+	{
+	current.u_member_firm = current.opened_by.u_member_firm;
+		current.u_member_s_firm = current.opened_by.u_member_firm.getDisplayValue();
+	//gs.addInfoMessage('inside');
+	}
+	
+	else
+		{
+			current.u_member_firm='0ad5349adb5e63c06d0b18df4b9619f6';
+			current.u_member_s_firm='COE - Admin';
+		}
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admsherine&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-25 14:34:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b43e7d261bc4c010059a65b82d4bcbae&lt;/sys_id&gt;&lt;sys_mod_count&gt;43&lt;/sys_mod_count&gt;&lt;sys_name&gt;Member Firm Field Value&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_b43e7d261bc4c010059a65b82d4bcbae&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-03 08:37:59&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b43e7d261bc4c010059a65b82d4bcbae"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1313660504</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>8cd132a31b4a8414059a65b82d4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6a8ddbad0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>task</table>
+<target_name>Member Firm Field Value</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>9f8bebea3c82c8d0205d909daf3d4cb4</update_guid>
+<update_guid_history>9f8bebea3c82c8d0205d909daf3d4cb4:1313660504,8f2098c9557d045061bd3631eec890f3:-1653358521,6c7a2f70c83904505018ff0306a99fed:-1756688627,26b923301f3904506282026bd72fa4d7:541369374,03952ff05ff504506c989f26245f0ad1:-1756688627,08c3a37077f504506bdbeb9b72afd731:1039750061,aa03abfc9ab50450bb3bf67fefcdf90d:1225284556,33a22bbca0b50450644822b28dfa4f7c:541369374,8f472670ee7dc0506b81a5d448c32812:-1756688627,50272670fe7dc0500db79e82c7f43a0b:1225284556,eff562fc2d3dc050c5f375e747946a5a:-1819744867,54b822ef1de18810a37a0cdcdf79b743:739029681,e927222ff2e18810bbf8740d0c25b36c:1479217733,70e6eaeb72e18810d89aef359890aa02:-517691562,c02326e35ae1881005d0e762db6d08e8:1479217733,8fa1e6aff5a188107b458cfe5939de3c:1592837349,141e126776a18810be64274271575bb6:-86712191,7dedda6725a18810f95afeda46eca464:-721618606,afcd16677ca18810fc4f5a249c988c95:-86712191,6d7d5a67bca18810763c08dea48cc52e:-721618606,81621223a8618810718fc9478b745fb1:-86712191,a7a11a6fc921881022c098608b8cfb05:-649158340,c4567de38aa948105cc8445f239cfa37:-595195134,f2a0425b90adc410bbc1ab953e88bd82:-1361282909,d78fd14bdd6d44101a7605f9b8eff630:249284266,a976cfe6e3298010b678767b6bff3832:487150741,ac61c32aafe5801048bc9ffe6e3dcff5:1614800469,8e1103aa16e58010884f27d4bc430173:1944258142,9e37e26e0e618010b99be1b6d17bb5e3:-272613126,53752ae6216180105dcf9a6f19d741b1:-132231415,bb45222a3f61801018eaa01f447ffeef:-272613126,17042622106180100b600f1267a22ed3:1944258142,488366aea6218010cf35e79a95b049d3:1614800469,ff95a8352aa900945df344e36ef78da7:-1946350370,020e98b5ee690094d5ec89b860a8fd05:1340824138,3e8d1cb5b3690094b39a57d44cb830b6:-673439889,991c90357269009491151f3f575da3f5:-1946350370,f68ad831cf6900945e01dc17699314bb:851146451,9d339cf163290094d285c88f6d41fdf3:-1946350370,109e4f25b9210094e44d7adf1fd4b483:851146451,4ddb43edcfedcc54fa3951e5439c8276:-673439889,a3ca87e9baedcc54ec7b3c9bc03b5a8c:1510046974,6a378c0aa1c5c89057ab48f8a10743bc:-673439889,8b069fe125c9c890f3c32aa5051140a1:-395076513,2705176158c9c8904f8ad4231157765a:389371799,915e79263748c010acd9ed035b79ad31:-673439889,f03e7d26a3c4c010794791de98ff45b3:-85047575</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_4f72b5aadba53f00fb9541a4059619d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="4f72b5aadba53f00fb9541a4059619d1" sys_domain="global" table="change_request" version="3" view="br_view"><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>788cb26a1b0e88d000584225bd4bcb6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f08cb26a1b0e88d000584225bd4bcb6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requested_by</element><position>2</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>788cb26a1b0e88d000584225bd4bcb6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reason</element><position>3</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>fc8cb26a1b0e88d000584225bd4bcb6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>4</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>748cb26a1b0e88d000584225bd4bcb6c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>5</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f88cb26a1b0e88d000584225bd4bcb6c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>6</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>708cb26a1b0e88d000584225bd4bcb6d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>risk</element><position>7</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f48cb26a1b0e88d000584225bd4bcb6d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>impact</element><position>8</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>7c8cb26a1b0e88d000584225bd4bcb6d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>9</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f08cb26a1b0e88d000584225bd4bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>approval</element><position>10</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>788cb26a1b0e88d000584225bd4bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>11</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>fc8cb26a1b0e88d000584225bd4bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>12</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>748cb26a1b0e88d000584225bd4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>on_hold</element><position>13</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f88cb26a1b0e88d000584225bd4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>conflict_status</element><position>14</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>708cb26a1b0e88d000584225bd4bcb70</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>conflict_last_run</element><position>15</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f48cb26a1b0e88d000584225bd4bcb70</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>16</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>7c8cb26a1b0e88d000584225bd4bcb70</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>17</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f08cb26a1b0e88d000584225bd4bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>18</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>788cb26a1b0e88d000584225bd4bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>19</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>fc8cb26a1b0e88d000584225bd4bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>20</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>748cb26a1b0e88d000584225bd4bcb72</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>on_hold_reason</element><position>21</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f88cb26a1b0e88d000584225bd4bcb72</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_firm</element><position>22</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>708cb26a1b0e88d000584225bd4bcb73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_member_s_firm</element><position>23</position><sys_created_by>lghori</sys_created_by><sys_created_on>2020-01-03 05:12:28</sys_created_on><sys_id>f48cb26a1b0e88d000584225bd4bcb73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">4f72b5aadba53f00fb9541a4059619d1</sys_ui_section><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-03 05:12:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>change_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admanand</sys_created_by><sys_created_on>2019-05-24 07:06:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f72b5aadba53f00fb9541a4059619d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>change_request</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_4f72b5aadba53f00fb9541a4059619d1</sys_update_name><sys_updated_by>admanand</sys_updated_by><sys_updated_on>2019-05-24 07:06:30</sys_updated_on><sys_user/><title>false</title><view display_value="brazil" name="br_view">4d48de19dbed3700fb9541a405961987</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-999541544</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>c4d132a31b4a8414059a65b82d4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f69d1b5c20000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>Change Request</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>f08cb26a430e88d05c55b10bb2634376</update_guid>
+<update_guid_history>f08cb26a430e88d05c55b10bb2634376:-999541544,fdd5f2c9912eb300215bb878fbe3d154:-999541544,09582eeeed293f001cef27c108f8da5d:1271753500,1f72b5aaaea53f001bca0a20c39fa3e0:1789654556</update_guid_history>
+<update_set display_value=""/>
+<view>br_view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_9ea1145437642700f3ac83dcb3990e92</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;change_request&lt;/collection&gt;&lt;condition&gt;current.isNewRecord()&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Member Firm Field Value&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	gs.addInfoMessage('hello');
+	var assgnGroup=current.assignment_group;
+	if(assgnGroup!='423a978f373207004d0e83dcb3990ed7')
+	current.u_member_firm = current.requested_by.u_member_firm;
+	else
+		current.u_member_firm='0ad5349adb5e63c06d0b18df4b9619f6';
+})(current, previous);
+	
+	
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;bavinash&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-09-10 11:14:04&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9ea1145437642700f3ac83dcb3990e92&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Member Firm Field Value&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_9ea1145437642700f3ac83dcb3990e92&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-03 08:47:14&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9ea1145437642700f3ac83dcb3990e92"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1478077552</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>c8d132a31b4a8414059a65b82d4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f6a96565f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table>change_request</table>
+<target_name>Member Firm Field Value</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>3aad67eed382c8d0db8917a445d28103</update_guid>
+<update_guid_history>3aad67eed382c8d0db8917a445d28103:-1478077552,9575e3221482c8d0b0c08484d46e3034:2094329409,08f6d3eef1ce88d0eb174c7e2948f3cd:957885623,60d617ae84ce88d09208ba193a700f86:1096272607,44b6136eadce88d0374898563949c029:-67735147,41c41b663ece88d08587b44ba5e3c0e5:-1745393386,3252dfe2e9ce88d093b73bf07ffa34be:-67735147,8fe92b208f2a63008137a8a56121476d:-1745393386,2974141848642700e7ee9ecf94ea5228:1940208368,f924dc9486642700a6744cc1f876000f:1827053498</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_f96dcab81bc40c1000584225bd4bcbe7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Normal(Global)</answer><button_label/><dependent_value/><element/><name>Direct to Normal Change</name><next_question/><order>100</order><payload_name/><question display_value="Change Request" name="Change Request">8db4a378c611227401b96457a060e0f4</question><roles>admin,x_detc_itsm_global.itil_global_std</roles><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admGanapati</sys_created_by><sys_created_on>2019-09-20 05:34:27</sys_created_on><sys_id>f96dcab81bc40c1000584225bd4bcbe7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Direct to Normal Change</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_wizard_answer_f96dcab81bc40c1000584225bd4bcbe7</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-01-02 14:44:01</sys_updated_on><table/><target_url>change_request.do?sys_id=-1&amp;sysparm_query=assignment_group=423a978f373207004d0e83dcb3990ed7^type=normal^u_member_s_firm=COE - Admin^u_member_firm=0ad5349adb5e63c06d0b18df4b9619f6</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>1520815120</payload_hash>
+<remote_update_set display_value="LG_Global_Change_V1">8cd132a31b4a8414059a65b82d4bcb55</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-06 06:59:39</sys_created_on>
+<sys_id>ccd1bea31b4a8414059a65b82d4bcb3c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f66b69fac0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-06 06:59:39</sys_updated_on>
+<table/>
+<target_name>Direct to Normal Change</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>6bb5bf92784a48d0a999be917a934c3d</update_guid>
+<update_guid_history>6bb5bf92784a48d0a999be917a934c3d:1520815120,47929abccfc40c106a53383e4cff6af4:2121456312</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
