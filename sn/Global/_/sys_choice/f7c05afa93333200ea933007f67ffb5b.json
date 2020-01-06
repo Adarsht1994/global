@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Deploy",
+  "language": "en",
+  "name": "pm_project",
+  "sequence": 5,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-07-10 15:34:07",
+  "sys_id": "f7c05afa93333200ea933007f67ffb5b",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admritwij",
+  "sys_updated_on": "2019-02-26 10:13:16",
+  "value": "delivering"
+}
