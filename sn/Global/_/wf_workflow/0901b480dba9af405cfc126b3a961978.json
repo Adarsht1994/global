@@ -1,0 +1,21 @@
+{
+  "access": "public",
+  "description": null,
+  "name": "Deloitte Normal Change - COE",
+  "preview": null,
+  "sys_class_name": "wf_workflow",
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-10-29 11:44:29",
+  "sys_id": "0901b480dba9af405cfc126b3a961978",
+  "sys_mod_count": 1,
+  "sys_name": "Deloitte Normal Change - COE",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "wf_workflow_0901b480dba9af405cfc126b3a961978",
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-29 11:44:29",
+  "table": "change_request",
+  "template": false,
+  "vars": null
+}
