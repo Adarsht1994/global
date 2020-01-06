@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Encerramento",
+  "language": "pb",
+  "name": "pm_project",
+  "sequence": 6,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-06-04 06:17:49",
+  "sys_id": "ddd052cedb393300bac127360596191d",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2019-12-18 07:19:24",
+  "value": "closing"
+}

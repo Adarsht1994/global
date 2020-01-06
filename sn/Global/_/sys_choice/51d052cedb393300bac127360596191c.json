@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Iniciação",
+  "language": "pb",
+  "name": "pm_project",
+  "sequence": 1,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-06-04 06:17:49",
+  "sys_id": "51d052cedb393300bac127360596191c",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2019-12-18 07:18:31",
+  "value": "initiating"
+}

@@ -1,0 +1,16 @@
+{
+  "element": "phase",
+  "name": "pm_project",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "system",
+  "sys_created_on": "2017-07-05 05:09:07",
+  "sys_id": "2f1a97121bee770000584225bd4bcbb7",
+  "sys_mod_count": 0,
+  "sys_name": "phase",
+  "sys_package": "1c8813921bae770000584225bd4bcb40",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_pm_project_phase",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-07-05 05:09:07"
+}

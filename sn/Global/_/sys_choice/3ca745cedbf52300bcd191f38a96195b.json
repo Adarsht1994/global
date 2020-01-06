@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "モニタリング/制御",
+  "language": "ja",
+  "name": "pm_project",
+  "sequence": 4,
+  "sys_created_by": "system",
+  "sys_created_on": "2018-11-17 04:46:51",
+  "sys_id": "3ca745cedbf52300bcd191f38a96195b",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2018-11-17 04:46:51",
+  "value": "monitoring_controlling"
+}
