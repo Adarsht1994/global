@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "518916271b868414059a65b82d4bcb5f",
+  "order": 300,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-01-06 05:13:30",
+  "sys_id": "d18916271b868414059a65b82d4bcb60",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-01-06 05:13:30",
+  "value": "Change Request ${number} has been Rejected\r\n\r\nShort description: ${short_description}\r\n\r\nClick here to view Change Request: ${URI_REF}\r\n\r\nPriority:${priority}\r\n\r\nCategory:${category}\r\n\r\nDescription:${description}\r\n",
+  "variable": "c35db5a50a0a0ba96248a70938ae8de6"
+}

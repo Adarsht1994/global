@@ -1,0 +1,21 @@
+{
+  "activity": "818916271b868414059a65b82d4bcb50",
+  "condition": "activity.result == 'rejected'",
+  "condition_default": "586d9d960a0a0b5c00509314d15d50d8",
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": null,
+  "is_positive": false,
+  "name": "Rejected",
+  "order": 2,
+  "short_description": "Approval request was rejected",
+  "skip_during_generate": true,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-01-06 05:13:30",
+  "sys_id": "418916271b868414059a65b82d4bcb54",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-01-06 05:13:30"
+}
