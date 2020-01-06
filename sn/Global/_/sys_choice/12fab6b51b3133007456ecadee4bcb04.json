@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "2 - High",
+  "language": "en",
+  "name": "task",
+  "sequence": 2,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-06-03 14:43:27",
+  "sys_id": "12fab6b51b3133007456ecadee4bcb04",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-06-03 14:43:27",
+  "value": 2
+}

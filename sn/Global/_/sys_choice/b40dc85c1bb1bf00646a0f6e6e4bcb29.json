@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "4-Low",
+  "language": "es",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 10:12:59",
+  "sys_id": "b40dc85c1bb1bf00646a0f6e6e4bcb29",
+  "sys_mod_count": 6,
+  "sys_updated_by": "rohitsingh8",
+  "sys_updated_on": "2019-06-18 10:37:46",
+  "value": 4
+}

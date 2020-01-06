@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "4 - Baixo",
+  "language": "pb",
+  "name": "task",
+  "sequence": 4,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-06-04 06:18:27",
+  "sys_id": "a2f0de02db793300bac127360596192c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-06-04 06:18:27",
+  "value": 4
+}

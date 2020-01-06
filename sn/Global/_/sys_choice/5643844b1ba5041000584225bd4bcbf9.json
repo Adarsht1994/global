@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "1 - Crítica",
+  "language": "es",
+  "name": "task",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 08:28:46",
+  "sys_id": "5643844b1ba5041000584225bd4bcbf9",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 08:28:46",
+  "value": 1
+}

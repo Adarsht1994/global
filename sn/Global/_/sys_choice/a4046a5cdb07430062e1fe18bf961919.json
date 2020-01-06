@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "2 - Alto(a)",
+  "language": "pb",
+  "name": "task",
+  "sequence": 2,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:57:15",
+  "sys_id": "a4046a5cdb07430062e1fe18bf961919",
+  "sys_mod_count": 1,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-09-24 04:12:03",
+  "value": 2
+}

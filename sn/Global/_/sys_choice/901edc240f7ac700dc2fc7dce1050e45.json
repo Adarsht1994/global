@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "priority",
+  "hint": null,
+  "inactive": false,
+  "label": "Priority - 1",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-11-29 10:35:26",
+  "sys_id": "901edc240f7ac700dc2fc7dce1050e45",
+  "sys_mod_count": 7,
+  "sys_updated_by": "pkhobragade",
+  "sys_updated_on": "2019-06-18 09:51:34",
+  "value": 1
+}
