@@ -1,0 +1,16 @@
+{
+  "element": "priority",
+  "name": "incident",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-11-29 10:35:26",
+  "sys_id": "13fcd7ee1b42f7007456ecadee4bcb83",
+  "sys_mod_count": 0,
+  "sys_name": "priority",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_incident_priority",
+  "sys_updated_by": "ribhattacharya",
+  "sys_updated_on": "2017-11-29 10:35:26"
+}
