@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": true,
+  "label": "Monitoring/Controlling",
+  "language": "en",
+  "name": "pm_project",
+  "sequence": 4,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-07-05 05:09:07",
+  "sys_id": "7fc1928d93333200ea933007f67ffb78",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-09-01 10:54:26",
+  "value": "monitoring_controlling"
+}
