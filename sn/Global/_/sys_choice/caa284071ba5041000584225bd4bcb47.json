@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "phase",
+  "hint": null,
+  "inactive": false,
+  "label": "Cerrando",
+  "language": "es",
+  "name": "pm_project",
+  "sequence": 5,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 08:26:01",
+  "sys_id": "caa284071ba5041000584225bd4bcb47",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 08:26:01",
+  "value": "closing"
+}
