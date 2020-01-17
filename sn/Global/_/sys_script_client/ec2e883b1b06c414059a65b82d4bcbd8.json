@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Check client script",
+  "order": null,
+  "script": {
+    "____see": "sn\\Global\\Client Script\\{--none--}\\active_true\\Check client script.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admTrinadh",
+  "sys_created_on": "2020-01-06 13:53:10",
+  "sys_id": "ec2e883b1b06c414059a65b82d4bcbd8",
+  "sys_mod_count": 8,
+  "sys_name": "Check client script",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_client_ec2e883b1b06c414059a65b82d4bcbd8",
+  "sys_updated_by": "admTrinadh",
+  "sys_updated_on": "2020-01-10 06:37:09",
+  "table": null,
+  "type": "onChange",
+  "ui_type": 0,
+  "view": null
+}
