@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-22 12:33:57">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>NEW Updates in devOps 4</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0f8756fc1be2c09000584225bd4bcbcd</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-22 12:33:55</sys_created_on>
+<sys_id>e8c7dafc1be2c09000584225bd4bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-22 12:33:55</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_58572b261b82c8d000584225bd4bcb79</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description&gt;new fix script&lt;/description&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;newFix Script11&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Hiscn jsfijsofsofjosdfjsdjfosdjofnsovndfjivndfji bdghi bdghi bdhibvdfinvdfjinvjidfnvjidfnvjidfnvjidfnvjidfn fjwskd cnsjicnsdjincisdcis");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-03 08:19:52&lt;/sys_created_on&gt;&lt;sys_id&gt;58572b261b82c8d000584225bd4bcb79&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;newFix Script11&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_58572b261b82c8d000584225bd4bcb79&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-22 12:33:19&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>330238961</payload_hash>
+<remote_update_set display_value="NEW Updates in devOps 4">e8c7dafc1be2c09000584225bd4bcb52</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-22 12:33:55</sys_created_on>
+<sys_id>ecc7dafc1be2c09000584225bd4bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fcd3e24fa0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-22 12:33:55</sys_updated_on>
+<table/>
+<target_name>newFix Script11</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>3f97d2fca8e2c0903ddc666db54ca1ff</update_guid>
+<update_guid_history>3f97d2fca8e2c0903ddc666db54ca1ff:330238961,ff3e09a83dae0090d5167feac8f614b6:-315820873,0926e77aa65e4450244db608522fdf4a:1337431725,3f67eb266c82c8d055948fd1ca1c508f:551573774,f167ab268182c8d027a74feee33604f8:-1997838335</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
