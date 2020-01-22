@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-22 12:52:35">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>NEW Updates in devOps 6</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>5afa5e701b26c09000584225bd4bcbca</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-22 12:52:35</sys_created_on>
+<sys_id>ce0c5ab41b26c09000584225bd4bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-22 12:52:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_58572b261b82c8d000584225bd4bcb79</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description&gt;new fix script&lt;/description&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;newFix Script11&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Hiscn jsfijsofsofjosdfjsdjfosdjofnsovndfjivndfji bdghi bdghi bdhibvdfinvdfjinvjidfnvjiscivvsodfnvjidfnvjidfnvjidfn fjwskd cnsjicnsdjincisdcis");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-03 08:19:52&lt;/sys_created_on&gt;&lt;sys_id&gt;58572b261b82c8d000584225bd4bcb79&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;newFix Script11&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_58572b261b82c8d000584225bd4bcb79&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-22 12:48:09&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-667066262</payload_hash>
+<remote_update_set display_value="NEW Updates in devOps 6">ce0c5ab41b26c09000584225bd4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-22 12:52:35</sys_created_on>
+<sys_id>8a0c5ab41b26c09000584225bd4bcb7b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fcd4bb77b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-22 12:52:35</sys_updated_on>
+<table/>
+<target_name>newFix Script11</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>c10b9e702a26c0909dd558b939ddf7a7</update_guid>
+<update_guid_history>c10b9e702a26c0909dd558b939ddf7a7:-667066262,3f97d2fca8e2c0903ddc666db54ca1ff:330238961,ff3e09a83dae0090d5167feac8f614b6:-315820873,0926e77aa65e4450244db608522fdf4a:1337431725,3f67eb266c82c8d055948fd1ca1c508f:551573774,f167ab268182c8d027a74feee33604f8:-1997838335</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Integration">19190fabdbebd300dfa9b94ffe96193e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_76fd0722dbbbe7409775f6700f9619e3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sys_update_set&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;[CICD] Check state changes and run CICD&lt;/name&gt;&lt;order&gt;10&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+new CiCdRun().sys_update_set_Before_IU(current, previous);
+	
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;b.moers&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-26 13:58:55&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;76fd0722dbbbe7409775f6700f9619e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;38&lt;/sys_mod_count&gt;&lt;sys_name&gt;[CICD] Check state changes and run CICD&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CICD Integration" source="19190fabdbebd300dfa9b94ffe96193e"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Integration"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_76fd0722dbbbe7409775f6700f9619e3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-22 12:52:01&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=76fd0722dbbbe7409775f6700f9619e3"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>365765503</payload_hash>
+<remote_update_set display_value="NEW Updates in devOps 6">ce0c5ab41b26c09000584225bd4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-22 12:52:35</sys_created_on>
+<sys_id>c20c5ab41b26c09000584225bd4bcb7b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fcd4f42400000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-22 12:52:35</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>[CICD] Check state changes and run CICD</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>b9eb5eb40f26c090e704f3eac36a8c28</update_guid>
+<update_guid_history>b9eb5eb40f26c090e704f3eac36a8c28:365765503,e2dbdab45126c0908a475f5cb62b0308:1737161528,1fc2b97c66ee0490863a5fb41e2b05ee:365765503,3da239fc7dee0490f1c8491008be3793:1737161528,95aec9e894ae0090ac8eb99e0af825a1:365765503,a09e01e89aae00908c8f0b342e2b9272:1737161528,2e8e49e8d1ae00903ed87684b1725034:365765503,ba6f9f8b811a0850249fb05efbbd32df:1737161528,14656f3a555e445070dc26e886f9109c:365765503,0855673a775e4450d7d4fb36d246ea01:1737161528,a235eb3a945e445020d6677930767f86:365765503,e4b0907f2206c4144353c6ac1ef2e3bc:1737161528,c290d83fd106c414cebbb217139688b7:365765503,0c8fd7ebf48e8414fe2e5714f36c87b5:1737161528,0453fea78e4a8414c0b73df0db1fafc0:365765503,1c437aa7794a8414781884d7440d97d5:1737161528,c84370365d8ac8d046a8e2085a8b2cc8:365765503,7603b4f2c58ac8d01a2ae751791c7f5f:-1521737157,54c2f4f2b88ac8d066ef73b916f8d053:365765503,8ad31032dfc6c8d03542088f4bc0efee:1293886898,9bc29f26b8ce88d0af414b304d0af75c:-226775214,19cca6928e0248d08c67d62e6f7db0c0:1659651122,6d5bd8c29e71c85054e969b7942d9afe:-226775214,3d52a2ad8bb90850c96363e49bba1b07:1659651122,b62d4115d0f18450a3104aec286ea4b3:-226775214,ce235085d6fdc0505d54cdf1310100cd:1659651122,5a634f38df7104505dfd0a05e11992f4:-226775214,c6f9aeb8027dc0507b9b2f07c0c5e21f:1659651122,a2cfe6a72e2188107d5292b5552b54c7:-226775214,9f04aee33bed481008bd640f68d5a13d:1659651122,dacf7d179cedc4109b00da50180de9bc:-226775214,ce3f6d937e2dc4109725fe2db333a338:1659651122,b7275153d2a9c410ec25b79fe0fc44b0:-226775214,55e39193d369c4102eb2c28269e0bb40:1659651122,4f3889932069c41097f114a8002da9d5:-226775214,71ab548735654410a855dd2321e34a61:1659651122,40d6672afa2d80107b3088047d92058e:-226775214,04b17a6e1965801014143f83f829fb9d:1659651122,567b5a62e9218010bcf56455c0595f1d:-1667923142,e8e362190f25c09428bc8e6b86ab98f6:1659651122,00b4cc5e12a33380ef57e5df4740596a:-1667923142,dccf8da5ac27ff40d60b158af309366b:566023238,38183c6590e3ff40ca5f0c7601b959ea:1965782833,78183c65d7e3ff401e50cb8b09ba9de7:-286709437</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
