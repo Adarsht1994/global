@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-23 08:02:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>PR_BR_ITBM_DFCT0010030_V1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>066262851ba2449000584225bd4bcb6a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-23 08:02:06</sys_created_on>
+<sys_id>7c23eac51ba2449000584225bd4bcb31</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-23 08:02:06</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_planned_task_opex_cost_pb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="opex_cost" label="Despesas (OPEX)" language="pb" table="planned_task"><sys_documentation action="INSERT_OR_UPDATE"><element>opex_cost</element><help/><hint>Planejamento Operacional</hint><label>Despesas (OPEX)</label><language>pb</language><name>planned_task</name><plural>Despesas (OPEX)</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2018-11-11 06:09:39</sys_created_on><sys_id>7a2062c6dbb17300bac12736059619dd</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Despesas (OPEX)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_planned_task_opex_cost_pb</sys_update_name><sys_updated_by>admprashanth</sys_updated_by><sys_updated_on>2020-01-23 08:01:28</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1709078726</payload_hash>
+<remote_update_set display_value="PR_BR_ITBM_DFCT0010030_V1">7c23eac51ba2449000584225bd4bcb31</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-23 08:02:06</sys_created_on>
+<sys_id>3423eac51ba2449000584225bd4bcb32</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd16ba2570000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-23 08:02:06</sys_updated_on>
+<table>planned_task</table>
+<target_name>Planned task.opex_cost</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>f3f266c543a244907b13b99385ea80c3</update_guid>
+<update_guid_history>f3f266c543a244907b13b99385ea80c3:-1709078726,3f96e5219d350850a70ad0a4b349d127:1587333586,4c7dccf8774a7b0097aa2462d3cef602:1227197195,887d8cf8b84a7b0087b8e95565cd32ff:-1051108177</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
