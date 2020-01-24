@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-24 06:06:25">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Problem Management - DFCT0010031</description>
+<inserted/>
+<name>SSJ_DFCT0010031_Problem_Management</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>9aefcbc11b6ac490059a65b82d4bcbe5</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>373213d91b664890059a65b82d4bcbb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_ce8d6796871313000e3dd61e36cb0bba</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;move_to_fix_in_progress&lt;/action_name&gt;&lt;active&gt;false&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.canWrite() &amp;amp;&amp;amp; (current.state != ProblemState.STATES.FIX_IN_PROGRESS) &amp;amp;&amp;amp; new ProblemStateUtils().validateStateTransition(current, ProblemState.STATES.FIX_IN_PROGRESS)&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;primary&lt;/form_style&gt;&lt;hint&gt;Change State to Fix in Progress&lt;/hint&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Start Fix&lt;/name&gt;&lt;onclick&gt;onFix()&lt;/onclick&gt;&lt;order&gt;120&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onFix() {
+	if (g_form &amp;&amp; g_form.mandatoryCheck()) {
+		ScriptLoader.getScripts("ProblemModalUIHelpers.jsdbx", function() {
+			ProblemModalUIHelpers.onFix();
+		});
+	}
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-17 04:55:14&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ce8d6796871313000e3dd61e36cb0bba&lt;/sys_id&gt;&lt;sys_mod_count&gt;41&lt;/sys_mod_count&gt;&lt;sys_name&gt;Start Fix&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_ce8d6796871313000e3dd61e36cb0bba&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-23 12:40:38&lt;/sys_updated_on&gt;&lt;table&gt;problem&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1277055413</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>333213d91b664890059a65b82d4bcbb8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd26b33050000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>problem</table>
+<target_name>Start Fix</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>7ce2e70989eac490632eafb13af1d19f</update_guid>
+<update_guid_history>7ce2e70989eac490632eafb13af1d19f:-1277055413,34e2e709f9eac490ebc127ed0e31ff9e:-225681108</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_task_short_description_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="short_description" label="Problem Statement" language="en" table="task"><sys_documentation action="INSERT_OR_UPDATE"><element>short_description</element><help/><hint/><label>Problem Statement</label><language>en</language><name>task</name><plural>Problem Statements</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-06-03 14:43:27</sys_created_on><sys_id>9efa76b51b3133007456ecadee4bcbbc</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Problem Statement</sys_name><sys_package display_value="Task table schema" source="com.glide.task">52fa76b51b3133007456ecadee4bcbb4</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_task_short_description_en</sys_update_name><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 11:22:48</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>242696643</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>373213d91b664890059a65b82d4bcbb7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd223f71f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>task</table>
+<target_name>Task.Problem Statement</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>011117850c6ac490f153ff71b6562551</update_guid>
+<update_guid_history>011117850c6ac490f153ff71b6562551:242696643,bb94a76f7ce98810159e1aece2be90eb:1747523887,f16b2662390100d0ad95e28eb5ffcd3a:-496030333,a56ba2629c0100d0149bcfad50f271ef:500503791</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_74ed0b50876313000e3dd61e36cb0bbf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;false&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.canWrite() &amp;amp;&amp;amp; (current.state != ProblemState.STATES.ASSESS) &amp;amp;&amp;amp; new ProblemStateUtils().validateStateTransition(current, ProblemState.STATES.ASSESS)&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;primary&lt;/form_style&gt;&lt;hint&gt;Change State to Assess&lt;/hint&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Assess&lt;/name&gt;&lt;onclick&gt;onAssess()&lt;/onclick&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onAssess() {
+	if (g_form &amp;&amp; g_form.mandatoryCheck()) {
+		ScriptLoader.getScripts("ProblemModalUIHelpers.jsdbx", function() {
+			ProblemModalUIHelpers.onAssess();
+		});
+	}
+}
+
+]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-23 09:20:35&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;74ed0b50876313000e3dd61e36cb0bbf&lt;/sys_id&gt;&lt;sys_mod_count&gt;148&lt;/sys_mod_count&gt;&lt;sys_name&gt;Assess&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_74ed0b50876313000e3dd61e36cb0bbf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-23 12:40:24&lt;/sys_updated_on&gt;&lt;table&gt;problem&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1194161219</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>7f3213d91b664890059a65b82d4bcbb7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd26afbf20000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>problem</table>
+<target_name>Assess</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>19d26709e3eac4906924017041022fee</update_guid>
+<update_guid_history>19d26709e3eac4906924017041022fee:-1194161219,15d2670921eac490e646382cbf2fc4ec:-1816752374</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_39d088a487a313000e3dd61e36cb0bc3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;accept_risk&lt;/action_name&gt;&lt;active&gt;false&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.canWrite() &amp;amp;&amp;amp; (current.state == ProblemState.STATES.ROOT_CAUSE_ANALYSIS || current.state == ProblemState.STATES.FIX_IN_PROGRESS) &amp;amp;&amp;amp; (new ProblemStateUtils().canShowAcceptRisk(current))&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;hint&gt;Accept the Risk for the Problem&lt;/hint&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Accept Risk&lt;/name&gt;&lt;onclick&gt;onAcceptingRisk()&lt;/onclick&gt;&lt;order&gt;190&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onAcceptingRisk() {
+	if (g_form &amp;&amp; g_form.mandatoryCheck()) {
+		ScriptLoader.getScripts("ProblemModalUIHelpers.jsdbx", function() {
+			ProblemModalUIHelpers.onAcceptingRisk();
+		});
+	}
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-23 11:29:52&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;39d088a487a313000e3dd61e36cb0bc3&lt;/sys_id&gt;&lt;sys_mod_count&gt;33&lt;/sys_mod_count&gt;&lt;sys_name&gt;Accept Risk&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_39d088a487a313000e3dd61e36cb0bc3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-23 12:40:33&lt;/sys_updated_on&gt;&lt;table&gt;problem&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1508161215</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>bb3213d91b664890059a65b82d4bcbb7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd26b1f110000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>problem</table>
+<target_name>Accept Risk</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>efd2a7097deac490f8ceb7a213dd06fe</update_guid>
+<update_guid_history>efd2a7097deac490f8ceb7a213dd06fe:1508161215,a7d2a7095eeac490444ec4d3e8765ffd:207967840</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_problem_br_view</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="problem" version="2" view="br_view"><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Problem - brazil" name="problem" related_list="NULL" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">d6dd5f891baac490059a65b82d4bcbdb</list_id><order_by/><position>0</position><related_list>task_ci.task</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2020-01-23 12:18:37</sys_created_on><sys_id>d6dd5b8d1baac490059a65b82d4bcb9f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 12:18:37</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Problem - brazil" name="problem" related_list="NULL" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">d6dd5f891baac490059a65b82d4bcbdb</list_id><order_by/><position>1</position><related_list>incident.problem_id</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2020-01-23 12:18:38</sys_created_on><sys_id>92dd5b8d1baac490059a65b82d4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 12:18:38</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Problem - brazil" name="problem" related_list="NULL" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">d6dd5f891baac490059a65b82d4bcbdb</list_id><order_by/><position>2</position><related_list>problem_task.problem</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2020-01-23 12:18:38</sys_created_on><sys_id>1add5b8d1baac490059a65b82d4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 12:18:38</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Problem - brazil" name="problem" related_list="NULL" sys_domain="global" view="4d48de19dbed3700fb9541a405961987">d6dd5f891baac490059a65b82d4bcbdb</list_id><order_by/><position>3</position><related_list>task_sla.task</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2020-01-23 12:18:38</sys_created_on><sys_id>9edd5b8d1baac490059a65b82d4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 12:18:38</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Problem - brazil</calculated_name><filter/><name>problem</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admsherine</sys_created_by><sys_created_on>2020-01-23 12:18:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d6dd5f891baac490059a65b82d4bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Problem - brazil</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_problem_br_view</sys_update_name><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 12:18:37</sys_updated_on><sys_user/><view display_value="brazil" name="br_view">4d48de19dbed3700fb9541a405961987</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>1915136181</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>f33213d91b664890059a65b82d4bcbb8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd2570d690000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>problem</table>
+<target_name>Problem</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>96dd5b8d4baac4906797d53203bd80a2</update_guid>
+<update_guid_history>96dd5b8d4baac4906797d53203bd80a2:1915136181,1363d297cd58cc50743b0fe8e902db01:-1087256187,ccda9ea60a6d7b006a98004a7ab15417:-872580248,8f479912dea5bb001e18e0da69afb5bf:-1321810337</update_guid_history>
+<update_set display_value=""/>
+<view>br_view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_36b5b71487a313000e3dd61e36cb0bd3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;mark_duplicate&lt;/action_name&gt;&lt;active&gt;false&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.canWrite() &amp;amp;&amp;amp; new ProblemStateUtils().canMarkDuplicateOrCancel(current)&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;hint&gt;Mark the Problem as Duplicate of another&lt;/hint&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Mark Duplicate&lt;/name&gt;&lt;onclick&gt;onMarkDuplicate()&lt;/onclick&gt;&lt;order&gt;160&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onMarkDuplicate() {
+	if (g_form &amp;&amp; g_form.mandatoryCheck()) {
+		ScriptLoader.getScripts("ProblemModalUIHelpers.jsdbx", function() {
+			ProblemModalUIHelpers.onMarkDuplicate();
+		});
+	}
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-23 10:40:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;36b5b71487a313000e3dd61e36cb0bd3&lt;/sys_id&gt;&lt;sys_mod_count&gt;32&lt;/sys_mod_count&gt;&lt;sys_name&gt;Mark Duplicate&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_36b5b71487a313000e3dd61e36cb0bd3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admsherine&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-23 12:40:43&lt;/sys_updated_on&gt;&lt;table&gt;problem&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-971137138</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>f73213d91b664890059a65b82d4bcbb7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd26b459a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>problem</table>
+<target_name>Mark Duplicate</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>4ae2e34586eac490a7a8141e02c4eff2</update_guid>
+<update_guid_history>4ae2e34586eac490a7a8141e02c4eff2:-971137138,31e2e34546eac490365df54ace1e1ff1:-861275947</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_task_short_description</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="task"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,knowledge_search=true,no_truncate=true,ts_weight=10</attributes><audit>false</audit><calculation/><choice>2</choice><choice_field/><choice_table/><column_label>Problem Statement</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>short_description</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>160</max_length><name>task</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-06-03 14:43:27</sys_created_on><sys_id>1efa76b51b3133007456ecadee4bcbbc</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Problem Statement</sys_name><sys_package display_value="Task table schema" source="com.glide.task">52fa76b51b3133007456ecadee4bcbb4</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_task_short_description</sys_update_name><sys_updated_by>admsherine</sys_updated_by><sys_updated_on>2020-01-23 11:22:47</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles>itil,task_editor</write_roles><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-2042172431</payload_hash>
+<remote_update_set display_value="SSJ_DFCT0010031_Problem_Management">373213d91b664890059a65b82d4bcbb6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-01-24 06:06:24</sys_created_on>
+<sys_id>fb3213d91b664890059a65b82d4bcbb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16fd223f7590000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-01-24 06:06:24</sys_updated_on>
+<table>task</table>
+<target_name>Task.Problem Statement</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>cd111785ac6ac490c65a060c005ca652</update_guid>
+<update_guid_history>cd111785ac6ac490c65a060c005ca652:-2042172431,84a4a76fd0e98810da0719bf7f45f3ed:1808740805,fd6b2662bb0100d0c0d7e7e96949763b:-166427599,156b62626b0100d039858fd0455d57b4:513260037</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

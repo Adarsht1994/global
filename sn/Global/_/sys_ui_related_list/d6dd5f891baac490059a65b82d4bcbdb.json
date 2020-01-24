@@ -1,0 +1,22 @@
+{
+  "calculated_name": "Problem - brazil",
+  "filter": null,
+  "name": "problem",
+  "order_by": null,
+  "position": null,
+  "related_list": null,
+  "sys_class_name": "sys_ui_related_list",
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2020-01-23 12:18:37",
+  "sys_id": "d6dd5f891baac490059a65b82d4bcbdb",
+  "sys_mod_count": 0,
+  "sys_name": "Problem - brazil",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_related_problem_br_view",
+  "sys_updated_by": "admsherine",
+  "sys_updated_on": "2020-01-23 12:18:37",
+  "view": "4d48de19dbed3700fb9541a405961987",
+  "view_name": null
+}
