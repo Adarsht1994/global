@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-02-07 06:43:30">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>New Update Set 5</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c6c0eb351bb2c41400584225bd4bcbd3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-02-07 06:43:30</sys_created_on>
+<sys_id>63f0ef351bb2c41400584225bd4bcb7c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-02-07 06:43:30</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Integration">19190fabdbebd300dfa9b94ffe96193e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_e0b0e3f11bb2c41400584225bd4bcb20</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;abcdef&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("test123");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-02-07 06:42:30&lt;/sys_created_on&gt;&lt;sys_id&gt;e0b0e3f11bb2c41400584225bd4bcb20&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;abcdef&lt;/sys_name&gt;&lt;sys_package display_value="CICD Integration" source="19190fabdbebd300dfa9b94ffe96193e"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Integration"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_e0b0e3f11bb2c41400584225bd4bcb20&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-02-07 06:42:57&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1672943884</payload_hash>
+<remote_update_set display_value="New Update Set 5">63f0ef351bb2c41400584225bd4bcb7c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-02-07 06:43:30</sys_created_on>
+<sys_id>2bf0ef351bb2c41400584225bd4bcb7c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1701e63205b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-02-07 06:43:30</sys_updated_on>
+<table/>
+<target_name>abcdef</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>2bd06f35ffb2c41401ea691e623de702</update_guid>
+<update_guid_history>2bd06f35ffb2c41401ea691e623de702:-1672943884,b8c06ff137b2c414429a89afb302dc0b:-2051272176</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
