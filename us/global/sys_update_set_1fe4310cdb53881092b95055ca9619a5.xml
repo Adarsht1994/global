@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-02-26 09:05:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TestingDevopps</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>1fe4310cdb53881092b95055ca9619a5</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-02-26 09:05:36</sys_created_on>
+<sys_id>9ab7754c1bd3881079c9a9722a4bcb2d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-02-26 09:05:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_4d6735c0db93881092b95055ca9619e8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>testing devops</description><enable_parameterized_testing>false</enable_parameterized_testing><name>My New Test</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:18</sys_created_on><sys_id>4d6735c0db93881092b95055ca9619e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My New Test</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_atf_test_4d6735c0db93881092b95055ca9619e8</sys_update_name><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:18</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=4d6735c0db93881092b95055ca9619e8"/></record_update>]]></payload>
+<payload_hash>-1276613534</payload_hash>
+<remote_update_set display_value="TestingDevopps">9ab7754c1bd3881079c9a9722a4bcb2d</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-02-26 09:05:36</sys_created_on>
+<sys_id>56b7754c1bd3881079c9a9722a4bcb2e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17080bd5d120000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-02-26 09:05:36</sys_updated_on>
+<table/>
+<target_name>My New Test</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>576775c0cb938810fac05153de7618d9</update_guid>
+<update_guid_history>576775c0cb938810fac05153de7618d9:-1276613534</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_5177b5c0db93881092b95055ca9619d3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create and impersonate user 'testing devopss'</description><display_name>Create a User</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>5177b5c0db93881092b95055ca9619d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create a User</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_atf_step_5177b5c0db93881092b95055ca9619d3</sys_update_name><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><table/><test display_value="My New Test">4d6735c0db93881092b95055ca9619e8</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=5177b5c0db93881092b95055ca9619d3"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5177b5c0db93881092b95055ca9619d3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>2587b5c0db93881092b95055ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><value>1</value><variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5177b5c0db93881092b95055ca9619d3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>2987b5c0db93881092b95055ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><value/><variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5177b5c0db93881092b95055ca9619d3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>6187b5c0db93881092b95055ca96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><value>testing</value><variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5177b5c0db93881092b95055ca9619d3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>ad87b5c0db93881092b95055ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><value>devopss</value><variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5177b5c0db93881092b95055ca9619d3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>e987b5c0db93881092b95055ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><value/><variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=5177b5c0db93881092b95055ca9619d3"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>first_name</field><id>5177b5c0db93881092b95055ca9619d3</id><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>ed87b5c0db93881092b95055ca961908</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table><value>testing</value></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>groups</field><id>5177b5c0db93881092b95055ca9619d3</id><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>6987b5c0db93881092b95055ca961908</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table><value/></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>last_name</field><id>5177b5c0db93881092b95055ca9619d3</id><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>2d87b5c0db93881092b95055ca961908</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table><value>devopss</value></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>roles</field><id>5177b5c0db93881092b95055ca9619d3</id><sys_created_by>admAdarsh</sys_created_by><sys_created_on>2020-02-26 09:04:44</sys_created_on><sys_id>a187b5c0db93881092b95055ca961909</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admAdarsh</sys_updated_by><sys_updated_on>2020-02-26 09:04:44</sys_updated_on><table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table><value/></sys_element_mapping></record_update>]]></payload>
+<payload_hash>-1014891183</payload_hash>
+<remote_update_set display_value="TestingDevopps">9ab7754c1bd3881079c9a9722a4bcb2d</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-02-26 09:05:36</sys_created_on>
+<sys_id>9eb7754c1bd3881079c9a9722a4bcb2d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17080bdc2940000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-02-26 09:05:36</sys_updated_on>
+<table/>
+<target_name>Create a User</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>258779c0c6938810495c060d93ac8503</update_guid>
+<update_guid_history>258779c0c6938810495c060d93ac8503:-1014891183</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

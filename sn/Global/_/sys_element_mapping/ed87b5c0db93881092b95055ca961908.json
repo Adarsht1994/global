@@ -1,0 +1,12 @@
+{
+  "field": "first_name",
+  "id": "5177b5c0db93881092b95055ca9619d3",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-02-26 09:04:44",
+  "sys_id": "ed87b5c0db93881092b95055ca961908",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-02-26 09:04:44",
+  "table": "var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d",
+  "value": "testing"
+}
