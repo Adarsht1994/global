@@ -1,0 +1,23 @@
+{
+  "element": "opex_cost",
+  "help": null,
+  "hint": "Planejamento Operacional",
+  "label": "Despesas (OPEX)",
+  "language": "pb",
+  "name": "planned_task",
+  "plural": "Despesas (OPEX)",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "system",
+  "sys_created_on": "2018-11-11 06:09:39",
+  "sys_id": "7a2062c6dbb17300bac12736059619dd",
+  "sys_mod_count": 2,
+  "sys_name": "Despesas (OPEX)",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_documentation_planned_task_opex_cost_pb",
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2020-01-23 08:01:28",
+  "url": null,
+  "url_target": null
+}
