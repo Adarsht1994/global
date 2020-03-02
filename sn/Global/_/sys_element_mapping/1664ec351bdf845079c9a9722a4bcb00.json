@@ -1,0 +1,12 @@
+{
+  "field": "last_name",
+  "id": "f1546c351bdf845079c9a9722a4bcb4e",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-03-02 13:30:58",
+  "sys_id": "1664ec351bdf845079c9a9722a4bcb00",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-03-02 13:30:58",
+  "table": "var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d",
+  "value": "Test"
+}
