@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "2437f8c6dbdbc45092b95055ca96198b",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-03-03 09:32:09",
+  "sys_id": "f557b80adbdbc45092b95055ca9619a9",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-03-03 09:32:09",
+  "value": "Devopss",
+  "variable": "1985e0ceff2433008d3f5d9ad53bf1ba"
+}
