@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "TEstDEVOPS",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\TEstDEVOPS.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-03-03 13:34:03",
+  "sys_id": "bcae29ce1b1b485079c9a9722a4bcbb9",
+  "sys_mod_count": 0,
+  "sys_name": "TEstDEVOPS",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_bcae29ce1b1b485079c9a9722a4bcbb9",
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-03-03 13:34:03",
+  "unloadable": false
+}
