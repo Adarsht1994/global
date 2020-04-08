@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "test123455",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\test123455.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admAdarsh",
+  "sys_created_on": "2020-04-08 06:35:49",
+  "sys_id": "3d28e529db089c5092b95055ca961923",
+  "sys_mod_count": 0,
+  "sys_name": "test123455",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_3d28e529db089c5092b95055ca961923",
+  "sys_updated_by": "admAdarsh",
+  "sys_updated_on": "2020-04-08 06:35:49",
+  "unloadable": false
+}
