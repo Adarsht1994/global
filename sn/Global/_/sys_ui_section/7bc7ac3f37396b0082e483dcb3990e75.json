@@ -1,0 +1,21 @@
+{
+  "caption": "Support Information",
+  "header": false,
+  "name": "cmdb_ci_netgear",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admShubham",
+  "sys_created_on": "2018-11-22 12:57:10",
+  "sys_id": "7bc7ac3f37396b0082e483dcb3990e75",
+  "sys_mod_count": 0,
+  "sys_name": "Support Information",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_7bc7ac3f37396b0082e483dcb3990e75",
+  "sys_updated_by": "admShubham",
+  "sys_updated_on": "2018-11-22 12:57:10",
+  "title": false,
+  "view": "Default view",
+  "view_name": null
+}
