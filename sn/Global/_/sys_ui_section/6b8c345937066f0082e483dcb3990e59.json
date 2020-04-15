@@ -1,0 +1,21 @@
+{
+  "caption": "Support Information",
+  "header": false,
+  "name": "cmdb_ci_ip_firewall",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admShubham",
+  "sys_created_on": "2018-11-27 06:18:42",
+  "sys_id": "6b8c345937066f0082e483dcb3990e59",
+  "sys_mod_count": 0,
+  "sys_name": "Support Information",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_6b8c345937066f0082e483dcb3990e59",
+  "sys_updated_by": "admShubham",
+  "sys_updated_on": "2018-11-27 06:18:42",
+  "title": false,
+  "view": "Default view",
+  "view_name": null
+}
