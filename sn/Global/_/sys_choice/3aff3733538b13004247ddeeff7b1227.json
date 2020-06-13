@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Work in Progress",
+  "language": "en",
+  "name": "problem_task",
+  "sequence": 7,
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-07-09 11:49:06",
+  "sys_id": "3aff3733538b13004247ddeeff7b1227",
+  "sys_mod_count": 11,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 10:33:36",
+  "value": 154
+}

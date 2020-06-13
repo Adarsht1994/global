@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Novo",
+  "language": "pb",
+  "name": "problem_task",
+  "sequence": 1,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-05-01 03:52:23",
+  "sys_id": "6779aecf1b813300ec968597dc4bcb83",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-05-01 03:52:23",
+  "value": 151
+}

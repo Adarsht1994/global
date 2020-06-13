@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Pending",
+  "language": "en",
+  "name": "problem_task",
+  "sequence": 1,
+  "sys_created_by": "tanpal",
+  "sys_created_on": "2019-12-12 07:22:12",
+  "sys_id": "2a3702e71be9481000584225bd4bcb41",
+  "sys_mod_count": 13,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 10:11:49",
+  "value": -5
+}

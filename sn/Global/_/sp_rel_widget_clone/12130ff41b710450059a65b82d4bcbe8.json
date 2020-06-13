@@ -1,0 +1,19 @@
+{
+  "child": "52130ff41b710450059a65b82d4bcbe4",
+  "cloned": "2019-12-16 08:56:10",
+  "last_validated": "2019-12-16 08:56:10",
+  "parent": "0fb269305b3212000d7ec7ad31f91ae2",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><sp_widget><category>standard</category><client_script><![CDATA[function($scope, $rootScope, spUtil) {\n\tvar c = this;\n\tc.expanded = !spUtil.isMobile();\n\tc.expand = function() {\n\t\tc.expanded = true;\n\t};\n\n\tvar deregister = $rootScope.$on(\"sp.update.breadcrumbs\", function(e, list) {\n\t\tc.breadcrumbs = list;\n\t});\n\n\t$scope.$on('$destroy', function(){\n\t\tderegister();\n\t});\n\n}]]></client_script><controller_as>c</controller_as><css>.nav {\n  li {\n    padding: 10px 7px;\n\n    &gt; span {\n      &gt; a {\n          display: inline;\n      }\n\n      &gt; i {\n          padding-left: 15px;\n      }\n    }\n  }\n}\n\n.a-disabled {\n  cursor: default;\n  color: $sp-disabled-breadcrumb;\n}</css><data_table>sp_instance</data_table><demo_data/><description/><docs/><field_list/><has_preview>false</has_preview><id>breadcrumbs</id><internal>false</internal><link/><name>breadcrumbs</name><option_schema/><public>false</public><roles/><script/><servicenow>true</servicenow><sys_class_name>sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-04-12 21:39:53</sys_created_on><sys_id>0fb269305b3212000d7ec7ad31f91ae2</sys_id><sys_mod_count>40</sys_mod_count><sys_name>breadcrumbs</sys_name><sys_package display_value=\"Service Portal - Core\" source=\"com.glide.service-portal\">808f72bd1bf133007456ecadee4bcb97</sys_package><sys_policy/><sys_scope display_value=\"Global\">global</sys_scope><sys_update_name>sp_widget_0fb269305b3212000d7ec7ad31f91ae2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-03-15 05:41:38</sys_updated_on><template><![CDATA[<div aria-label=\"${Page breadcrumbs}\" role=\"navigation\">\n<ul class=\"nav nav-pills nav-sm\">\n  <li>\n    <span><a ng-href=\"?id={{portal.homepage_dv}}\">${Home}</a>\n      <i aria-hidden=\"true\" class=\"fa fa-chevron-right\"></i></span>\n  </li>\n  <li ng-if=\"!c.expanded &amp;&amp; c.breadcrumbs &amp;&amp; c.breadcrumbs.length > 2\">\n    <span><a ng-click=\"c.expand()\"><i class=\"fa fa-ellipsis-h\" aria-hidden=\"true\"></i></a>\n      <i aria-hidden=\"true\" class=\"fa fa-chevron-right\"></i></span>\n  </li>\n  <li ng-if=\"!c.breadcrumbs\"><span><a style=\"display: inline;\" class=\"a-disabled\" aria-current=\"page\" href>{{page.title}}</a></span></li>\n  <li ng-if=\"c.expanded || ((c.breadcrumbs.length > 2  &amp;&amp; $index > c.breadcrumbs.length-3) || (c.breadcrumbs.length <= 2))\" ng-repeat=\"item in c.breadcrumbs track by $index\" >\n    <span><a ng-if=\"!$last\" ng-href=\"{{item.url}}\">{{item.label}}</a>\n      <a class=\"a-disabled\" ng-if=\"$last\" aria-current=\"page\" href>{{item.label}}</a>\n      <i aria-hidden=\"true\" ng-if=\"!$last\" class=\"fa fa-chevron-right\"></i></span>\n  </li>\n</ul>\n</div>]]></template></sp_widget>",
+  "sys_class_name": "sp_rel_widget_clone",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-16 08:56:10",
+  "sys_id": "12130ff41b710450059a65b82d4bcbe8",
+  "sys_mod_count": 0,
+  "sys_name": "52130ff41b710450059a65b82d4bcbe4",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sp_rel_widget_clone_12130ff41b710450059a65b82d4bcbe8",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 08:56:10"
+}

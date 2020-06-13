@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "conditions": "cause_code!=vendor issue^EQ",
+  "description": null,
+  "global": true,
+  "inherit": false,
+  "isolate_script": true,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": false,
+  "script_false": {
+    "____see": "sn\\Global\\UI Policy\\problem_task\\active_true\\Hide Vendor when Cause code is not Vendor Issue\\script_false.js"
+  },
+  "script_true": {
+    "____see": "sn\\Global\\UI Policy\\problem_task\\active_true\\Hide Vendor when Cause code is not Vendor Issue\\script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Hide Vendor when Cause code is not Vendor Issue",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-07-18 08:19:24",
+  "sys_id": "9726a5f6535b13004247ddeeff7b12d5",
+  "sys_mod_count": 6,
+  "sys_name": "Hide Vendor when Cause code is not Vendor Issue",
+  "sys_package": "62014f391b3533007456ecadee4bcbdb",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_policy_9726a5f6535b13004247ddeeff7b12d5",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 09:59:35",
+  "table": "problem_task",
+  "u_roles": null,
+  "ui_type": 0,
+  "view": null
+}

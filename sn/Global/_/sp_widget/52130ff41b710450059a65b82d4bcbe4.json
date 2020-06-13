@@ -1,0 +1,42 @@
+{
+  "category": "standard",
+  "client_script": {
+    "____see": "sn\\Global\\Widget\\sp_instance\\sm breadcrumbs-sm_breadcrumbs\\client_script.js"
+  },
+  "controller_as": "c",
+  "css": ".nav {\n  li {\n    padding: 10px 7px;\n\n    > span {\n      > a {\n          display: inline;\n      }\n\n      > i {\n          padding-left: 15px;\n      }\n    }\n  }\n}\n\n.a-disabled {\n  cursor: default;\n  color: $sp-disabled-breadcrumb;\n}",
+  "data_table": "sp_instance",
+  "demo_data": null,
+  "description": null,
+  "docs": null,
+  "field_list": null,
+  "has_preview": false,
+  "id": "sm_breadcrumbs",
+  "internal": false,
+  "link": {
+    "____see": "sn\\Global\\Widget\\sp_instance\\sm breadcrumbs-sm_breadcrumbs\\link.js"
+  },
+  "name": "sm breadcrumbs",
+  "option_schema": null,
+  "public": false,
+  "roles": null,
+  "script": {
+    "____see": "sn\\Global\\Widget\\sp_instance\\sm breadcrumbs-sm_breadcrumbs\\script.js"
+  },
+  "servicenow": false,
+  "sys_class_name": "sp_widget",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-16 08:56:10",
+  "sys_id": "52130ff41b710450059a65b82d4bcbe4",
+  "sys_mod_count": 1,
+  "sys_name": "sm breadcrumbs",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sp_widget_52130ff41b710450059a65b82d4bcbe4",
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 08:56:47",
+  "template": {
+    "____see": "sn\\Global\\Widget\\sp_instance\\sm breadcrumbs-sm_breadcrumbs\\template.xhtml"
+  }
+}

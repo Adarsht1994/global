@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Closed",
+  "language": "en",
+  "name": "problem_task",
+  "sequence": 9,
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-07-09 11:49:53",
+  "sys_id": "99204400539b13004247ddeeff7b12c8",
+  "sys_mod_count": 11,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-16 10:33:36",
+  "value": 157
+}

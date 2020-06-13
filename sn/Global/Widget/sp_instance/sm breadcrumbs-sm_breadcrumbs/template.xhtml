@@ -1,0 +1,27 @@
+<!-- 
+ * Application : Global
+ * ClassName   : sp_widget
+ * Created On  : 2019-12-16 08:56:10
+ * Created By  : lghori
+ * Updated On  : 2019-12-16 08:56:47
+ * Updated By  : lghori
+ * URL         : /sp_widget.do?sys_id=52130ff41b710450059a65b82d4bcbe4
+-->
+<div aria-label="${Page breadcrumbs}" role="navigation">
+<ul class="nav nav-pills nav-sm">
+  <li>
+    <span><a ng-href="?id={{portal.homepage_dv}}">${Home}</a>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i></span>
+  </li>
+  <li ng-if="!c.expanded &amp;&amp; c.breadcrumbs &amp;&amp; c.breadcrumbs.length > 2">
+    <span><a ng-click="c.expand()"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></a>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i></span>
+  </li>
+  <li ng-if="!c.breadcrumbs"><span><a style="display: inline;" class="a-disabled" aria-current="page" href>{{page.title}}</a></span></li>
+  <li ng-if="c.expanded || ((c.breadcrumbs.length > 2  &amp;&amp; $index > c.breadcrumbs.length-3) || (c.breadcrumbs.length <= 2))" ng-repeat="item in c.breadcrumbs track by $index" >
+    <span><a ng-if="!$last" ng-href="{{item.url}}">{{item.label}}</a>
+      <a class="a-disabled" ng-if="$last" aria-current="page" href>{{item.label}}</a>
+      <i aria-hidden="true" ng-if="!$last" class="fa fa-chevron-right"></i></span>
+  </li>
+</ul>
+</div>

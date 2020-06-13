@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-16 10:37:58">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>LG_SLATAM_Portal</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>68be7ab81b310450059a65b82d4bcb30</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>496a93781bf5c05000584225bd4bcbef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>m2m_sp_portal_search_source_2e398ff41bb10450059a65b82d4bcb87</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source"><m2m_sp_portal_search_source action="DELETE"><order>100</order><sp_portal display_value="SLATAM">722a7ea91b6dcc5400584225bd4bcb55</sp_portal><sp_search_source display_value="SM Knowledge Search">aac7c3741bb10450059a65b82d4bcbc6</sp_search_source><sys_class_name>m2m_sp_portal_search_source</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 09:22:57</sys_created_on><sys_id>2e398ff41bb10450059a65b82d4bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SLATAM.SM Knowledge Search</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>m2m_sp_portal_search_source_2e398ff41bb10450059a65b82d4bcb87</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 09:22:57</sys_updated_on></m2m_sp_portal_search_source></record_update>]]></payload>
+<payload_hash>2076700542</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>016a93781bf5c05000584225bd4bcbf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e1c447f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>SLATAM.SM Knowledge Search</target_name>
+<type>Search Source</type>
+<update_domain>global</update_domain>
+<update_guid>712f83f0c1f10450927983c5d7da19a6</update_guid>
+<update_guid_history>712f83f0c1f10450927983c5d7da19a6:2076700542,aa398ff483b10450b76f0d236420b489:832105482</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>m2m_sp_portal_search_source_e11f4fb01bf10450059a65b82d4bcb3f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source"><m2m_sp_portal_search_source action="INSERT_OR_UPDATE"><order>100</order><sp_portal display_value="SLATAM">722a7ea91b6dcc5400584225bd4bcb55</sp_portal><sp_search_source display_value="Knowledge Bases">c6170ae86721220023c82e08f585efe6</sp_search_source><sys_class_name>m2m_sp_portal_search_source</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 09:48:33</sys_created_on><sys_id>e11f4fb01bf10450059a65b82d4bcb3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SLATAM.Knowledge Bases</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>m2m_sp_portal_search_source_e11f4fb01bf10450059a65b82d4bcb3f</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 09:48:33</sys_updated_on></m2m_sp_portal_search_source></record_update>]]></payload>
+<payload_hash>757657266</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>096a93781bf5c05000584225bd4bcbf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e1c013e0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>SLATAM.Knowledge Bases</target_name>
+<type>Search Source</type>
+<update_domain>global</update_domain>
+<update_guid>ed1f4fb09ef1045063aa989ea7dee840</update_guid>
+<update_guid_history>ed1f4fb09ef1045063aa989ea7dee840:757657266</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_cbd73f02535313004247ddeeff7b12ad</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="problem_task"&gt;state!=157^EQ&lt;item display_value="157" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="157"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hide Close code when State is not Closed&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-16 11:00:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cbd73f02535313004247ddeeff7b12ad&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide Close code when State is not Closed&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_cbd73f02535313004247ddeeff7b12ad&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:59:40&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-747874463</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>116a5f781bf5c05000584225bd4bcbd7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e262b070000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Hide Close code when State is not Closed</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>94a15f389af10450a59fad8cc3e1a387</update_guid>
+<update_guid_history>94a15f389af10450a59fad8cc3e1a387:-747874463,8e319ff4b7f1045029ef9d6b45633eec:1971073580,02319ff40cf104500a4cae83b67b14eb:-747874463</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_52130ff41b710450059a65b82d4bcbe4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function($scope, $rootScope, spUtil) {
+	var c = this;
+	c.expanded = !spUtil.isMobile();
+	c.expand = function() {
+		c.expanded = true;
+	};
+
+	var deregister = $rootScope.$on("sp.update.breadcrumbs", function(e, list) {
+		c.breadcrumbs = list;
+	});
+
+	$scope.$on('$destroy', function(){
+		deregister();
+	});
+
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.nav {
+  li {
+    padding: 10px 7px;
+
+    &amp;gt; span {
+      &amp;gt; a {
+          display: inline;
+      }
+
+      &amp;gt; i {
+          padding-left: 15px;
+      }
+    }
+  }
+}
+
+.a-disabled {
+  cursor: default;
+  color: $sp-disabled-breadcrumb;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;sm_breadcrumbs&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function link(scope, element, attrs, controller) {  }]]&gt;&lt;/link&gt;&lt;name&gt;sm breadcrumbs&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;lghori&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 08:56:10&lt;/sys_created_on&gt;&lt;sys_id&gt;52130ff41b710450059a65b82d4bcbe4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;sm breadcrumbs&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_52130ff41b710450059a65b82d4bcbe4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 08:56:47&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div aria-label="${Page breadcrumbs}" role="navigation"&gt;
+&lt;ul class="nav nav-pills nav-sm"&gt;
+  &lt;li&gt;
+    &lt;span&gt;&lt;a ng-href="?id={{portal.homepage_dv}}"&gt;${Home}&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.expanded &amp;amp;&amp;amp; c.breadcrumbs &amp;amp;&amp;amp; c.breadcrumbs.length &gt; 2"&gt;
+    &lt;span&gt;&lt;a ng-click="c.expand()"&gt;&lt;i class="fa fa-ellipsis-h" aria-hidden="true"&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.breadcrumbs"&gt;&lt;span&gt;&lt;a style="display: inline;" class="a-disabled" aria-current="page" href&gt;{{page.title}}&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li ng-if="c.expanded || ((c.breadcrumbs.length &gt; 2  &amp;amp;&amp;amp; $index &gt; c.breadcrumbs.length-3) || (c.breadcrumbs.length &lt;= 2))" ng-repeat="item in c.breadcrumbs track by $index" &gt;
+    &lt;span&gt;&lt;a ng-if="!$last" ng-href="{{item.url}}"&gt;{{item.label}}&lt;/a&gt;
+      &lt;a class="a-disabled" ng-if="$last" aria-current="page" href&gt;{{item.label}}&lt;/a&gt;
+      &lt;i aria-hidden="true" ng-if="!$last" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1656587718</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>116a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0dec99dd0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>sm breadcrumbs</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>cf3307382371045073f60be5fae4bc4c</update_guid>
+<update_guid_history>cf3307382371045073f60be5fae4bc4c:-1656587718,da130ff4d87104506af37d5191653de6:-1086012558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_d36a573e535b13004247ddeeff7b12db</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ProblemTaskStateUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Provides utility APIs for state transitions on the Problem Task record.&amp;#13;
+&amp;#13;
+Overwrite functions defined in ProblemTaskStateUtilsSNC, by defining the same function in this script include.&lt;/description&gt;&lt;name&gt;ProblemTaskStateUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ProblemTaskStateUtils = Class.create();
+
+ProblemTaskStateUtils.prototype = Object.extendsObject(ProblemTaskStateUtilsSNC, {
+    initialize: function(argument) {
+		ProblemTaskStateUtilsSNC.prototype.initialize.call(this, argument);
+    },
+
+    type: 'ProblemTaskStateUtils'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-18 16:48:40&lt;/sys_created_on&gt;&lt;sys_id&gt;d36a573e535b13004247ddeeff7b12db&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name&gt;ProblemTaskStateUtils&lt;/sys_name&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d36a573e535b13004247ddeeff7b12db&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:28:11&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>799276906</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>156a5f781bf5c05000584225bd4bcbd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e404a5d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>ProblemTaskStateUtils</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>062857f495350450e308e83b3c8d1620</update_guid>
+<update_guid_history>062857f495350450e308e83b3c8d1620:799276906,e37713b48435045052e97881209bb9e0:1545990647,4eca18c811b14c108e42ebc17188091f:799276906,1c4a9488ffb14c10bd0f9c1269ad2502:1545990647,dc4a548814b14c10a72f60bb63171aff:799276906</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_d70eafaf1b29881000584225bd4bcb36</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">eecc6b2f1b29881000584225bd4bcbbe</sp_column><sp_widget display_value="breadcrumbs">0fb269305b3212000d7ec7ad31f91ae2</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-12 14:51:27</sys_created_on><sys_id>d70eafaf1b29881000584225bd4bcb36</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_d70eafaf1b29881000584225bd4bcb36</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-12 14:51:27</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=d70eafaf1b29881000584225bd4bcb36"/></record_update>]]></payload>
+<payload_hash>-1178014866</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>156a93781bf5c05000584225bd4bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0dde27a20000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>c4afb630dd710450759398cad69a1682</update_guid>
+<update_guid_history>c4afb630dd710450759398cad69a1682:-1178014866,df0eafaf27298810a3bb0ff9019b9837:989350370</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_b035c5d5870123000e3dd61e36cb0b81</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Modals for Problem Task state transition&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+
+	var isMobile = false;
+	var ua = window.navigator.userAgent;
+	if( ua.match(/Android/i) ||
+		ua.match(/webOS/i) ||
+		ua.match(/iPhone/i) ||
+		ua.match(/iPad/i) ||
+		ua.match(/iPod/i) ||
+		ua.match(/BlackBerry/i) ||
+		ua.match(/Windows Phone/i))
+			isMobile = true;
+
+	var view = g_form.getViewName();
+	if(view === "ptask_cancel_dialog_view" || view === "ptask_complete_dialog_view_1" || view === "ptask_complete_dialog_view_2" || view === "ptask_assess_dialog_view") {
+ 		document.getElementById("page_timing_div").style.display = "none";
+		document.getElementById("problem_task.form_scroll").classList.remove("touch_scroll");
+		document.getElementById("template-bar-aria-container").style.display = "none";
+		var buttonsArray = $j(".form_action_button:not(#sysverb_modal_ok_bottom,#sysverb_modal_cancel_bottom)");
+		for(var i = 0; i &lt; buttonsArray.length; i++) {
+			buttonsArray[i].style.display = 'none';
+		}
+		var formActionContainer = document.getElementsByClassName("form_action_button_container")[0];
+		formActionContainer.style.paddingTop = "20px";
+		formActionContainer.style.paddingLeft = "685px";
+
+		if(view == "ptask_complete_dialog_view_1")
+			formActionContainer.style.paddingLeft = "735px";
+
+		if(isMobile)
+			formActionContainer.style.paddingLeft = "305px";
+		document.getElementsByClassName("related_links")[0].style.display = "none";
+		document.getElementsByClassName("related_links_container")[0].style.display = "none";
+	}
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-10-08 13:55:29&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b035c5d5870123000e3dd61e36cb0b81&lt;/sys_id&gt;&lt;sys_mod_count&gt;17&lt;/sys_mod_count&gt;&lt;sys_name&gt;Modals for Problem Task state transition&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_b035c5d5870123000e3dd61e36cb0b81&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:56:03&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>19290222</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>196a5f781bf5c05000584225bd4bcbd5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e22dc740000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Modals for Problem Task state transition</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>d3c013f4d1f10450ffe0405cc710a16e</update_guid>
+<update_guid_history>d3c013f4d1f10450ffe0405cc710a16e:19290222,19af433474f1045072158289e7cb8b2d:-338845631,1c45d800c7b14c1028d148e679232d2a:19290222,e4d4d0cc98714c101033ab7a81878ebb:-338845631,33b63f372ead0c10a33a011912fd4480:19290222,7626f7f3f0ad0c1048846e4c9641b4e8:-338845631,3626f7f36fad0c10d03d2db6355215e6:19290222</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_132aba71538823004247ddeeff7b1201</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Dynamically change the Closed field labels based on Close code.&lt;/description&gt;&lt;field&gt;close_code&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages&gt;Closed&amp;#13;
+Closed by&amp;#13;
+Close notes&amp;#13;
+Canceled&amp;#13;
+Canceled by&amp;#13;
+Canceled reason&amp;#13;
+Completed&amp;#13;
+Completed by&lt;/messages&gt;&lt;name&gt;Rename Closed fields on change&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading) {
+		return;
+	}
+	// checking support of setLabel api for workspace
+	var changeLabel = g_form.setLabel;
+	if (!changeLabel) 
+		changeLabel = g_form.setLabelOf.bind(g_form);
+	else
+		changeLabel = g_form.setLabel.bind(g_form);
+	
+	if (g_form.getValue('close_code') === '') {
+		if (g_form.hasField('closed_at')) 
+			changeLabel('closed_at', getMessage("Closed"));
+		if (g_form.hasField('closed_by'))
+			changeLabel('closed_by', getMessage("Closed by"));
+		if (g_form.hasField('close_notes'))
+			changeLabel('close_notes', getMessage("Close notes"));
+	}	
+		if (g_form.getValue('close_code') === 'canceled') {
+		if (g_form.hasField('closed_at'))
+			changeLabel('closed_at', getMessage("Canceled"));				
+		if (g_form.hasField('closed_by'))
+			changeLabel('closed_by', getMessage("Canceled by"));
+		if (g_form.hasField('close_notes'))
+			changeLabel('close_notes', getMessage("Canceled reason"));
+	}
+		
+	if (g_form.getValue('close_code') === 'completed') {
+		if (g_form.hasField('closed_at'))
+			changeLabel('closed_at', getMessage("Completed"));
+		if (g_form.hasField('closed_by'))
+			changeLabel('closed_by', getMessage("Completed by"));
+	}
+	
+	if (g_form.getValue('problem_task_type') == 'rca' &amp;&amp; g_form.getValue('state') == g_scratchpad.PRBTASK_STATES.CLOSED &amp;&amp; g_form.getValue('close_code') == 'canceled')
+		g_form.setDisplay('close_notes', true);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-21 18:40:01&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;132aba71538823004247ddeeff7b1201&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Rename Closed fields on change&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_132aba71538823004247ddeeff7b1201&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:56:03&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>50928224</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>1d6a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e22dce80000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Rename Closed fields on change</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>13c013f4b4f10450a07e32ba38727677</update_guid>
+<update_guid_history>13c013f4b4f10450a07e32ba38727677:50928224,19509f7463f10450bc87ea8d75352dac:2084444589,329d0ccc18314c101be244006b4d3efe:50928224,ae8d0000b8714c10647cfb1821bea77f:2084444589,ae8d00006c714c104d6ad3c74dacca7d:50928224</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_b16748eb535b13004247ddeeff7b12c5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ProblemTaskState&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ProblemTaskState&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ProblemTaskState = Class.create();
+gs.addInfoMessage('test');
+
+ProblemTaskState.States = {
+							NEW: ProblemTaskStateSNC.NEW,
+							ASSESS: ProblemTaskStateSNC.ASSESS,
+							WORK_IN_PROGRESS: ProblemTaskStateSNC.WORK_IN_PROGRESS,
+							CLOSED: ProblemTaskStateSNC.CLOSED
+						  };
+
+ProblemTaskState.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getProblemTaskState: function() {
+		return ProblemTaskState.States;
+	},
+	
+    type: 'ProblemTaskState'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-20 09:24:59&lt;/sys_created_on&gt;&lt;sys_id&gt;b16748eb535b13004247ddeeff7b12c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;28&lt;/sys_mod_count&gt;&lt;sys_name&gt;ProblemTaskState&lt;/sys_name&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_b16748eb535b13004247ddeeff7b12c5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:30:01&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-663781378</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>516a5f781bf5c05000584225bd4bcbd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e41f5100000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>ProblemTaskState</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>f09857f4673504505dbac6d97eb6effe</update_guid>
+<update_guid_history>f09857f4673504505dbac6d97eb6effe:-663781378,dd2817f48b350450aa3fc377e8a32ea5:-1092301302,2b771374f13504503bdb9ccde703263d:198639447,15cad4c82fb14c1010fd9cb52f468bde:-1092301302,904a548891b14c10e3216e4aeb301cfd:198639447,584a9088d1b14c106d2213f125c6f60a:-1092301302</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_6f534f381b710450059a65b82d4bcb41</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">eecc6b2f1b29881000584225bd4bcbbe</sp_column><sp_widget display_value="sm breadcrumbs">52130ff41b710450059a65b82d4bcbe4</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 08:57:21</sys_created_on><sys_id>6f534f381b710450059a65b82d4bcb41</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_6f534f381b710450059a65b82d4bcb41</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 08:57:21</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=6f534f381b710450059a65b82d4bcb41"/></record_update>]]></payload>
+<payload_hash>3512697</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>516a93781bf5c05000584225bd4bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0ded20680000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>eb534f38d37104509ae75b9596d1b043</update_guid>
+<update_guid_history>eb534f38d37104509ae75b9596d1b043:3512697</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_5d061805539023004247ddeeff7b12ef</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;assignment_group&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Empty assigned_to on group change&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading) {
+		return;
+	}
+
+	if (newValue === '' || oldValue != newValue)
+		g_form.setValue("assigned_to", "");
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-31 09:02:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5d061805539023004247ddeeff7b12ef&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Empty assigned_to on group change&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid" source="com.snc.best_practice.problem.madrid"&gt;62014f391b3533007456ecadee4bcbdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_5d061805539023004247ddeeff7b12ef&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:56:03&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-720081387</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>556a93781bf5c05000584225bd4bcbf3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e22dcb00000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Empty assigned_to on group change</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>9bc013f4abf104507cc62c311f183772</update_guid>
+<update_guid_history>9bc013f4abf104507cc62c311f183772:-720081387,81509f74d2f10450cdf5c54c669df6a8:1031418402,0d509f743ff10450e12e56dbd02530a5:-720081387</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_7778af18536b13004247ddeeff7b12dd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;problem_task&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Set state in scratchpad for Problem Task&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	g_scratchpad.PRBTASK_STATES = new ProblemTaskState().getProblemTaskState();
+
+	g_scratchpad.originalState = current.state;
+	g_scratchpad.originalCloseCode = current.close_code;
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-23 09:39:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7778af18536b13004247ddeeff7b12dd&lt;/sys_id&gt;&lt;sys_mod_count&gt;20&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set state in scratchpad for Problem Task&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_7778af18536b13004247ddeeff7b12dd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-01 10:45:39&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before_display&lt;/when&gt;&lt;/sys_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1830067721</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>true</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>596a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e438bc00000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Set state in scratchpad for Problem Task</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>cbe91fb86f350450c68cac153f893d8e</update_guid>
+<update_guid_history>cbe91fb86f350450c68cac153f893d8e:1830067721,daf89b38133504505eed4b5f94753c47:-2074371139,0ac89738f53504507dad5dbbf8dc88c6:-1102619971,1ca902fcbbf5c050600f0ddb5c90e563:1830067721,9d87867804f5c05070fa4dcb94b90c64:934824926,14555040d0b14c1001edc98bd8f2da84:1830067721,c3839cc87d714c10ea0476f391fd1b5f:934824926,7f3190c49e714c10e7a2aedf4230e35f:1830067721,8a105044fc714c100ecad44b8abfc283:934824926,86105cc06c714c10887e4525d08981ba:1830067721</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_a4c34a9f1badc410059a65b82d4bcbfc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="problem_task"&gt;problem.u_member_firm=465bdf551ba58c5400584225bd4bcbf5^EQ&lt;item display_table="u_member_firm" display_value="SM" endquery="false" field="problem.u_member_firm" goto="false" newquery="false" operator="=" or="false" value="465bdf551ba58c5400584225bd4bcbf5"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Fields Read-Only for Problem task &lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;tanpal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-11 12:29:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a4c34a9f1badc410059a65b82d4bcbfc&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Fields Read-Only for Problem task &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_a4c34a9f1badc410059a65b82d4bcbfc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:59:35&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view display_value="SLATAM" name="SLATAM"&gt;SLATAM&lt;/view&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-329153097</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>5d6a5f781bf5c05000584225bd4bcbd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e26190d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Fields Read-Only for Problem task </target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>03915ff448f1045007da7ef4febe3826</update_guid>
+<update_guid_history>03915ff448f1045007da7ef4febe3826:-329153097,c6319ff49af10450d3ffa2d4b0749be8:826374338,4208518c65794c1045ead9e7d8bd7014:-329153097,f447114cf6794c108843cbea769fb163:-1259080063,6e0406df34adc410505c5252140feabe:1372828123</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_search_source_aac7c3741bb10450059a65b82d4bcbc6</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_search_source"&gt;&lt;sp_search_source action="INSERT_OR_UPDATE"&gt;&lt;advanced_typeahead_config&gt;false&lt;/advanced_typeahead_config&gt;&lt;condition/&gt;&lt;data_fetch_script&gt;&lt;![CDATA[var indexGroup = (typeof indexGroup !== "undefined") ? indexGroup : "portal_index_group";
+var queryLocation = queryLocation || 0;
+var count = count || 30;
+var facets = facets || {};
+(function(query, queryLocation, count, facets, indexGroup) {
+			
+	return doContextualSearch(query, count, facets, queryLocation);
+		
+	function doContextualSearch(query, count, facets, queryLocation) {
+		var results = [];
+		
+		var kbArray = [];
+		if(facets.kb_knowledge_base)
+			kbArray.push(facets.kb_knowledge_base);
+		else {
+			var kbs = $sp.getKnowledgeBases();
+			if(!gs.nil(kbs))
+				kbArray = kbs.split(',');
+		}
+
+		// Set up request
+		var request = {
+			keyword : query,
+			language : "",
+			variables : {
+				kb_knowledge_base : kbArray,
+				kb_category : facets.category,
+				author : [facets.author]
+			},
+			resource : 'Knowledge',
+			context : gs.getProperty('glide.knowman.sp.search_context', 'Knowledge Search'),
+			kb_query : getFacetQuery(facets),
+			social_query : "",
+			order : "relevancy,true",
+			start : queryLocation,
+			end : count,
+			attachment : false,
+			knowledge_fields : [
+				"number",
+				"sys_id",
+				"published"
+			],
+			index_group: indexGroup
+		};
+			
+		if (JSUtil.notNil(data.limit) &amp;&amp; !isNaN(data.limit))
+			request.end = data.limit;			
+
+		// execute search return result
+		var response = new KBPortalServiceImpl().getResultData(request);
+
+		// Send results back ro UI
+		var kbCount = 0;
+		for (var i = 0; i &lt; response.results.length; i++) {
+			result = response.results[i];
+			var article = {};
+			article.sys_id = result.meta.sys_id.display_value;
+			article.number = result.meta.number.display_value;
+			article.short_description = result.title;
+			article.published = result.meta.published.display_value;
+			article.publishedUTC = result.meta.published.value;
+			article.type = "kb";
+			article.text = result.snippet || "";
+			article.text = $sp.stripHTML(article.text) + "";
+			article.text = article.text.substring(0, 200);
+			article.score = result.meta.score;
+			article.label = article.short_description;
+			article.primary = article.short_description;
+			article.query_location = queryLocation+kbCount;
+			results.push(article);
+			
+			kbCount++;
+		}
+
+		if (!data.includeFacets)
+		   $sp.logSearch('kb_knowledge', query, kbCount, data.searchType, data.portal, data.page);
+		
+		if (results.length == 0)
+			return results;
+				
+		var lastResult = results.pop();
+				
+		if(results.length &lt;= count) {
+			lastResult.isLastResult = true;
+			results.push(lastResult);
+		}
+				
+		return results;
+	}
+			
+	// Build the kb_query based on facets
+	function getFacetQuery(facets) {
+		var kbFacetMap = {
+			// updated
+			"more_ago"  : "^sys_updated_onRELATIVEGT@year@ago@2",
+			"year_ago"  : "^sys_updated_onRELATIVEGT@year@ago@1",
+			"month_ago" : "^sys_updated_onRELATIVEGT@month@ago@1",
+			"week_ago"  : "^sys_updated_onRELATIVEGT@dayofweek@ago@7",
+			"day_ago"   : "^sys_updated_onRELATIVEGT@dayofweek@ago@1",
+					
+			// viewcount
+			"more_than_500" : "^sys_view_count&gt;500",
+			"more_than_200" : "^sys_view_count&gt;200",
+			"more_than_100" : "^sys_view_count&gt;100",
+			"more_than_50"  : "^sys_view_count&gt;50",
+			"more_than_10"  : "^sys_view_count&gt;10",
+			"less_than_10"  : "^sys_view_count&lt;10"
+		};
+						
+		// Fill in facet info into kbQuery
+		var kbQuery = "";
+		if (facets.updated)
+			kbQuery += kbFacetMap[facets.updated];
+		if (facets.viewcount)
+			kbQuery += kbFacetMap[facets.viewcount];
+				
+		// return built up query, stripping away leading ^
+		return (kbQuery.startsWith("^"))? kbQuery.substring(1): kbQuery;
+	}
+})(query, queryLocation, count, facets, indexGroup);]]&gt;&lt;/data_fetch_script&gt;&lt;display_fields/&gt;&lt;enable_typeahead&gt;true&lt;/enable_typeahead&gt;&lt;facet_generation_script&gt;&lt;![CDATA[(function(query, facetService, searchResults) {
+
+	/* Calculate your facets here using facetService */
+	/* var stateFacet = facetService.createFacet('State', 'state'); */
+	/* stateFacet.addFacetItem('Facet Item Label', '123'); */
+
+	// If no facets selected and no results, don't show any facets
+	if(searchResults.length == 0 &amp;&amp; Object.keys(facets).length == 0)		
+		return;
+		
+	var kbLabelMap = {
+		more_than_500: "More Than 500",
+		more_than_200: "More Than 200",
+		more_than_100: "More Than 100",
+		more_than_50: "More Than 50",
+		more_than_10: "More Than 10",
+		less_than_10: "Less Than 10",
+		more_ago: "Past 2 Years",
+		year_ago: "Past Year",
+		month_ago: "Past Month",
+		week_ago: "Past Week",
+		day_ago: "Past 24 Hours"
+	};
+	
+	var kbArray = [];
+	var kbQuery='';
+	var kbQueryDataObj = {};
+	var kbQueryData = '';
+	
+	var kbs = $sp.getKnowledgeBases();
+	
+	if(!gs.nil(kbs)) {
+		kbArray = kbs.split(',');
+		kbQuery = 'kb_knowledge_baseIN'+kbs;
+		kbQueryDataObj = {value: 'kb', dynamic:false, filters:[{id:'kb', label:'Knowledge base', order:1, query:[{display_value: kbQuery, table: 'kb_knowledge', value: kbQuery}]}]};
+		kbQueryData = JSON.stringify(kbQueryDataObj);
+	}
+	
+	var kbFacets = new KBPortalServiceImpl().getAllFacets(query, 'en',
+		'{"kb_knowledge_base":{"aggregate":false,"include_null":false,"orderby":"label","table":"kb_knowledge","value":[]}, "author":{"aggregate":false,"include_null":false,"orderby":"label","table":"kb_knowledge","value":[]},"kb_category":{"aggregate":false,"include_null":true,"orderby":"label","table":"kb_knowledge","value":[]}}',
+		'{' + (kbQueryData ? 'kb:'+kbQueryData + "," : "") + '"modified":{"dynamic":false,"filters":[{"id":"more_ago","label":"Past 2 Years","order":5,"query":[{"display_value":"sys_updated_onRELATIVEGT@year@ago@2^sys_updated_onRELATIVELT@year@ago@1","table":"","value":"sys_updated_onRELATIVEGT@year@ago@2"}]},{"id":"year_ago","label":"Past Year","order":4,"query":[{"display_value":"sys_updated_onRELATIVEGT@year@ago@1^sys_updated_onRELATIVELT@month@ago@1","table":"","value":"sys_updated_onRELATIVEGT@year@ago@1"}]},{"id":"month_ago","label":"Past Month","order":3,"query":[{"display_value":"sys_updated_onRELATIVEGT@month@ago@1^sys_updated_onRELATIVELT@dayofweek@ago@7","table":"","value":"sys_updated_onRELATIVEGT@month@ago@1"}]},{"id":"week_ago","label":"Past Week","order":2,"query":[{"display_value":"sys_updated_onRELATIVEGT@dayofweek@ago@2^sys_updated_onRELATIVELT@dayofweek@ago@1","table":"","value":"sys_updated_onRELATIVEGT@dayofweek@ago@7"}]},{"id":"day_ago","label":"Past 24 Hours","order":1,"query":[{"display_value":"sys_updated_onRELATIVEGT@dayofweek@ago@1","table":"","value":"sys_updated_onRELATIVEGT@dayofweek@ago@1"}]}],"value":""},"resources":{"dynamic":true,"filters":"","value":"Knowledge"},"view_count":{"dynamic":false,"filters":[{"id":"more_than_500","label":"More Than 500","order":6,"query":[{"display_value":"sys_view_count&gt;500","table":"kb_knowledge","value":"sys_view_count&gt;500"}]},{"id":"more_than_200","label":"More Than 200","order":5,"query":[{"display_value":"sys_view_count&gt;200^sys_view_count&lt;500","table":"kb_knowledge","value":"sys_view_count&gt;200"}]},{"id":"more_than_100","label":"More Than 100","order":4,"query":[{"display_value":"sys_view_count&gt;100^sys_view_count&lt;200","table":"kb_knowledge","value":"sys_view_count&gt;100"}]},{"id":"more_than_50","label":"More Than 50","order":3,"query":[{"display_value":"sys_view_count&gt;50^sys_view_count&lt;100","table":"kb_knowledge","value":"sys_view_count&gt;50"}]},{"id":"more_than_10","label":"More Than 10","order":2,"query":[{"display_value":"sys_view_count&gt;10^sys_view_count&lt;50","table":"kb_knowledge","value":"sys_view_count&gt;10"}]},{"id":"less_than_10","label":"Less Than 10","order":1,"query":[{"display_value":"sys_view_count&lt;11","table":"kb_knowledge","value":"sys_view_count&lt;11"}]}],"value":""}}',
+		'sys_view_count,true');
+
+	var kbFacetObj = JSON.parse(kbFacets);
+	
+	if(kbFacetObj.kb_knowledge_base &amp;&amp; kbFacetObj.kb_knowledge_base.length &gt; 1)
+		createVariableFacetFromKB("Knowledge Base", "kb_knowledge_base", kbFacetObj.kb_knowledge_base, 'label');
+	createVariableFacetFromKB("Author", "author", kbFacetObj.author, 'label');
+	createMultiChoiceFacetFromKB("Category", "category", kbFacetObj.kb_category, 'order');
+	createVariableFacetFromKB("Last Modified", "updated", kbFacetObj.modified, 'order');
+	createVariableFacetFromKB("View Count", "viewcount", kbFacetObj.view_count, 'order');
+
+	function createVariableFacetFromKB(label, variable, values, orderBy){
+		if(!values || values.length == 0) 
+			return;
+
+		var kbFacet = facetService.createFacet(label, variable);
+		
+		if(orderBy)
+			values.sort(function(a, b){
+				if(a[orderBy] &lt; b[orderBy]) 
+					return -1;
+				if(a[orderBy] &gt; b[orderBy]) 
+					return 1;
+				return 0;
+		});
+				
+		if (facets.author &amp;&amp; variable == 'author') 
+			kbFacet.addFacetItem(getLabel(values, facets[variable]), facets[variable]);
+		else if (facets.updated &amp;&amp; variable == 'updated' &amp;&amp; kbLabelMap[facets.updated]) 
+			kbFacet.addFacetItem(kbLabelMap[facets.updated], facets.updated);
+		else if (facets.viewcount &amp;&amp; variable == 'viewcount' &amp;&amp; kbLabelMap[facets.viewcount]) 
+			kbFacet.addFacetItem(kbLabelMap[facets.viewcount], facets.viewcount);
+		else if (facets.kb_knowledge_base &amp;&amp; variable == 'kb_knowledge_base')
+			kbFacet.addFacetItem(getLabel(values, facets[variable]), facets[variable]);
+		else {
+			for(var i in values)
+				kbFacet.addFacetItem(values[i].label, values[i].id);
+		}
+	}
+	
+	function createMultiChoiceFacetFromKB(label, variable, values, orderBy){
+		if(!values || values.length == 0) 
+			return;
+		
+		var kbFacet = facetService.createMultiChoiceFacet(label, variable);
+		
+		if(orderBy)
+			values.sort(function(a, b){
+				if(a[orderBy] &lt; b[orderBy]) 
+					return -1;
+				if(a[orderBy] &gt; b[orderBy]) 
+					return 1;
+				return 0;
+		});
+		
+		var kbMap = {};
+		for(var i in values) {
+			var key = values[i].label;
+            		var value = values[i].id;
+			var parent = new KBParentData().getParentCategory(value, key);
+			key = parent.join(' &gt; ');
+            		kbMap[key] = value;								
+		}
+		
+		for(var mapLabel in kbMap) {
+			kbFacet.addFacetItem(mapLabel, kbMap[mapLabel]);
+		}
+	}
+
+	function getLabel(values, id) {
+		for (var i in values) {
+			if(values[i].id == id)
+				return values[i].label;
+		}
+		return "";
+	}
+})(query, facetService, searchResults);]]&gt;&lt;/facet_generation_script&gt;&lt;id&gt;sm_knowledge_search&lt;/id&gt;&lt;is_scripted_source&gt;true&lt;/is_scripted_source&gt;&lt;name&gt;SM Knowledge Search&lt;/name&gt;&lt;page display_value="kb_article"&gt;dea5792147132100ba13a5554ee4902d&lt;/page&gt;&lt;pagination_supported&gt;false&lt;/pagination_supported&gt;&lt;primary_display_field/&gt;&lt;roles/&gt;&lt;search_page_template&gt;&lt;![CDATA[&lt;div&gt;
+  &lt;a href="?id=form&amp;sys_id={{item.sys_id}}&amp;table={{item.table}}" class="h4 text-primary m-b-sm block"&gt;
+    &lt;span ng-bind-html="highlight(item.primary, data.q)"&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;span class="text-muted" ng-repeat="f in item.fields"&gt;
+    &lt;span class="m-l-xs m-r-xs" ng-if="!$first"&gt; &amp;middot; &lt;/span&gt;
+    {{f.label}}: &lt;span ng-bind-html="highlight(f.display_value, data.q)"&gt;&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/div&gt;]]&gt;&lt;/search_page_template&gt;&lt;source_table/&gt;&lt;sys_class_name&gt;sp_search_source&lt;/sys_class_name&gt;&lt;sys_created_by&gt;lghori&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-16 09:22:57&lt;/sys_created_on&gt;&lt;sys_id&gt;aac7c3741bb10450059a65b82d4bcbc6&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;SM Knowledge Search&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_search_source_aac7c3741bb10450059a65b82d4bcbc6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:26:18&lt;/sys_updated_on&gt;&lt;typeahead_glyph&gt;file-text-o&lt;/typeahead_glyph&gt;&lt;typeahead_template/&gt;&lt;/sp_search_source&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=aac7c3741bb10450059a65b82d4bcbc6"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1081103235</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>5d6a93781bf5c05000584225bd4bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e07a22f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>SM Knowledge Search</target_name>
+<type>Search Source</type>
+<update_domain>global</update_domain>
+<update_guid>ebf94778c4b104509371d3ec6e3198f8</update_guid>
+<update_guid_history>ebf94778c4b104509371d3ec6e3198f8:1081103235,6e398ff494b104501216c5e5d7540a86:-1465117913</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_3787eeca534823004247ddeeff7b1221</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;priority&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Worknotes mandatory onChange of priority&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '' || g_form.isNewRecord())
+		return;
+	else if (newValue == oldValue)
+		g_form.setMandatory("work_notes", false);
+	else
+		g_form.setMandatory("work_notes", true);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-22 11:58:48&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3787eeca534823004247ddeeff7b1221&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Worknotes mandatory onChange of priority&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid" source="com.snc.best_practice.problem.madrid"&gt;62014f391b3533007456ecadee4bcbdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_3787eeca534823004247ddeeff7b1221&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:56:03&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1868554872</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>916a93781bf5c05000584225bd4bcbf3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e22dd220000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Worknotes mandatory onChange of priority</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>97c013f457f104507f89b99ade113f7b</update_guid>
+<update_guid_history>97c013f457f104507f89b99ade113f7b:-1868554872,995013b474f10450923b9bf09286650d:-2023919339,11509f74cff10450a6ff36314d9b47af:-1868554872</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_override_26b851001bb94c10059a65b82d4bcbc5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="DELETE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value>1</default_value><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>state</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>problem_task</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-13 17:17:03</sys_created_on><sys_id>26b851001bb94c10059a65b82d4bcbc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_override_26b851001bb94c10059a65b82d4bcbc5</sys_update_name><sys_updated_by>tanpal</sys_updated_by><sys_updated_on>2019-12-13 17:17:03</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+<payload_hash>-1321726117</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>956a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e2f0fe90000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>state</target_name>
+<type>Dictionary Entry Override</type>
+<update_domain>global</update_domain>
+<update_guid>ead39f7ce0f10450378887878778ac23</update_guid>
+<update_guid_history>ead39f7ce0f10450378887878778ac23:-1321726117,8af859001eb94c10464c79c2d97e5bdc:854942159</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_9726a5f6535b13004247ddeeff7b12d5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="problem_task"&gt;cause_code!=vendor issue^EQ&lt;item display_value="Vendor issue" endquery="false" field="cause_code" goto="false" newquery="false" operator="!=" or="false" value="vendor issue"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hide Vendor when Cause code is not Vendor Issue&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-18 08:19:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9726a5f6535b13004247ddeeff7b12d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide Vendor when Cause code is not Vendor Issue&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid" source="com.snc.best_practice.problem.madrid"&gt;62014f391b3533007456ecadee4bcbdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_9726a5f6535b13004247ddeeff7b12d5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:59:35&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1673789339</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>996a5f781bf5c05000584225bd4bcbd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e26197a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Hide Vendor when Cause code is not Vendor Issue</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>83911f384ef1045009442f49eeea61df</update_guid>
+<update_guid_history>83911f384ef1045009442f49eeea61df:1673789339,42319ff40ff1045047dab85e7b10b2a6:1535921904,c2319ff493f10450218d8c98029c5fa4:1673789339</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_rel_widget_clone_12130ff41b710450059a65b82d4bcbe8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rel_widget_clone"><sp_rel_widget_clone action="INSERT_OR_UPDATE"><child display_value="Copy of breadcrumbs">52130ff41b710450059a65b82d4bcbe4</child><cloned>2019-12-16 08:56:10</cloned><last_validated>2019-12-16 08:56:10</last_validated><parent display_value="breadcrumbs">0fb269305b3212000d7ec7ad31f91ae2</parent><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function($scope, $rootScope, spUtil) {
+	var c = this;
+	c.expanded = !spUtil.isMobile();
+	c.expand = function() {
+		c.expanded = true;
+	};
+
+	var deregister = $rootScope.$on("sp.update.breadcrumbs", function(e, list) {
+		c.breadcrumbs = list;
+	});
+
+	$scope.$on('$destroy', function(){
+		deregister();
+	});
+
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.nav {
+  li {
+    padding: 10px 7px;
+
+    &amp;gt; span {
+      &amp;gt; a {
+          display: inline;
+      }
+
+      &amp;gt; i {
+          padding-left: 15px;
+      }
+    }
+  }
+}
+
+.a-disabled {
+  cursor: default;
+  color: $sp-disabled-breadcrumb;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;breadcrumbs&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;breadcrumbs&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script/&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-04-12 21:39:53&lt;/sys_created_on&gt;&lt;sys_id&gt;0fb269305b3212000d7ec7ad31f91ae2&lt;/sys_id&gt;&lt;sys_mod_count&gt;40&lt;/sys_mod_count&gt;&lt;sys_name&gt;breadcrumbs&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;808f72bd1bf133007456ecadee4bcb97&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_0fb269305b3212000d7ec7ad31f91ae2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-03-15 05:41:38&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div aria-label="${Page breadcrumbs}" role="navigation"&gt;
+&lt;ul class="nav nav-pills nav-sm"&gt;
+  &lt;li&gt;
+    &lt;span&gt;&lt;a ng-href="?id={{portal.homepage_dv}}"&gt;${Home}&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.expanded &amp;amp;&amp;amp; c.breadcrumbs &amp;amp;&amp;amp; c.breadcrumbs.length &gt; 2"&gt;
+    &lt;span&gt;&lt;a ng-click="c.expand()"&gt;&lt;i class="fa fa-ellipsis-h" aria-hidden="true"&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;i aria-hidden="true" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li ng-if="!c.breadcrumbs"&gt;&lt;span&gt;&lt;a style="display: inline;" class="a-disabled" aria-current="page" href&gt;{{page.title}}&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li ng-if="c.expanded || ((c.breadcrumbs.length &gt; 2  &amp;amp;&amp;amp; $index &gt; c.breadcrumbs.length-3) || (c.breadcrumbs.length &lt;= 2))" ng-repeat="item in c.breadcrumbs track by $index" &gt;
+    &lt;span&gt;&lt;a ng-if="!$last" ng-href="{{item.url}}"&gt;{{item.label}}&lt;/a&gt;
+      &lt;a class="a-disabled" ng-if="$last" aria-current="page" href&gt;{{item.label}}&lt;/a&gt;
+      &lt;i aria-hidden="true" ng-if="!$last" class="fa fa-chevron-right"&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload><sys_class_name>sp_rel_widget_clone</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 08:56:10</sys_created_on><sys_id>12130ff41b710450059a65b82d4bcbe8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>52130ff41b710450059a65b82d4bcbe4</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_rel_widget_clone_12130ff41b710450059a65b82d4bcbe8</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 08:56:10</sys_updated_on></sp_rel_widget_clone></record_update>]]></payload>
+<payload_hash>-2073916412</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>996a93781bf5c05000584225bd4bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0dec0b7c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>52130ff41b710450059a65b82d4bcbe4</target_name>
+<type>Widget Clone</type>
+<update_domain>global</update_domain>
+<update_guid>de130ff450710450d10c1a3be1f531e9</update_guid>
+<update_guid_history>de130ff450710450d10c1a3be1f531e9:-2073916412</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_91d5739b875b13000e3dd61e36cb0b7f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;false&lt;/active&gt;&lt;api_name&gt;global.ProblemState&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Problem State constants, use these constants when determining which Problem State to use.&amp;#13;
+&amp;#13;
+Example - is the Problem in the "Resolved" state:&amp;#13;
+var problemGr = new GlideRecord("sn_problem_v2_problem");&amp;#13;
+if (problemGr.get("[sys_id]") &amp;amp;&amp;amp; problemGr.state == ProblemState.RESOLVED)&amp;#13;
+    // do something when the incident is resolved&amp;#13;
+&amp;#13;
+&amp;#13;
+Example 3 - how to use this on the client&amp;#13;
+var ga = new GlideAjax("ProblemState");&amp;#13;
+ga.addParam("sysparm_name", "getProblemState");&amp;#13;
+ga.getXMLAnswer(function(answer) {&amp;#13;
+    var problemState = JSON.parse(answer);&amp;#13;
+    g_form.setValue("state", problemState.NEW);&amp;#13;
+});&lt;/description&gt;&lt;name&gt;ProblemState&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ProblemState = Class.create();
+
+ProblemState.STATES = {
+	NEW : ProblemStateSNC.NEW,
+	ASSESS : ProblemStateSNC.ASSESS,
+	ROOT_CAUSE_ANALYSIS : ProblemStateSNC.ROOT_CAUSE_ANALYSIS,
+	FIX_IN_PROGRESS : ProblemStateSNC.FIX_IN_PROGRESS,
+	RESOLVED : ProblemStateSNC.RESOLVED,
+	CLOSED : ProblemStateSNC.CLOSED
+};
+
+ProblemState.RESOLUTION_CODES = ProblemStateSNC.RESOLUTION_CODES;
+
+ProblemState.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getProblemState: function() {
+		return ProblemState.STATES;
+	},
+
+	getResolutionCodes: function() {
+		return ProblemState.RESOLUTION_CODES;
+	},
+
+    type: 'ProblemState'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-20 08:11:13&lt;/sys_created_on&gt;&lt;sys_id&gt;91d5739b875b13000e3dd61e36cb0b7f&lt;/sys_id&gt;&lt;sys_mod_count&gt;12&lt;/sys_mod_count&gt;&lt;sys_name&gt;ProblemState&lt;/sys_name&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_91d5739b875b13000e3dd61e36cb0b7f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:34:31&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>422285226</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>9d6a5f781bf5c05000584225bd4bcbd5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e4616ab0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>ProblemState</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>b69953b88e350450870944f37e7ec54d</update_guid>
+<update_guid_history>b69953b88e350450870944f37e7ec54d:422285226,f69953b87d350450091eeb0f1f9e044a:-1058852649</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_38afba3c1b310450059a65b82d4bcbfd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">eecc6b2f1b29881000584225bd4bcbbe</sp_column><sp_widget display_value="breadcrumbs Mobile">16d6d962db9f5f805cfc126b3a9619b1</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 08:41:04</sys_created_on><sys_id>38afba3c1b310450059a65b82d4bcbfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_38afba3c1b310450059a65b82d4bcbfd</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 08:41:04</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=38afba3c1b310450059a65b82d4bcbfd"/></record_update>]]></payload>
+<payload_hash>-1229077010</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>9d6a93781bf5c05000584225bd4bcbf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0deb42cc0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>fde2cfb425710450d60bd56eb8b8a41c</update_guid>
+<update_guid_history>fde2cfb425710450d60bd56eb8b8a41c:-1229077010,3cafba3c8d310450ae3b9990467e01ff:321977594</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_08f283f41b710450059a65b82d4bcb04</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">eecc6b2f1b29881000584225bd4bcbbe</sp_column><sp_widget display_value="breadcrumbs">0fb269305b3212000d7ec7ad31f91ae2</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-16 08:55:28</sys_created_on><sys_id>08f283f41b710450059a65b82d4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_08f283f41b710450059a65b82d4bcb04</sys_update_name><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 08:55:28</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=08f283f41b710450059a65b82d4bcb04"/></record_update>]]></payload>
+<payload_hash>-1178014866</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>c96a93781bf5c05000584225bd4bcbf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0decbbaa0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>51438738a77104502d4e545cf3d3f80d</update_guid>
+<update_guid_history>51438738a77104502d4e545cf3d3f80d:-1178014866,44f283f4ef710450c68a8ac0a54d6506:989350370</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_cdf265c01bf94c10059a65b82d4bcb10</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="problem_task"&gt;stateIN4,3^EQ&lt;item display_value="4,3" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="4,3"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;false&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;SM Make fields mandatory on closed/resolved&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;tanpal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-13 18:06:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cdf265c01bf94c10059a65b82d4bcb10&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;SM Make fields mandatory on closed/resolved&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_cdf265c01bf94c10059a65b82d4bcb10&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:59:43&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1140697378</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>d16a5f781bf5c05000584225bd4bcbd7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e26396b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>SM Make fields mandatory on closed/resolved</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>cda19b38e1f104505523a2356d324c1e</update_guid>
+<update_guid_history>cda19b38e1f104505523a2356d324c1e:1140697378,82319ff4e8f104506c01966f7785b39d:584262647,d164e58c4eb94c100190af8a07565161:1140697378,7144a14484f94c1019dc5d5f35b9e705:768982605</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_problem_task_state</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="problem_task" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Open</label><language>en</language><name>problem_task</name><sequence>0</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a63702e71be9481000584225bd4bcb43</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:11:48</sys_updated_on><value>1</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Pending</label><language>en</language><name>problem_task</name><sequence>1</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2a3702e71be9481000584225bd4bcb41</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:11:49</sys_updated_on><value>-5</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Novo</label><language>pb</language><name>problem_task</name><sequence>1</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-05-01 03:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6779aecf1b813300ec968597dc4bcb83</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-05-01 03:52:23</sys_updated_on><value>151</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Novo</label><language>pb</language><name>problem_task</name><sequence>1</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-06-04 06:20:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a0815a46db793300bac12736059619d3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-06-04 06:20:46</sys_updated_on><value>151</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Nuevo</label><language>es</language><name>problem_task</name><sequence>1</sequence><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-10 08:26:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1aa2c4071ba5041000584225bd4bcb1a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-10 08:26:03</sys_updated_on><value>151</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Avaliar</label><language>pb</language><name>problem_task</name><sequence>2</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-06-04 06:20:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a8815a46db793300bac12736059619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-06-04 06:20:46</sys_updated_on><value>152</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Avaliar</label><language>pb</language><name>problem_task</name><sequence>2</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-05-01 03:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af79aecf1b813300ec968597dc4bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-05-01 03:52:23</sys_updated_on><value>152</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Evaluar</label><language>es</language><name>problem_task</name><sequence>2</sequence><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-10 08:26:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>96a2c4071ba5041000584225bd4bcb1c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-10 08:26:03</sys_updated_on><value>152</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Skipped</label><language>en</language><name>problem_task</name><sequence>2</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea37862b1be9481000584225bd4bcb65</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>7</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>En curso</label><language>es</language><name>problem_task</name><sequence>3</sequence><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-10 08:26:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16a2c4071ba5041000584225bd4bcb1e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-10 08:26:03</sys_updated_on><value>154</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Trabalho em Andamento</label><language>pb</language><name>problem_task</name><sequence>3</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-05-01 03:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6379aecf1b813300ec968597dc4bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-05-01 03:52:23</sys_updated_on><value>154</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Trabalho em Andamento</label><language>pb</language><name>problem_task</name><sequence>3</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-06-04 06:20:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a8815a46db793300bac12736059619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-06-04 06:20:46</sys_updated_on><value>154</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Incomplete</label><language>en</language><name>problem_task</name><sequence>3</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ae37862b1be9481000584225bd4bcb63</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>4</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Complete</label><language>en</language><name>problem_task</name><sequence>4</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6237862b1be9481000584225bd4bcb62</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>3</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>New</label><language>en</language><name>problem_task</name><sequence>5</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2018-07-09 11:48:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>24cf7333538b13004247ddeeff7b124b</sys_id><sys_mod_count>10</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>151</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Cerrado</label><language>es</language><name>problem_task</name><sequence>5</sequence><sys_created_by>lghori</sys_created_by><sys_created_on>2019-12-10 08:26:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>92a2c4071ba5041000584225bd4bcb20</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-10 08:26:03</sys_updated_on><value>157</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Encerrado</label><language>pb</language><name>problem_task</name><sequence>5</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-06-04 06:20:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ac815a46db793300bac12736059619cd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-06-04 06:20:46</sys_updated_on><value>157</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Encerrado</label><language>pb</language><name>problem_task</name><sequence>5</sequence><sys_created_by>system</sys_created_by><sys_created_on>2019-05-01 03:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eb79aecf1b813300ec968597dc4bcb7d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2019-05-01 03:52:23</sys_updated_on><value>157</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Assess</label><language>en</language><name>problem_task</name><sequence>6</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2018-07-09 11:48:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>90eff333538b13004247ddeeff7b12b4</sys_id><sys_mod_count>9</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>152</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Work in Progress</label><language>en</language><name>problem_task</name><sequence>7</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2018-07-09 11:49:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3aff3733538b13004247ddeeff7b1227</sys_id><sys_mod_count>11</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>154</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Work in Progress</label><language>en</language><name>problem_task</name><sequence>8</sequence><sys_created_by>tanpal</sys_created_by><sys_created_on>2019-12-12 07:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e23702e71be9481000584225bd4bcb45</sys_id><sys_mod_count>14</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>2</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed</label><language>en</language><name>problem_task</name><sequence>9</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2018-07-09 11:49:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99204400539b13004247ddeeff7b12c8</sys_id><sys_mod_count>11</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2019-12-16 10:33:36</sys_updated_on><value>157</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>problem_task</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-07-09 11:48:27</sys_created_on><sys_id>001103791b3533007456ecadee4bcb50</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model">3b01cf391b3533007456ecadee4bcba6</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_choice_problem_task_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-07-09 11:48:27</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+<payload_hash>-951437023</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>d16a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e453ddd0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Problem Task.state</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>9d695b7899350450507154fd5a1282df</update_guid>
+<update_guid_history>9d695b7899350450507154fd5a1282df:-951437023,0b845bfc79f10450e27423adfdaba61d:-1871069858,3774d7fce8f104502cd676a8d7e492c0:548523723,7f74d7fc4bf104503a8df8378070aebb:-525567930,bd74dfbc79f10450118461d1605216bf:52346465,6074dfbc28f1045046575347f3bb1cba:1735508010,526417fc8af10450dae7441b1d1f4560:-2049864649,da6417fc6af10450eaab7618a5698d5b:1469184186,466417fcd2f104501c680318d7145c57:1573566821,8a6417fc40f1045064c24b7804b6362d:672180532,066417fcb8f10450204d804f6fcbfa29:-618501087,0e6417fc5af10450b9d09c047f91dd24:313446280,c783177cd9f10450f1cd4fb01b076152:-439226585,8b83177c22f10450895ca2dd2154b941:-1548424492,0783177c53f10450a1e360901cf72b3d:-1327586881,8f83177c04f10450070c6e3ec4000038:6843534,c173537c06f10450c7b1f1705c4df09d:-890949269,4d73537cb8f10450be845a2b346ea898:-1076565558,f473537cacf10450589867d3ccc5c094:1931289865,7073537cc1f10450839e4bbe5492ca90:1603533368,b873537ca4f10450951d68736ff8738b:197241865,74739f3ca3f10450f10d894a3d663b39:-828130612,83da44c818314c104f46ad8584c0fa85:1142323331,6096b7374bad0c10c262bf2d6c97c5c6:637112165,1496b7371ead0c102c9dc8eb9b9228b5:-1924716812,9c96b73724ad0c1084d0b6aee8a243b0:783357695,1896b737f4ad0c1079dc6e90f99b29ac:354916598,5896f33791ad0c10aefe949ee5092798:899036179,5096f3375cad0c101697861ebdcbfd94:-143241924,7f503733c66d0c10bcf38b19d9c7ae32:-860842055,f7503733ed6d0c10713f9cb5adda0e2e:-143241924,735037332c6d0c10911a7418f482622a:-985098707,3f50b333736d0c10fb911b0830c8cf27:-2078728554,b750b333046d0c107d6780f09b700e23:2011239275,ff50b333816d0c10693d65b51a48cf1e:-428785750,9716a73b60e90c10e91c992d6cf2b18c:637112165,d09567f72ee90c10fcccd06ef1471220:389718535,5c9567f749e90c10cf72151409dff41b:1390934168,109567f75ee90c106793d93b2f2a430b:-1328381939,989567f796e90c10a7045eca23918706:-454252740,149567f7a6e90c10894c4c302e393c02:1519017689,9495a37751e90c10dcdba4f80d382b66:-1189056818,6484a377ace90c1007b0364891263e5d:1372772159,3e64237797e90c1005325cb855f42309:-860842055,b664237712e90c10eaf4bd67364ab705:128268598,3264237794e90c10ee3dfc9af1662001:-2064041933,ba64ef37b7e90c1064d89a5ebf051ffc:-1189912734,3a642bf33ae90c10042ab1536a575f74:783357695,72642bf3c4e90c10eb8d260393f28370:-1924716812,81932bf346e90c10d2f9339552fd0446:637112165,108367f3afe90c10bab17257fd42fa17:607576615,58beeb63646d8810dfa4452040c738ee:637112165,3467a327e42d8810d3556620bfd81d52:389718535,bc67a327972d88109e62cb24cdf0194d:-1205475774,3867a327202d88107796cb6019c31349:-1554830251,7c67a323fc2d8810ba78d7fb9f460b2f:-1656787236,066c66a7a7258810011c681dac833f1f:1324115027,d302d2ef92218810d2a3d146cf2bdd59:-1487257677,41319a6b752188100c385794313af622:-1480960362,3321d6ab362188109f40cec20d698475:-884704699,a621166f57218810dae51deeb31f3b68:-1192087376,efd8c6af23e94810406b3f88069c1c1b:-1285465401,62d80eaf86e94810843b14b7c613b8ef:1697069290,ead80eaf5ee94810ab01590edcfb09ea:855212507,66d80eaf91e94810bf4c3d75835672e6:-238417340,d2d8c2afc1e9481054f7a720e7b89b5c:-901408773,5ed8c2afb2e948106f49ace8f0cf7257:623430922,e637862b65e948105f3f02787d5a2288:-77596193,ae73822f3ba948102ab4c114ceb6bd06:-1297127022,1443ceab59a94810e448fafe79186b62:1391028158</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_8cc629f6535b13004247ddeeff7b12aa</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="problem_task"&gt;cause_code!=other^EQ&lt;item display_value="Other" endquery="false" field="cause_code" goto="false" newquery="false" operator="!=" or="false" value="other"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hide Other Reason when Cause code is not other&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-18 08:22:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8cc629f6535b13004247ddeeff7b12aa&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide Other Reason when Cause code is not other&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid" source="com.snc.best_practice.problem.madrid"&gt;62014f391b3533007456ecadee4bcbdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_8cc629f6535b13004247ddeeff7b12aa&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:59:35&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;u_roles/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2015784258</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>d56a5f781bf5c05000584225bd4bcbd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e26194a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Hide Other Reason when Cause code is not other</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>07911f3830f10450fbc680129bdc30db</update_guid>
+<update_guid_history>07911f3830f10450fbc680129bdc30db:2015784258,ca319ff407f1045070acaea9a1728fa1:1218804109,4e319ff454f10450af59072b52c1ae9f:2015784258</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_link_c215fe231b61881000584225bd4bcbf7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name&gt;reportAnIssue&lt;/class_name&gt;&lt;color&gt;warning&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;child&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Something is broken and not working as expected&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;88053e231b61881000584225bd4bcba9&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;lghori&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-12 10:42:36&lt;/sys_created_on&gt;&lt;sys_id&gt;c215fe231b61881000584225bd4bcbf7&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Report an Issue&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_c215fe231b61881000584225bd4bcbf7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:03:10&lt;/sys_updated_on&gt;&lt;title&gt;Report an Issue&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;/sm?id=sc_cat_item&amp;amp;sys_id=fe7b8be91bedcc5400584225bd4bcb71&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c215fe231b61881000584225bd4bcbf7"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-710638321</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>d56a93781bf5c05000584225bd4bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0df271990000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>Report an Issue</target_name>
+<type>Instance with Link</type>
+<update_domain>global</update_domain>
+<update_guid>a8b48f7cce7104505478c6932c3df7d7</update_guid>
+<update_guid_history>a8b48f7cce7104505478c6932c3df7d7:-710638321,9b07326318618810b0d482e25b1006d1:-343402862,8a15fe237b618810c05072d5b41f9bf8:-136792213</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_5428ba14872313000e3dd61e36cb0b72</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;false&lt;/active&gt;&lt;api_name&gt;global.ProblemStateUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;State transition utilities for Problem table.&lt;/description&gt;&lt;name&gt;ProblemStateUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ProblemStateUtils = Class.create();
+ProblemStateUtils.prototype = Object.extendsObject(ProblemStateUtilsSNC, {
+    initialize: function(argument) {
+		ProblemStateUtilsSNC.prototype.initialize.call(this, argument);
+    },
+
+    type: 'ProblemStateUtils'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-07-23 06:14:15&lt;/sys_created_on&gt;&lt;sys_id&gt;5428ba14872313000e3dd61e36cb0b72&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;ProblemStateUtils&lt;/sys_name&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_5428ba14872313000e3dd61e36cb0b72&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 10:34:38&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2007964362</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>d96a5f781bf5c05000584225bd4bcbd5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e462f6e0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table/>
+<target_name>ProblemStateUtils</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>20a95378cc350450edb34a32ce25f7b0</update_guid>
+<update_guid_history>20a95378cc350450edb34a32ce25f7b0:2007964362,e0a95378413504505d5599a24e1b0cad:-270476355</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_2f38b631538823004247ddeeff7b1226</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Dynamically change the Closed field labels based on Close code.&lt;/description&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages&gt;Canceled&amp;#13;
+Canceled by&amp;#13;
+Canceled reason&amp;#13;
+Completed&amp;#13;
+Completed by&lt;/messages&gt;&lt;name&gt;Rename closed fields on load&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+	// checking support of setLabel api for workspace
+	var changeLabel = g_form.setLabel;
+	if (!changeLabel) 
+		changeLabel = g_form.setLabelOf.bind(g_form);
+	else
+		changeLabel = g_form.setLabel.bind(g_form);
+	
+	if (g_form.getValue('close_code') === 'canceled') {
+		if (g_form.hasField('closed_at'))
+			changeLabel('closed_at', getMessage("Canceled"));				
+		if (g_form.hasField('closed_by'))
+			changeLabel('closed_by', getMessage("Canceled by"));
+		if (g_form.hasField('close_notes'))
+			changeLabel('close_notes', getMessage("Canceled reason"));
+	}
+		
+	if (g_form.getValue('close_code') === 'completed') {
+		if (g_form.hasField('closed_at'))
+			changeLabel('closed_at', getMessage("Completed"));
+		if (g_form.hasField('closed_by'))
+			changeLabel('closed_by', getMessage("Completed by"));
+	}
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-21 18:31:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2f38b631538823004247ddeeff7b1226&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Rename closed fields on load&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model"&gt;3b01cf391b3533007456ecadee4bcba6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_2f38b631538823004247ddeeff7b1226&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-16 09:56:03&lt;/sys_updated_on&gt;&lt;table&gt;problem_task&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-986523669</payload_hash>
+<remote_update_set display_value="LG_SLATAM_Portal">496a93781bf5c05000584225bd4bcbef</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2019-12-16 10:37:57</sys_created_on>
+<sys_id>dd6a93781bf5c05000584225bd4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f0e22dc2a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2019-12-16 10:37:57</sys_updated_on>
+<table>problem_task</table>
+<target_name>Rename closed fields on load</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>1fc09fb445f10450fab0d2b0d0d22adb</update_guid>
+<update_guid_history>1fc09fb445f10450fab0d2b0d0d22adb:-986523669,a0005b3415f10450f1189e4241f56aaf:-213533704,2c005b342af104508fdf93251e2a8dac:-986523669</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
