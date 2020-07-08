@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 06:17:19">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>NewTestCICD</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>984c423a1bb5545079c9a9722a4bcb6c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 06:17:19</sys_created_on>
+<sys_id>8eac063a1bb5545079c9a9722a4bcb88</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 06:17:19</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_38dece731b88dc1079c9a9722a4bcb96</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;test1234&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("test1234")]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-15 09:11:14&lt;/sys_created_on&gt;&lt;sys_id&gt;38dece731b88dc1079c9a9722a4bcb96&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;test1234&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_38dece731b88dc1079c9a9722a4bcb96&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-08 06:16:44&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1943608632</payload_hash>
+<remote_update_set display_value="NewTestCICD">8eac063a1bb5545079c9a9722a4bcb88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 06:17:19</sys_created_on>
+<sys_id>06ac063a1bb5545079c9a9722a4bcb89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1732d11bf0e0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 06:17:19</sys_updated_on>
+<table/>
+<target_name>test1234</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>698cc63a7eb55450ff230ca34b935b31</update_guid>
+<update_guid_history>698cc63a7eb55450ff230ca34b935b31:1943608632,aaee46b3cf88dc1048d1a286b9d4def7:1305583316</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
