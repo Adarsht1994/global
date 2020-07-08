@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Other",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:22",
+  "sys_id": "c70258590f9ecf00dc2fc7dce1050e2f",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admron",
+  "sys_updated_on": "2017-11-15 22:54:32",
+  "value": "Other"
+}

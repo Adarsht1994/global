@@ -1,0 +1,17 @@
+{
+  "dependent_value": "How To (Ask A Question)",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Business (Process and General)",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:21",
+  "sys_id": "320258590f9ecf00dc2fc7dce1050e02",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admron",
+  "sys_updated_on": "2017-11-15 22:54:30",
+  "value": "Business (Process and General)"
+}
