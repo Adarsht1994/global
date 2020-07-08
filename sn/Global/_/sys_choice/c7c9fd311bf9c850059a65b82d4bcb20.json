@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Income",
+  "language": "en",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-19 06:10:48",
+  "sys_id": "c7c9fd311bf9c850059a65b82d4bcb20",
+  "sys_mod_count": 3,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-19 06:11:08",
+  "value": "sm_income"
+}

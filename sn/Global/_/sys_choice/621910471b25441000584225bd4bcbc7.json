@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_it_security",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Unauthorized access to systems",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 10:04:06",
+  "sys_id": "621910471b25441000584225bd4bcbc7",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 10:04:06",
+  "value": "sm_unauthorized_access"
+}

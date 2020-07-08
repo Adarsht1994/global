@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_mobile_telephone",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Lost/Stolen",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:50:18",
+  "sys_id": "6cf55c0f1b61441000584225bd4bcb7c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:50:18",
+  "value": "sm_lost_stolen"
+}

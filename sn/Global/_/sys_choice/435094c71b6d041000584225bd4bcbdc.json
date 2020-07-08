@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_application",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Content/Data Update",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:30:47",
+  "sys_id": "435094c71b6d041000584225bd4bcbdc",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:30:47",
+  "value": "sm_content_data_update"
+}

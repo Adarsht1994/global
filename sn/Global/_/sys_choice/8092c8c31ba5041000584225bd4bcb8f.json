@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "VPN",
+  "language": "es",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 08:25:37",
+  "sys_id": "8092c8c31ba5041000584225bd4bcb8f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 08:25:37",
+  "value": "vpn"
+}

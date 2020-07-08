@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardware",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": 8,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:46:47",
+  "sys_id": "09259c431b61441000584225bd4bcb23",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:46:47",
+  "value": "sm_other"
+}

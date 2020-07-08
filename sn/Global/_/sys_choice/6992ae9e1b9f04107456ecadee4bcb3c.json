@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Cambio de equipo de computo",
+  "language": "es",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-03-04 11:59:12",
+  "sys_id": "6992ae9e1b9f04107456ecadee4bcb3c",
+  "sys_mod_count": 1,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-03-04 13:18:22",
+  "value": "sm_change_of_computer_equip"
+}

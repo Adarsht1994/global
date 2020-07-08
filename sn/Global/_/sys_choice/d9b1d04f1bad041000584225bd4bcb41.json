@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_application",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Installation Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:31:47",
+  "sys_id": "d9b1d04f1bad041000584225bd4bcb41",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:31:47",
+  "value": "sm_installation_issue"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "com_service_slatam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Accessibility Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-06 09:42:24",
+  "sys_id": "f0ad23ad1be1009400584225bd4bcb57",
+  "sys_mod_count": 1,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-06 09:44:47",
+  "value": "accessibility_issue_slatam"
+}

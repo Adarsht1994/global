@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardware",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Printer",
+  "language": "en",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:46:05",
+  "sys_id": "b6f418c31b61441000584225bd4bcb5e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:46:05",
+  "value": "sm_printer"
+}

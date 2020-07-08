@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SL",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Software",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-19 06:03:17",
+  "sys_id": "d0387dfd1bb9c850059a65b82d4bcbb6",
+  "sys_mod_count": 1,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-02-10 12:56:08",
+  "value": "sm_software"
+}

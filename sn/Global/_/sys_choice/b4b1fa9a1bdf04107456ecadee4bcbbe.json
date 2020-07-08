@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Ingresos",
+  "language": "es",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-03-04 13:05:14",
+  "sys_id": "b4b1fa9a1bdf04107456ecadee4bcbbe",
+  "sys_mod_count": 2,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-03-04 13:18:48",
+  "value": "sm_income"
+}

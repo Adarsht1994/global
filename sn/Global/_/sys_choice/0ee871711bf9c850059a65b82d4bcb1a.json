@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Change of computer equipment",
+  "language": "en",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-19 06:07:48",
+  "sys_id": "0ee871711bf9c850059a65b82d4bcb1a",
+  "sys_mod_count": 2,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-03-04 13:14:26",
+  "value": "sm_change_of_computer_equip"
+}
