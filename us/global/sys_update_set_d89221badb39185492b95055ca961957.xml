@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 05:50:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>PR_BR_EPIC0010156</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>d89221badb39185492b95055ca961957</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 05:50:42</sys_created_on>
+<sys_id>90968efadbf9185492b95055ca9619c0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 05:50:42</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_grmember_e503ed7adb39185492b95055ca961920</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_grmember"><sys_user_grmember action="INSERT_OR_UPDATE"><group display_value="IT SAP Systems/TI Sistemas SAP" name="IT SAP Systems/TI Sistemas SAP">173f16810ff64b00dc2fc7dce1050ef2</group><points>0</points><scrum_role/><sys_created_by>admprashanth</sys_created_by><sys_created_on>2020-07-08 03:15:25</sys_created_on><sys_id>e503ed7adb39185492b95055ca961920</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admprashanth</sys_updated_by><sys_updated_on>2020-07-08 03:15:25</sys_updated_on><user display_value="Alfredo Leandro Ferreira">49f27ea8dbc3830062e1fe18bf96195d</user></sys_user_grmember></record_update>]]></payload>
+<payload_hash>-747891748</payload_hash>
+<remote_update_set display_value="PR_BR_EPIC0010156">90968efadbf9185492b95055ca9619c0</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 05:50:42</sys_created_on>
+<sys_id>94968efadbf9185492b95055ca9619c0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1732c6c3dfa0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 05:50:42</sys_updated_on>
+<table/>
+<target_name>49f27ea8dbc3830062e1fe18bf96195d</target_name>
+<type>Group Member</type>
+<update_domain>global</update_domain>
+<update_guid>ad23697a9c3918540cb0f88a690cd36e</update_guid>
+<update_guid_history>ad23697a9c3918540cb0f88a690cd36e:-747891748</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
