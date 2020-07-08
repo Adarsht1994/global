@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Salary Survey",
+  "language": "en",
+  "name": "incident",
+  "sequence": 35,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 12:43:54",
+  "sys_id": "d05d35f737a15fc082e483dcb3990e88",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 12:46:14",
+  "value": "salary_survey"
+}

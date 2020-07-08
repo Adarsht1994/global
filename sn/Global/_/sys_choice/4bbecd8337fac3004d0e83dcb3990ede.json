@@ -1,0 +1,17 @@
+{
+  "dependent_value": "monitoring",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Geração de Consultas, Inventários e Relatórios Estatisticos",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-07 08:33:27",
+  "sys_id": "4bbecd8337fac3004d0e83dcb3990ede",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:34",
+  "value": "Generation Of Queries, Inventories And Statistical Reports"
+}

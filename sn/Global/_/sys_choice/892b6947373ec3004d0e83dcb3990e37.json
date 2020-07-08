@@ -1,0 +1,17 @@
+{
+  "dependent_value": "deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "AS/2",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:36:40",
+  "sys_id": "892b6947373ec3004d0e83dcb3990e37",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:35:17",
+  "value": "AS/2"
+}

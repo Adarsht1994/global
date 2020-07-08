@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_accessories",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Warranty Maintenance",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:14:59",
+  "sys_id": "447afa8d0f3a4b00dc2fc7dce1050ed3",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:41",
+  "value": "Warranty Maintenance"
+}

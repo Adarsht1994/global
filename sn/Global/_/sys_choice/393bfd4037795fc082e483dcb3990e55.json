@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Bitlocker Support",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 07:13:12",
+  "sys_id": "393bfd4037795fc082e483dcb3990e55",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 07:13:12",
+  "value": "bitlocker_support"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Softwares",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Java",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 13:20:51",
+  "sys_id": "4317c57637b2c3004d0e83dcb3990e02",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:39:25",
+  "value": "java"
+}

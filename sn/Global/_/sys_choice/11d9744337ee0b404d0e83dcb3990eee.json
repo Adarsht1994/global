@@ -1,0 +1,17 @@
+{
+  "dependent_value": "access_passwords",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Password Unlock / Network Password Reset",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:45:16",
+  "sys_id": "11d9744337ee0b404d0e83dcb3990eee",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:40",
+  "value": "Password Unlock / Network Password Reset"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Proxy Configuration",
+  "language": "en",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-06 13:16:33",
+  "sys_id": "0c85853637b2c3004d0e83dcb3990efb",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:31:40",
+  "value": "proxy_config"
+}

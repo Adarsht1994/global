@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_accessories",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Computers Physical Damage",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:45:59",
+  "sys_id": "8c0ab44337ee0b404d0e83dcb3990e21",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:41",
+  "value": "Computers Physical Damage"
+}

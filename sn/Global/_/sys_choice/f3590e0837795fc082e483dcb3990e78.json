@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Tela Azul",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:15:04",
+  "sys_id": "f3590e0837795fc082e483dcb3990e78",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 08:15:04",
+  "value": "blue_screen_of_death"
+}

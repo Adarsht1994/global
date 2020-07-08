@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Rede Sem Fio",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:04:55",
+  "sys_id": "87d3e503373ec3004d0e83dcb3990e14",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:37:08",
+  "value": "wireless_network"
+}

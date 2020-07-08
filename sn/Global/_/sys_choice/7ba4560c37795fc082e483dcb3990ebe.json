@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_softwares",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "SendWordNow",
+  "language": "en",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:04:29",
+  "sys_id": "7ba4560c37795fc082e483dcb3990ebe",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 09:04:29",
+  "value": "sendwordnow"
+}

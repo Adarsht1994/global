@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Sumário de Horas",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 7,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 12:54:11",
+  "sys_id": "7aafb93b37a15fc082e483dcb3990eeb",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 12:54:11",
+  "value": "hour_summary"
+}

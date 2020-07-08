@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "iProcess",
+  "language": "en",
+  "name": "incident",
+  "sequence": 8,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 11:14:44",
+  "sys_id": "cae8e97f37615fc082e483dcb3990e8a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 11:14:44",
+  "value": "iProcess"
+}

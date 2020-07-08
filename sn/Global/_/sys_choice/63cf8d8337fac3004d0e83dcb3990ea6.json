@@ -1,0 +1,17 @@
+{
+  "dependent_value": "cloud",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Monitoramento de Instancias/Servidores na AWS e Azure",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-07 08:37:28",
+  "sys_id": "63cf8d8337fac3004d0e83dcb3990ea6",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:09",
+  "value": "Instance / Server Monitoring On AWS And Azure"
+}

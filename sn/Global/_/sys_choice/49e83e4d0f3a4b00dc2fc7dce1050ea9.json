@@ -1,0 +1,17 @@
+{
+  "dependent_value": "deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Technical Library",
+  "language": "en",
+  "name": "incident",
+  "sequence": 8,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:08:14",
+  "sys_id": "49e83e4d0f3a4b00dc2fc7dce1050ea9",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:31:43",
+  "value": "Technical Library"
+}

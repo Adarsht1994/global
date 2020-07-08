@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "RR-e",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 08:05:41",
+  "sys_id": "8998098f37bac3004d0e83dcb3990eb0",
+  "sys_mod_count": 3,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:31:49",
+  "value": "rre"
+}

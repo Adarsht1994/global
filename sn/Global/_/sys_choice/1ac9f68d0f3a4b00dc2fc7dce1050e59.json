@@ -1,0 +1,17 @@
+{
+  "dependent_value": "softwares",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Intranet BR (Reembolso, Portal SAP, Scheduler, Billing Report)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:12:09",
+  "sys_id": "1ac9f68d0f3a4b00dc2fc7dce1050e59",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:42",
+  "value": "Intranet BR (Reembolso, Portal SAP, Scheduler, Billing Report)"
+}

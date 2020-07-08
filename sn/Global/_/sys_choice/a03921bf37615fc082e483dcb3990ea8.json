@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Revenue Forecast",
+  "language": "en",
+  "name": "incident",
+  "sequence": 11,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 11:16:00",
+  "sys_id": "a03921bf37615fc082e483dcb3990ea8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 11:16:00",
+  "value": "revenue_forecast"
+}

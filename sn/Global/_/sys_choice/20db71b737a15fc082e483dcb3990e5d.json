@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Contract Management",
+  "language": "en",
+  "name": "incident",
+  "sequence": 20,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 12:37:23",
+  "sys_id": "20db71b737a15fc082e483dcb3990e5d",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 12:46:23",
+  "value": "contract_management"
+}

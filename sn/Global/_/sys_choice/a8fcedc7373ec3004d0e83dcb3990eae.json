@@ -1,0 +1,17 @@
+{
+  "dependent_value": "operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Bitlocker - Bloqueio de PIN ou Sistema Solicita Password ID Para Inicializar.",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:45:09",
+  "sys_id": "a8fcedc7373ec3004d0e83dcb3990eae",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:35:13",
+  "value": "Bitlocker Support"
+}

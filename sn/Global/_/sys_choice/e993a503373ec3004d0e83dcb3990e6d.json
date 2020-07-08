@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Rede Cabeada",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:03:56",
+  "sys_id": "e993a503373ec3004d0e83dcb3990e6d",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:37:09",
+  "value": "wired_network"
+}

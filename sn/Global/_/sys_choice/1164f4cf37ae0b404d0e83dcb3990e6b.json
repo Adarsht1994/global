@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "SAP",
+  "language": "en",
+  "name": "incident",
+  "sequence": 13,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:21:56",
+  "sys_id": "1164f4cf37ae0b404d0e83dcb3990e6b",
+  "sys_mod_count": 3,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:16",
+  "value": "sap"
+}

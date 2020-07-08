@@ -1,0 +1,17 @@
+{
+  "dependent_value": "telephone_problems",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Problemas com Linha Analógica",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 09:41:09",
+  "sys_id": "a46ed10f37fac3004d0e83dcb3990e74",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:37:13",
+  "value": "Analog Line Problems"
+}

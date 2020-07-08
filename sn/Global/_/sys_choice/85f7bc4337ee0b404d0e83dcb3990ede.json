@@ -1,0 +1,17 @@
+{
+  "dependent_value": "cloud",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "AWS And Azure Instance / Server Provisioning",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:37:03",
+  "sys_id": "85f7bc4337ee0b404d0e83dcb3990ede",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:06",
+  "value": "AWS And Azure Instance / Server Provisioning"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Corporate Mobile Line",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:21:24",
+  "sys_id": "c6eb72010f7a4b00dc2fc7dce1050eb2",
+  "sys_mod_count": 3,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:14",
+  "value": "corporate_mobile_line"
+}

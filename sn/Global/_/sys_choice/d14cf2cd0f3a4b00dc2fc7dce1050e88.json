@@ -1,0 +1,17 @@
+{
+  "dependent_value": "corporate_mobile_line",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Data Service unavailable",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:22:59",
+  "sys_id": "d14cf2cd0f3a4b00dc2fc7dce1050e88",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:10",
+  "value": "Data Service unavailable"
+}
