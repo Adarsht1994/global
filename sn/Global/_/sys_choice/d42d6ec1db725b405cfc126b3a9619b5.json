@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Software",
+  "language": "en",
+  "name": "incident",
+  "sequence": 20,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:28:01",
+  "sys_id": "d42d6ec1db725b405cfc126b3a9619b5",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:53",
+  "value": "Software"
+}

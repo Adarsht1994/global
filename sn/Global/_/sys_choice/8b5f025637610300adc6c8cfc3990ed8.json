@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Database",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-10-04 02:00:41",
+  "sys_id": "8b5f025637610300adc6c8cfc3990ed8",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:53",
+  "value": "database"
+}

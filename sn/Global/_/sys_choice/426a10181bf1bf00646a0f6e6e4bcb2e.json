@@ -1,0 +1,17 @@
+{
+  "dependent_value": "R1",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Print",
+  "language": "en",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:11:32",
+  "sys_id": "426a10181bf1bf00646a0f6e6e4bcb2e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:51",
+  "value": "print_latco"
+}

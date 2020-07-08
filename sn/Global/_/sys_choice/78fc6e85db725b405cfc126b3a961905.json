@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Hardware",
+  "language": "en",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:27:43",
+  "sys_id": "78fc6e85db725b405cfc126b3a961905",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:52",
+  "value": "Hardware"
+}
