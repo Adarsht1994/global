@@ -1,0 +1,17 @@
+{
+  "granted_by": "not-applicable",
+  "included_in_role": null,
+  "included_in_role_instance": null,
+  "inh_count": null,
+  "inh_map": null,
+  "inherited": false,
+  "role": "d1944d9c37128f004d0e83dcb3990ed8",
+  "state": "active",
+  "sys_created_by": "admprashanth",
+  "sys_created_on": "2020-07-08 03:17:37",
+  "sys_id": "f583e97adb39185492b95055ca961936",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2020-07-08 03:17:37",
+  "user": "c16e0845db0b070062e1fe18bf961991"
+}
