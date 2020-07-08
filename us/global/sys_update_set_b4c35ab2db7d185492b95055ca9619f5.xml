@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 06:59:41">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>MIM Issue : Communication channel not being added when created through ad hoc task from major incident workbench</description>
+<inserted/>
+<name>LG_MIM_Send_Button_Issue_V1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>b4c35ab2db7d185492b95055ca9619f5</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 06:59:41</sys_created_on>
+<sys_id>6e5616761bf5545079c9a9722a4bcbd8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 06:59:41</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_cc6582cbdbbc5c10a7822c53059619b0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sys_email_client_template&lt;/collection&gt;&lt;condition&gt;!gs.hasRole('admin')&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Member firm List Updated (Com Emails)&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+    var usrID = gs.getUserID();
+    var mf;
+    var gr = new GlideRecord('sys_user');
+    gr.addQuery('sys_id', usrID);
+    gr.query();
+    if (gr.next()) {
+        mf = gr.u_member_firm;
+    }
+    var qc = current.addEncodedQuery('sys_idSTARTSWITHe87ea60987a013000e3dd61e36cb0bbe^ORu_member_firm=' + mf);
+
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admGanapati&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-20 07:21:13&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cc6582cbdbbc5c10a7822c53059619b0&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Member firm List Updated (Com Emails)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_cc6582cbdbbc5c10a7822c53059619b0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;lghori&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-08 06:56:05&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cc6582cbdbbc5c10a7822c53059619b0"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-337372880</payload_hash>
+<remote_update_set display_value="LG_MIM_Send_Button_Issue_V1">6e5616761bf5545079c9a9722a4bcbd8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 06:59:41</sys_created_on>
+<sys_id>a25616761bf5545079c9a9722a4bcbd9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1732d35c58a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 06:59:41</sys_updated_on>
+<table>sys_email_client_template</table>
+<target_name>Member firm List Updated (Com Emails)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>c2851e36077d1854955c55d2e2a2dc03</update_guid>
+<update_guid_history>c2851e36077d1854955c55d2e2a2dc03:-337372880,de0d3839cc2dd8d0b2be603634e6ea16:-1207250795,146582cbe1bc5c107d30d1774ae543b6:977059017</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
