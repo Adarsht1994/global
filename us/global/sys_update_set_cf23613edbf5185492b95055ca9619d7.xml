@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 05:52:02">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>PR_BR_EPIC0010163</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>cf23613edbf5185492b95055ca9619d7</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 05:52:02</sys_created_on>
+<sys_id>37d6c63edbf9185492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 05:52:02</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_f583e97adb39185492b95055ca961936</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count/><inh_map/><inherited>false</inherited><role display_value="x_detc_itsm_mfbr.itil" name="x_detc_itsm_mfbr.itil">d1944d9c37128f004d0e83dcb3990ed8</role><state>active</state><sys_created_by>admprashanth</sys_created_by><sys_created_on>2020-07-08 03:17:37</sys_created_on><sys_id>f583e97adb39185492b95055ca961936</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admprashanth</sys_updated_by><sys_updated_on>2020-07-08 03:17:37</sys_updated_on><user display_value="Tatiane Maciel de Oliveira">c16e0845db0b070062e1fe18bf961991</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-243823273</payload_hash>
+<remote_update_set display_value="PR_BR_EPIC0010163">37d6c63edbf9185492b95055ca961940</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-08 05:52:02</sys_created_on>
+<sys_id>3bd6c63edbf9185492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1732cfa661a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-08 05:52:02</sys_updated_on>
+<table/>
+<target_name>x_detc_itsm_mfbr.itil.Tatiane Maciel de Oliveira</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>48b6423298b55450a72d1c278a3726d7</update_guid>
+<update_guid_history>48b6423298b55450a72d1c278a3726d7:-243823273</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
