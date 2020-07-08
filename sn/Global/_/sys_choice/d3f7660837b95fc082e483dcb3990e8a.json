@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_network_and_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problema de VPN",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:28:50",
+  "sys_id": "d3f7660837b95fc082e483dcb3990e8a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:28:50",
+  "value": "vpn_problem"
+}

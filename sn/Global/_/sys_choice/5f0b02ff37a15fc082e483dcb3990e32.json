@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_infrastructure_unavailability",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Indisponibilidade de Servidor",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 13:44:26",
+  "sys_id": "5f0b02ff37a15fc082e483dcb3990e32",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 13:44:26",
+  "value": "server_unavailability"
+}

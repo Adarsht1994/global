@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_security_and_threats",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Engenharia Social (e-Mails, Ligações Suspeitas)",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 13:11:09",
+  "sys_id": "1973c6fb37a15fc082e483dcb3990ee0",
+  "sys_mod_count": 1,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 13:36:04",
+  "value": "social_engineering"
+}

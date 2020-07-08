@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_network_and_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Navegadores de Internet",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:28:15",
+  "sys_id": "76d7e20837b95fc082e483dcb3990e33",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:28:15",
+  "value": "internet_browser"
+}

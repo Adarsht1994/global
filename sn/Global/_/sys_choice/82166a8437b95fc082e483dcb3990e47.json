@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_general_access",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Multi-Factor Authentication Problem (MFA)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:20:33",
+  "sys_id": "82166a8437b95fc082e483dcb3990e47",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:20:33",
+  "value": "mfa"
+}

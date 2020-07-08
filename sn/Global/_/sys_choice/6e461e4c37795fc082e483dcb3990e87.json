@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_fixed_telephony",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Analog Line Problems",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 09:11:30",
+  "sys_id": "6e461e4c37795fc082e483dcb3990e87",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 09:11:30",
+  "value": "analog_line_problems"
+}

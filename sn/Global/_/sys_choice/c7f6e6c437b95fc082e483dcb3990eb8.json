@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_general_access",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problema de Acesso a Portais Externos",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:24:26",
+  "sys_id": "c7f6e6c437b95fc082e483dcb3990eb8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:24:26",
+  "value": "external_portals_access_problem"
+}

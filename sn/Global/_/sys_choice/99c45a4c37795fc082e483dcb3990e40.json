@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_fixed_telephony",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "PBX Unavailable",
+  "language": "en",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 09:04:52",
+  "sys_id": "99c45a4c37795fc082e483dcb3990e40",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 09:04:52",
+  "value": "pbx_unavailable"
+}

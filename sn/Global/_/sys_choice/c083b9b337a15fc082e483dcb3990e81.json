@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_sap",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Indisponibilidade do Ambiente",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 12:01:41",
+  "sys_id": "c083b9b337a15fc082e483dcb3990e81",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 12:01:41",
+  "value": "environment_unavailability"
+}
