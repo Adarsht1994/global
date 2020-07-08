@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_estratégicas",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Acceso/Inicio de Sesión",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:12:38",
+  "sys_id": "3bca8a72db3d185492b95055ca9619d8",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:17:22",
+  "value": "sm_Acceso/Inicio de Sesión"
+}

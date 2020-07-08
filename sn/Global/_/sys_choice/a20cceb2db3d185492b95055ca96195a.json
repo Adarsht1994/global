@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_estratégicas",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Infracción/Seguridad",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:15:00",
+  "sys_id": "a20cceb2db3d185492b95055ca96195a",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:17:25",
+  "value": "sm_Infracción/Seguridad"
+}

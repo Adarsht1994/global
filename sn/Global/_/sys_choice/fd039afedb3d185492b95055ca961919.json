@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Error/Mensaje",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:45:22",
+  "sys_id": "fd039afedb3d185492b95055ca961919",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:51:55",
+  "value": "sm_Error/Mensaje"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_seguridad",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Documentación/Plantillas",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:36:29",
+  "sys_id": "76f0567edb3d185492b95055ca9619bd",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:39:36",
+  "value": "sm_Documentación/Plantillas"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardwaree",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Compra/Adquisición",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:24:36",
+  "sys_id": "f94e8676db3d185492b95055ca9619a7",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 07:11:27",
+  "value": "sm_Compra/Adquisición"
+}

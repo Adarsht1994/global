@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_correo_y_colaboración",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Error/Mensaje",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:18:45",
+  "sys_id": "24fc8a36db3d185492b95055ca961937",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:21:50",
+  "value": "sm_Error/Mensaje"
+}

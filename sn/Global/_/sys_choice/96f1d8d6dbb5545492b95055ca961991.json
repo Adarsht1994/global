@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SL",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Almacenamiento",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-06 08:05:34",
+  "sys_id": "96f1d8d6dbb5545492b95055ca961991",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-06 08:06:01",
+  "value": "sm_almacenamiento"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_estratégicas",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Documentación/Plantillas",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:14:12",
+  "sys_id": "f9cb82f2db3d185492b95055ca9619ea",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:17:24",
+  "value": "sm_Documentación/Plantillas"
+}

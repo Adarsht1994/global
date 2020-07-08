@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SL",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Telefonía",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-06 08:13:19",
+  "sys_id": "19e31c9adbb5545492b95055ca96193c",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-06 08:13:46",
+  "value": "sm_telefonía"
+}

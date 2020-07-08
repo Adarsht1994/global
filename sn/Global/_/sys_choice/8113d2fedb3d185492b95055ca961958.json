@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Instalar/Desinstalar/Actualizar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:45:40",
+  "sys_id": "8113d2fedb3d185492b95055ca961958",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:51:56",
+  "value": "sm_Instalar/Desinstalar/Actualizar"
+}

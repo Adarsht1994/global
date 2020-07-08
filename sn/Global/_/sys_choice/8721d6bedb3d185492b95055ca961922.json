@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_seguridad",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Instalar/Desinstalar/Actualizar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:37:21",
+  "sys_id": "8721d6bedb3d185492b95055ca961922",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:39:38",
+  "value": "sm_Instalar/Desinstalar/Actualizar"
+}

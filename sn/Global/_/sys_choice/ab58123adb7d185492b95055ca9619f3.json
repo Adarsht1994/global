@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_otras",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Otras",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 08:14:48",
+  "sys_id": "ab58123adb7d185492b95055ca9619f3",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 08:15:16",
+  "value": "sm_Otras"
+}

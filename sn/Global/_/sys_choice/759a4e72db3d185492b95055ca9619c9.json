@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_de_negocio",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Contenido/Datos",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:08:30",
+  "sys_id": "759a4e72db3d185492b95055ca9619c9",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:11:49",
+  "value": "sm_Contenido/Datos"
+}

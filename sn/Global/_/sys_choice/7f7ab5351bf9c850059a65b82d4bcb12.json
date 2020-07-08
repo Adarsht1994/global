@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Engagement Management System EMS 4.0",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-19 06:13:54",
+  "sys_id": "7f7ab5351bf9c850059a65b82d4bcb12",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:53:47",
+  "value": "sm_eng_mgmt0"
+}
