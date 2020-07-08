@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Caso SFDC",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 7,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:36",
+  "sys_id": "87d32ed8db07430062e1fe18bf961999",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:03",
+  "value": "SFDC Case"
+}

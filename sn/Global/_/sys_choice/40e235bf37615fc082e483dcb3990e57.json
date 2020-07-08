@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "TI - SAP",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 11:59:09",
+  "sys_id": "40e235bf37615fc082e483dcb3990e57",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:44:24",
+  "value": "it_sap"
+}

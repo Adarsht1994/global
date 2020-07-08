@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Configuração de Telefone Fixo",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 13:36:44",
+  "sys_id": "bdba097a37b2c3004d0e83dcb3990efe",
+  "sys_mod_count": 5,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:01",
+  "value": "telephone_extensions"
+}

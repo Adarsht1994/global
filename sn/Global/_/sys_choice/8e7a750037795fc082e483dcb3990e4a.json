@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "TI - Sistema Operacional",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 12,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 07:09:57",
+  "sys_id": "8e7a750037795fc082e483dcb3990e4a",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:09",
+  "value": "it_operational_system"
+}

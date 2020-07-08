@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Linha Móvel Corporativa",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 8,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 13:39:07",
+  "sys_id": "e33b4d7a37b2c3004d0e83dcb3990e29",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:04",
+  "value": "corporate_mobile_line"
+}

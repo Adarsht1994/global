@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "VZ eBonding",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 99,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:36",
+  "sys_id": "c7d32ed8db07430062e1fe18bf961982",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:09",
+  "value": "VZ eBonding"
+}
