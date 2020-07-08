@@ -1,0 +1,13 @@
+{
+  "documentkey": "99ca5ab55b1022001f80efe5f0f91a05",
+  "fieldname": "description",
+  "language": "pb",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-08-04 02:37:37",
+  "sys_id": "f267e3651bc7bb00b159fff7dc4bcbfa",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-08-04 02:37:37",
+  "tablename": "sys_properties",
+  "value": "Habilite a execução do teste/conjunto de testes. O valor padrão é falso para que os testes não sejam executados acidentalmente em sistemas de produção. Atualize o valor para \"verdadeiro\" em instâncias de subprodução nas quais você queira executar testes automatizados. Esta propriedade é privada; as mudanças em seu valor não moverão instâncias em conjuntos de atualização ou no desenvolvimento da equipe."
+}

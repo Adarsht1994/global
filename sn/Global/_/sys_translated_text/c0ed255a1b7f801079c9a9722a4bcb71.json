@@ -1,0 +1,13 @@
+{
+  "documentkey": "99ca5ab55b1022001f80efe5f0f91a05",
+  "fieldname": "description",
+  "language": "es",
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-03-29 04:40:17",
+  "sys_id": "c0ed255a1b7f801079c9a9722a4bcb71",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-03-29 04:40:17",
+  "tablename": "sys_properties",
+  "value": "Habilitar ejecución de prueba/conjunto de pruebas. El valor predeterminado es \"No\", por lo que las pruebas no se realizan por error en sistemas de producción. Actualice el valor a 'Sí' en las instancias de subproducción en las que desee realizar pruebas automatizadas. La propiedad es privada; los cambios en su valor no se moverán entre instancias en desarrollo de equipos o conjuntos de actualizaciones."
+}
