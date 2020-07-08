@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Other-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": 30,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:51:11",
+  "sys_id": "3762ba49db725b405cfc126b3a96199b",
+  "sys_mod_count": 2,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:07:57",
+  "value": "Other"
+}

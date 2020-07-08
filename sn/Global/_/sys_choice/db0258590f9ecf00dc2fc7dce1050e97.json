@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Application-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technical Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:23",
+  "sys_id": "db0258590f9ecf00dc2fc7dce1050e97",
+  "sys_mod_count": 4,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:18:59",
+  "value": "Technical Issue"
+}

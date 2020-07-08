@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Other-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Security Services",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:21",
+  "sys_id": "b20258590f9ecf00dc2fc7dce1050e16",
+  "sys_mod_count": 4,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:07:40",
+  "value": "Security Services"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Application-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Content/Data Update",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2018-06-04 15:34:45",
+  "sys_id": "a004e0f4dbae1f0005d2147a3a96196b",
+  "sys_mod_count": 3,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:18:56",
+  "value": "Content/Data Update"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "COE - Admin",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "モバイル・電話",
+  "language": "ja",
+  "name": "incident",
+  "sequence": 7,
+  "sys_created_by": "sscaria",
+  "sys_created_on": "2018-04-30 09:36:25",
+  "sys_id": "ae524bdddb71d7005cfc126b3a96195b",
+  "sys_mod_count": 2,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:11:52",
+  "value": "Mobile & Telephony-coe"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "COE - Admin",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Security & Access",
+  "language": "en",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 18:18:52",
+  "sys_id": "69bb2bc50f5ecf00dc2fc7dce1050ec3",
+  "sys_mod_count": 4,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 07:57:32",
+  "value": "Security & Access-coe"
+}

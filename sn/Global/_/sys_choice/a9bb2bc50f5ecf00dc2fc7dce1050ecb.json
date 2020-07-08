@@ -1,0 +1,17 @@
+{
+  "dependent_value": "COE - Admin",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": 13,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 18:18:52",
+  "sys_id": "a9bb2bc50f5ecf00dc2fc7dce1050ecb",
+  "sys_mod_count": 6,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:06:39",
+  "value": "Other-coe"
+}
