@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Veritabanı",
+  "language": "tr",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "rreddygundreddy",
+  "sys_created_on": "2018-11-26 07:04:55",
+  "sys_id": "7e8d37b8db426b005cfc126b3a961999",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rreddygundreddy",
+  "sys_updated_on": "2018-11-26 07:04:55",
+  "value": "database"
+}

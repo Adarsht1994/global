@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Sorgulama / Yardım",
+  "language": "tr",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "rreddygundreddy",
+  "sys_created_on": "2018-11-26 07:04:55",
+  "sys_id": "b28d37b8db426b005cfc126b3a961997",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rreddygundreddy",
+  "sys_updated_on": "2018-11-26 07:04:55",
+  "value": "inquiry"
+}
