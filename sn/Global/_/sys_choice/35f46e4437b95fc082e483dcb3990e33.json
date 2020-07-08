@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_corporate_mobile_services",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problemas de Chamada de Voz",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:15:37",
+  "sys_id": "35f46e4437b95fc082e483dcb3990e33",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:15:37",
+  "value": "voice_call_problems"
+}

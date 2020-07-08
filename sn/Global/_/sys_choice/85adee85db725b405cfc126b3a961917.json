@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": 110,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:30:15",
+  "sys_id": "85adee85db725b405cfc126b3a961917",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:52",
+  "value": "Other"
+}

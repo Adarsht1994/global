@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Backup / Restore",
+  "language": "en",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:49:26",
+  "sys_id": "9b31dac837795fc082e483dcb3990e5b",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 06:38:01",
+  "value": "backup_restore"
+}

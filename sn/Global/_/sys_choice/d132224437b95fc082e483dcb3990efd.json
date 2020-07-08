@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_corporate_mobile_services",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "No Service Line",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:04:48",
+  "sys_id": "d132224437b95fc082e483dcb3990efd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:04:48",
+  "value": "no_service_line"
+}

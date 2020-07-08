@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Configuração de Perfil Windows",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:14:31",
+  "sys_id": "b739424437795fc082e483dcb3990e5c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 08:14:31",
+  "value": "windows_profile_configuration"
+}

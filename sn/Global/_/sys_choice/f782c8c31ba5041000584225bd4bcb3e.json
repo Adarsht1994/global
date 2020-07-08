@@ -1,0 +1,17 @@
+{
+  "dependent_value": "database",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "DB2",
+  "language": "es",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 08:25:35",
+  "sys_id": "f782c8c31ba5041000584225bd4bcb3e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 08:25:35",
+  "value": "db2"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Acessos e Senhas",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 13:43:36",
+  "sys_id": "474c8dba37b2c3004d0e83dcb3990e9f",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:44:22",
+  "value": "access_passwords"
+}

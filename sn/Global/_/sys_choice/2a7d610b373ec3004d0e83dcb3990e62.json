@@ -1,0 +1,17 @@
+{
+  "dependent_value": "operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Manutenção Corretiva Para Desktops e Laptops.",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:47:09",
+  "sys_id": "2a7d610b373ec3004d0e83dcb3990e62",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:35:12",
+  "value": "Corrective Maintenance for Desktops And Laptops"
+}

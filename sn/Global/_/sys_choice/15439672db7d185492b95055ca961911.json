@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Sugerencia/Comentarios",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:46:25",
+  "sys_id": "15439672db7d185492b95055ca961911",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:51:57",
+  "value": "sm_Sugerencia/Comentarios"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "event_monitoring_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "SCOM Alerts",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:07:25",
+  "sys_id": "43d4b4101b75bf00646a0f6e6e4bcbba",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:07:25",
+  "value": "scom_alerts_latco"
+}

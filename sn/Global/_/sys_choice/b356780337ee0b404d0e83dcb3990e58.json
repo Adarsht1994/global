@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Live Archiving",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:30:09",
+  "sys_id": "b356780337ee0b404d0e83dcb3990e58",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:41:24",
+  "value": "live_archiving"
+}

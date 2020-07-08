@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Refund",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:28:46",
+  "sys_id": "bf06b40337ee0b404d0e83dcb3990e14",
+  "sys_mod_count": 1,
+  "sys_updated_by": "ribhattacharya",
+  "sys_updated_on": "2017-12-01 13:29:26",
+  "value": "refund"
+}

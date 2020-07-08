@@ -1,0 +1,17 @@
+{
+  "dependent_value": "other_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:19:40",
+  "sys_id": "04b770901b75bf00646a0f6e6e4bcb9a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:19:40",
+  "value": "other_subcat_latco"
+}

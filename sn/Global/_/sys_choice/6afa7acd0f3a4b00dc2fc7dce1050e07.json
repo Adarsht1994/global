@@ -1,0 +1,17 @@
+{
+  "dependent_value": "access_passwords",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "VPN Access",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:17:20",
+  "sys_id": "6afa7acd0f3a4b00dc2fc7dce1050e07",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:38",
+  "value": "VPN Access"
+}

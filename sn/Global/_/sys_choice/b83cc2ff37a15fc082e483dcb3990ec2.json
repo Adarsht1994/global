@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_infrastructure_unavailability",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Indisponibilidade de Equipamento de Segurança",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 13:48:56",
+  "sys_id": "b83cc2ff37a15fc082e483dcb3990ec2",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 13:48:56",
+  "value": "security_device_unavailability"
+}

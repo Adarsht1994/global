@@ -1,0 +1,17 @@
+{
+  "dependent_value": "operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "System Installation / Rebuild",
+  "language": "en",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:03:18",
+  "sys_id": "38c7b20d0f3a4b00dc2fc7dce1050e2a",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:43",
+  "value": "System Installation / Rebuild"
+}

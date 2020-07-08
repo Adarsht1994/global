@@ -1,0 +1,17 @@
+{
+  "dependent_value": "R1",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:20:32",
+  "sys_id": "61fb98981bf1bf00646a0f6e6e4bcb6f",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:50",
+  "value": "other_latco"
+}

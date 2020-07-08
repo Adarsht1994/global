@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_red",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Documentación/Plantillas",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:33:08",
+  "sys_id": "08df4afadb3d185492b95055ca96190a",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:35:02",
+  "value": "sm_Documentación/Plantillas"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_application",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technical Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:32:58",
+  "sys_id": "e2f1d8871bed041000584225bd4bcb0c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:32:58",
+  "value": "sm_technical_issue"
+}

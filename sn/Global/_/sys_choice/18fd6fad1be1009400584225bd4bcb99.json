@@ -1,0 +1,17 @@
+{
+  "dependent_value": "com_service_slatam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Performance Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-06 09:43:24",
+  "sys_id": "18fd6fad1be1009400584225bd4bcb99",
+  "sys_mod_count": 1,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-06 09:44:42",
+  "value": "performance_issue_slatam"
+}

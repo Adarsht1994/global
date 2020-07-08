@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "TI - Softwares",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:15:18",
+  "sys_id": "c62752cc37795fc082e483dcb3990e1b",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:07",
+  "value": "it_softwares"
+}

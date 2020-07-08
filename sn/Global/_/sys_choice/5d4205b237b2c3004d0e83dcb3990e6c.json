@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Network and Internet",
+  "language": "en",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-06 13:00:08",
+  "sys_id": "5d4205b237b2c3004d0e83dcb3990e6c",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:17",
+  "value": "network_internet"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Business Continuity Team (BCP)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-19 06:09:07",
+  "sys_id": "a6697d311bf9c850059a65b82d4bcb7e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-19 06:09:22",
+  "value": "sm_business_continuity_team"
+}

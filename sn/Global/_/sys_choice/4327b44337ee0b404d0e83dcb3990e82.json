@@ -1,0 +1,17 @@
+{
+  "dependent_value": "monitoring",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Generation Of Queries, Inventories And Statistical Reports",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:33:38",
+  "sys_id": "4327b44337ee0b404d0e83dcb3990e82",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:05",
+  "value": "Generation Of Queries, Inventories And Statistical Reports"
+}

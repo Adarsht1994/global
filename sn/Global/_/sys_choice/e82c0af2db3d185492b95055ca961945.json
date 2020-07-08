@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_correo_y_colaboración",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Acceso/Inicio de sesión",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:18:05",
+  "sys_id": "e82c0af2db3d185492b95055ca961945",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:21:48",
+  "value": "sm_Acceso/Inicio de sesión"
+}

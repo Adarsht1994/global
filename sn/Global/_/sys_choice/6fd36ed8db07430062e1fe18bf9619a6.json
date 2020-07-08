@@ -1,0 +1,17 @@
+{
+  "dependent_value": "VZ eBonding",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "SOFTWARE",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:37",
+  "sys_id": "6fd36ed8db07430062e1fe18bf9619a6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-12-11 11:56:37",
+  "value": "SOFTWARE"
+}

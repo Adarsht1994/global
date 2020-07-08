@@ -1,0 +1,17 @@
+{
+  "dependent_value": "monitoring",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Monitoramento de Links (Internet, MPLS, L2L, IPSEC)",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-07 08:34:26",
+  "sys_id": "d21f8d8337fac3004d0e83dcb3990e96",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:34",
+  "value": "Circuit Monitoring (Internet, MPLS, L2L, IPSEC)"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_sap",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problema de DUMP",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 12:03:35",
+  "sys_id": "60f33db337a15fc082e483dcb3990efd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 12:03:35",
+  "value": "dump_problem"
+}

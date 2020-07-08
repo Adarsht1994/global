@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Techincal Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:41:18",
+  "sys_id": "1731289c1bf1bf00646a0f6e6e4bcbb9",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:48:41",
+  "value": "techincal_issue_hw_latco"
+}

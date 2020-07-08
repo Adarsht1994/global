@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "IT - Mobile Apps",
+  "language": "en",
+  "name": "incident",
+  "sequence": 13,
+  "sys_created_by": "admprashanth",
+  "sys_created_on": "2020-05-18 07:12:28",
+  "sys_id": "f01037561b30589079c9a9722a4bcb34",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2020-05-27 09:30:23",
+  "value": "it_mobile_apps"
+}

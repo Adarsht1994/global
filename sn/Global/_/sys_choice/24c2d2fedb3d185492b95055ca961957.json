@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Alta / Baja / Cambio",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:44:11",
+  "sys_id": "24c2d2fedb3d185492b95055ca961957",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:51:53",
+  "value": "sm_Alta / Baja / Cambio"
+}

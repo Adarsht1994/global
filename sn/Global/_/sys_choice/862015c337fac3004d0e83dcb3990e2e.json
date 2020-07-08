@@ -1,0 +1,17 @@
+{
+  "dependent_value": "telephone_extensions",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Reset do PIN - Ramal/Correio de Voz",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-07 08:38:57",
+  "sys_id": "862015c337fac3004d0e83dcb3990e2e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:09",
+  "value": "PIN Reset - Extension/Voicemail"
+}

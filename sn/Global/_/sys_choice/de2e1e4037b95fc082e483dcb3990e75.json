@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_hardware_maintenance",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Danos Físicos ao Computador",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:45:53",
+  "sys_id": "de2e1e4037b95fc082e483dcb3990e75",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 09:45:53",
+  "value": "computers_physical_damage"
+}

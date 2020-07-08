@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardware",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Lost/Stolen",
+  "language": "en",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:33:42",
+  "sys_id": "5d225c471bed041000584225bd4bcbb7",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:33:42",
+  "value": "sm_lost_stolen"
+}

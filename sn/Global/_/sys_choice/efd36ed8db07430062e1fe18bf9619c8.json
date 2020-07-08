@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Service-now IT",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Design de Equipamento",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:38",
+  "sys_id": "efd36ed8db07430062e1fe18bf9619c8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-12-11 11:56:38",
+  "value": "Equipment Design"
+}

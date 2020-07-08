@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_application",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Enhancement",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:31:17",
+  "sys_id": "8291d04f1bad041000584225bd4bcb3a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:31:17",
+  "value": "sm_enhamcement"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_mobile_apps",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Rydoo",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admprashanth",
+  "sys_created_on": "2020-05-18 07:15:16",
+  "sys_id": "32a0f3961b30589079c9a9722a4bcbaf",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admprashanth",
+  "sys_updated_on": "2020-05-27 09:30:58",
+  "value": "rydoo"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Virus, Spam Or Malicious Software Cleaning",
+  "language": "en",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:47:12",
+  "sys_id": "294a3c8337ee0b404d0e83dcb3990ea9",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:44",
+  "value": "Virus, Spam Or Malicious Software Cleaning"
+}

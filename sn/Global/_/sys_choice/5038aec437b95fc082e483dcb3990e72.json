@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_network_and_internet",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Wireless Network",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:29:43",
+  "sys_id": "5038aec437b95fc082e483dcb3990e72",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:29:43",
+  "value": "wireless_network"
+}

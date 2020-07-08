@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Network",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-07 13:47:14",
+  "sys_id": "d027b7d50f160340dc2fc7dce1050ed3",
+  "sys_mod_count": 2,
+  "sys_updated_by": "msreeja",
+  "sys_updated_on": "2017-12-13 07:28:21",
+  "value": "network"
+}

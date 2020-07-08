@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Deloitte Audit",
+  "language": "en",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:24:27",
+  "sys_id": "6415b4cf37ae0b404d0e83dcb3990ea5",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:16",
+  "value": "deloitte_audit"
+}

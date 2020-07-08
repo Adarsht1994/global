@@ -1,0 +1,17 @@
+{
+  "dependent_value": "security_threats",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Treatment Of Incident Replies",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:33:09",
+  "sys_id": "3307f80337ee0b404d0e83dcb3990e13",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:02",
+  "value": "Treatment Of Incident Replies"
+}

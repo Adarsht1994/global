@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_correo_y_colaboración",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Infracción/Seguridad",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:19:02",
+  "sys_id": "2bfc8276db3d185492b95055ca961967",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:21:50",
+  "value": "sm_Infracción/Seguridad"
+}

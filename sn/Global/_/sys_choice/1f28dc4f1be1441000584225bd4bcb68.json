@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_security_and_access",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Password Reset",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 10:00:02",
+  "sys_id": "1f28dc4f1be1441000584225bd4bcb68",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 10:00:02",
+  "value": "sm_password_reset"
+}

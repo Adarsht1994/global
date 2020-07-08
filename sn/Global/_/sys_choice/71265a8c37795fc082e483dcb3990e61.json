@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_softwares",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Antivírus",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:10:54",
+  "sys_id": "71265a8c37795fc082e483dcb3990e61",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 09:10:54",
+  "value": "antivirus"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "application_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Installation Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:27:27",
+  "sys_id": "5b7d1cd81bf1bf00646a0f6e6e4bcb24",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:27:27",
+  "value": "installation_issue_latco"
+}

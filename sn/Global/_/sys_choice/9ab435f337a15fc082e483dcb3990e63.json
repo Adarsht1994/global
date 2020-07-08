@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_security_and_threats",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Data Leakage",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 12:07:07",
+  "sys_id": "9ab435f337a15fc082e483dcb3990e63",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 12:07:07",
+  "value": "data_leakage"
+}

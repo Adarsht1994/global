@@ -1,0 +1,17 @@
+{
+  "dependent_value": "request",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Senha Expirada",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:38",
+  "sys_id": "afd36ed8db07430062e1fe18bf9619d3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-12-11 11:56:38",
+  "value": "password expired"
+}

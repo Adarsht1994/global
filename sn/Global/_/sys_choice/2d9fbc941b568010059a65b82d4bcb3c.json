@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Reports",
+  "language": "en",
+  "name": "incident",
+  "sequence": 11,
+  "sys_created_by": "admGanapati",
+  "sys_created_on": "2020-01-08 06:36:01",
+  "sys_id": "2d9fbc941b568010059a65b82d4bcb3c",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 06:38:30",
+  "value": "reports"
+}

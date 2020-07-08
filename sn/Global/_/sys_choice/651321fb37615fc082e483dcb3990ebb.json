@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "TI - Aplicações",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 10:49:52",
+  "sys_id": "651321fb37615fc082e483dcb3990ebb",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:44:23",
+  "value": "it_applications"
+}

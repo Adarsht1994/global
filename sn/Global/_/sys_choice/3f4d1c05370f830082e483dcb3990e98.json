@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Softwares",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "admkiran",
+  "sys_created_on": "2017-12-13 10:04:11",
+  "sys_id": "3f4d1c05370f830082e483dcb3990e98",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:06",
+  "value": "softwares"
+}

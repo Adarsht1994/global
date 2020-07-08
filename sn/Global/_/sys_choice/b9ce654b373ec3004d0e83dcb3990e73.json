@@ -1,0 +1,17 @@
+{
+  "dependent_value": "mobile_devices",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "MDM - Problemas de Sincronização (E-mail, Calendário e Contatos)",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 10:52:53",
+  "sys_id": "b9ce654b373ec3004d0e83dcb3990e73",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:31:52",
+  "value": "MDM - Syncronization Problems (Mail, Calendar And Contacts)"
+}

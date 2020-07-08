@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_correo_y_colaboración",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Documentación/Plantillas",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:18:34",
+  "sys_id": "d1ec4e36db3d185492b95055ca961944",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:21:49",
+  "value": "sm_Documentación/Plantillas"
+}

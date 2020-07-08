@@ -1,0 +1,17 @@
+{
+  "dependent_value": "event monitoring-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "SCOM Alerts",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:21",
+  "sys_id": "f20218590f9ecf00dc2fc7dce1050ef3",
+  "sys_mod_count": 5,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:17:19",
+  "value": "scom alerts"
+}

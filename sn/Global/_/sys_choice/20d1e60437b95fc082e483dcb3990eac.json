@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "IT - Network and Internet",
+  "language": "en",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:02:18",
+  "sys_id": "20d1e60437b95fc082e483dcb3990eac",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admMadhu",
+  "sys_updated_on": "2019-07-16 13:53:41",
+  "value": "it_network_and_internet"
+}

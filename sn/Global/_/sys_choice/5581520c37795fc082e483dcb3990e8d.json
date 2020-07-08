@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Server Problems / Infrastructure",
+  "language": "en",
+  "name": "incident",
+  "sequence": 12,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:50:40",
+  "sys_id": "5581520c37795fc082e483dcb3990e8d",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 06:38:35",
+  "value": "server_problems_infrastructure"
+}

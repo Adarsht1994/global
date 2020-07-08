@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_almacenamiento",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Contenido/Datos",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:00:35",
+  "sys_id": "3ab84ebedbf9185492b95055ca9619fc",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:02:15",
+  "value": "sm_Contenido/Datos"
+}

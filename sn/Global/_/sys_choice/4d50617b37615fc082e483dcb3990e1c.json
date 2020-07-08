@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": null,
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 10:38:10",
+  "sys_id": "4d50617b37615fc082e483dcb3990e1c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:10",
+  "value": null
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_fixed_telephony",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Cannot Make Calls / No Service Line",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 06:56:11",
+  "sys_id": "1b17fdcc37395fc082e483dcb3990e1c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 06:56:11",
+  "value": "cannot_make_calls_no_service_line"
+}

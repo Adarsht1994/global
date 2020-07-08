@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "IT - Operational System",
+  "language": "en",
+  "name": "incident",
+  "sequence": 12,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 07:09:37",
+  "sys_id": "802a750037795fc082e483dcb3990e48",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admMadhu",
+  "sys_updated_on": "2019-07-16 13:53:55",
+  "value": "it_operational_system"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Other",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:44:47",
+  "sys_id": "57f164dc1bf1bf00646a0f6e6e4bcbae",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:48:45",
+  "value": "other_subcat_latco"
+}

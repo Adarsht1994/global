@@ -1,0 +1,17 @@
+{
+  "dependent_value": "COE - Admin",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "セキュリティ・アクセス",
+  "language": "ja",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "sscaria",
+  "sys_created_on": "2018-04-30 09:38:15",
+  "sys_id": "59c247dddb71d7005cfc126b3a9619cb",
+  "sys_mod_count": 2,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 07:57:25",
+  "value": "Security & Access-coe"
+}

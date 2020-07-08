@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Smartnet",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 27,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 13:20:12",
+  "sys_id": "73954afb37a15fc082e483dcb3990eae",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 13:20:12",
+  "value": "smartnet"
+}

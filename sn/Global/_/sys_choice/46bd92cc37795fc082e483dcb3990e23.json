@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_hardware_maintenance",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "On-Site Maintenance (Warranty)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:43:58",
+  "sys_id": "46bd92cc37795fc082e483dcb3990e23",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 09:43:58",
+  "value": "on_site_maintenance"
+}

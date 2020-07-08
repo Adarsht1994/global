@@ -1,0 +1,17 @@
+{
+  "dependent_value": "mobile_telephony_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Rollout",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 12:38:31",
+  "sys_id": "7e6c60d41b35bf00646a0f6e6e4bcb09",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 12:40:22",
+  "value": "rollout_mobile_latco"
+}

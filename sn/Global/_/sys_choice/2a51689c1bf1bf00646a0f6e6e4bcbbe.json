@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "PC/USB",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:42:13",
+  "sys_id": "2a51689c1bf1bf00646a0f6e6e4bcbbe",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:48:42",
+  "value": "pc_usb_latco"
+}

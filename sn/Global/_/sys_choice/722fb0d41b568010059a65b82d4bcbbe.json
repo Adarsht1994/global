@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "File Check",
+  "language": "en",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "admGanapati",
+  "sys_created_on": "2020-01-08 06:34:12",
+  "sys_id": "722fb0d41b568010059a65b82d4bcbbe",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 06:38:08",
+  "value": "file_check"
+}

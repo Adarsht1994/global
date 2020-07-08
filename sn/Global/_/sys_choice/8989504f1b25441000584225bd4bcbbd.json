@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_other",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Security Services",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 10:05:54",
+  "sys_id": "8989504f1b25441000584225bd4bcbbd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 10:05:54",
+  "value": "sm_security_services"
+}

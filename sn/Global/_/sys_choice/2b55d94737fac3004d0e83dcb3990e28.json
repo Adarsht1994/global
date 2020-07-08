@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "GCI",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 09:01:32",
+  "sys_id": "2b55d94737fac3004d0e83dcb3990e28",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:05",
+  "value": "gci"
+}

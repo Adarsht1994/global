@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Performance Degradation",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 12:41:57",
+  "sys_id": "f4eea4581b35bf00646a0f6e6e4bcbf0",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 12:55:39",
+  "value": "performance_degradation_network_latco"
+}

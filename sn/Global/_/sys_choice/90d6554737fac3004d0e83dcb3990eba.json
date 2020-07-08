@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "SDARS",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 09:07:51",
+  "sys_id": "90d6554737fac3004d0e83dcb3990eba",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:01",
+  "value": "sdars"
+}

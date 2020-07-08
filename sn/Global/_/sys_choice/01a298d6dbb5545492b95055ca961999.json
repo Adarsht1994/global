@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SL",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Aplicaciones Estratégicas",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-06 08:08:14",
+  "sys_id": "01a298d6dbb5545492b95055ca961999",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-06 08:08:37",
+  "value": "sm_aplicaciones_estratégicas"
+}

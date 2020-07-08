@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_telefonía",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Consulta/Cómo se hace",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:50:54",
+  "sys_id": "fc63d672db7d185492b95055ca961937",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:52:44",
+  "value": "sm_Consulta/Cómo se hace"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "cloud",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Provisionamento de Instancias/Servidores AWS e Azure",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2017-12-07 08:36:48",
+  "sys_id": "7cafc1c337fac3004d0e83dcb3990ec1",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:32",
+  "value": "AWS And Azure Instance / Server Provisioning"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "IT - Corporate Mobile Services",
+  "language": "en",
+  "name": "incident",
+  "sequence": 8,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 09:46:57",
+  "sys_id": "313e128037b95fc082e483dcb3990ea9",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admMadhu",
+  "sys_updated_on": "2019-07-16 13:53:41",
+  "value": "it_corporate_mobile_services"
+}

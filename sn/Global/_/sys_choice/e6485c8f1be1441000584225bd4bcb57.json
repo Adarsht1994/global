@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_security_and_access",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Virus / Malware",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 10:00:32",
+  "sys_id": "e6485c8f1be1441000584225bd4bcb57",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 10:00:32",
+  "value": "sm_virus_malware"
+}

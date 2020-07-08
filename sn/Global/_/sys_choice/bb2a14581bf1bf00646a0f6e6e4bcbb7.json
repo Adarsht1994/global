@@ -1,0 +1,17 @@
+{
+  "dependent_value": "R1",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Network",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:10:36",
+  "sys_id": "bb2a14581bf1bf00646a0f6e6e4bcbb7",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:51",
+  "value": "network_latco"
+}

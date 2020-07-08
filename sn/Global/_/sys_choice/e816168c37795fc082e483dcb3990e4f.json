@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_fixed_telephony",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Indisponibilidade de Tronco-Chave",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 09:10:32",
+  "sys_id": "e816168c37795fc082e483dcb3990e4f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 09:10:32",
+  "value": "trunk_unavailable"
+}

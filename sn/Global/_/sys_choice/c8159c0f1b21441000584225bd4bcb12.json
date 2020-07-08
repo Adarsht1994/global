@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardware",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "BYOD",
+  "language": "en",
+  "name": "incident",
+  "sequence": 7,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2019-12-10 09:46:26",
+  "sys_id": "c8159c0f1b21441000584225bd4bcb12",
+  "sys_mod_count": 0,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2019-12-10 09:46:26",
+  "value": "sm_byod"
+}

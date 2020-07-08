@@ -1,0 +1,17 @@
+{
+  "dependent_value": "applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Engagements Management (Sense)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:29:14",
+  "sys_id": "6226f80337ee0b404d0e83dcb3990e53",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:39:30",
+  "value": "engagements_management_sense"
+}

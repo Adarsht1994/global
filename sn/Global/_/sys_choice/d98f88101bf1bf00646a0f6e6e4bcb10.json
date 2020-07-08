@@ -1,0 +1,17 @@
+{
+  "dependent_value": "R1",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Application",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 10:24:25",
+  "sys_id": "d98f88101bf1bf00646a0f6e6e4bcb10",
+  "sys_mod_count": 5,
+  "sys_updated_by": "admKaushik",
+  "sys_updated_on": "2019-08-05 15:14:52",
+  "value": "application_latco"
+}

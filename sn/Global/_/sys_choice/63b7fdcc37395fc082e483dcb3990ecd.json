@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_fixed_telephony",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Ramal não Loga",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 06:58:02",
+  "sys_id": "63b7fdcc37395fc082e483dcb3990ecd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 06:58:02",
+  "value": "cannot_login"
+}

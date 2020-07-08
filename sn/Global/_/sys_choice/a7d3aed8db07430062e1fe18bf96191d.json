@@ -1,0 +1,17 @@
+{
+  "dependent_value": "VZ eBonding",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Monitor",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:38",
+  "sys_id": "a7d3aed8db07430062e1fe18bf96191d",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-12-11 11:56:38",
+  "value": "MONITOR"
+}

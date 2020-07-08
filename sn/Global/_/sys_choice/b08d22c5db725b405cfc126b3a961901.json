@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Security",
+  "language": "en",
+  "name": "incident",
+  "sequence": 80,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:29:41",
+  "sys_id": "b08d22c5db725b405cfc126b3a961901",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "Security"
+}

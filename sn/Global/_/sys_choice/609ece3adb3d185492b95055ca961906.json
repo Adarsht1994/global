@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardwaree",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Instalar/Desinstalar/Actualizar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:25:56",
+  "sys_id": "609ece3adb3d185492b95055ca961906",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 07:11:23",
+  "value": "sm_Instalar/Desinstalar/Actualizar"
+}

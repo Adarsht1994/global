@@ -1,0 +1,17 @@
+{
+  "dependent_value": "security_access_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Virus/Malware",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:06:03",
+  "sys_id": "b194bcdc1b35bf00646a0f6e6e4bcb27",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:06:29",
+  "value": "virus_malware_security_latco"
+}

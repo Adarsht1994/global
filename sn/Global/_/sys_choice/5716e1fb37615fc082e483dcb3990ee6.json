@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Discovery",
+  "language": "en",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 11:02:32",
+  "sys_id": "5716e1fb37615fc082e483dcb3990ee6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 11:02:32",
+  "value": "discovery"
+}

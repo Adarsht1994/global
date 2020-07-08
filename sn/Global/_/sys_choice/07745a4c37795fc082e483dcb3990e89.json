@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_softwares",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Software Configuration",
+  "language": "en",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 09:03:37",
+  "sys_id": "07745a4c37795fc082e483dcb3990e89",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 09:03:37",
+  "value": "software_configuration"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "CNNTP",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 19,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 13:16:32",
+  "sys_id": "82c4cafb37a15fc082e483dcb3990e7a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 13:16:32",
+  "value": "cnntp"
+}

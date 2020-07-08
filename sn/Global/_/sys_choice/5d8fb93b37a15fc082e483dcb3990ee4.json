@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Gestão de Engagements (Sense)",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 12:53:33",
+  "sys_id": "5d8fb93b37a15fc082e483dcb3990ee4",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 12:53:33",
+  "value": "engagements_management_(sense)"
+}

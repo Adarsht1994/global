@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Engagements Management (View)",
+  "language": "en",
+  "name": "incident",
+  "sequence": 6,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 11:13:37",
+  "sys_id": "b5a829fb37615fc082e483dcb3990e35",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 11:13:37",
+  "value": "engagements_management_(view)"
+}

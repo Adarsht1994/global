@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "DAM",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 30,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 13:21:16",
+  "sys_id": "2fd50efb37a15fc082e483dcb3990e57",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 13:21:16",
+  "value": "dam"
+}

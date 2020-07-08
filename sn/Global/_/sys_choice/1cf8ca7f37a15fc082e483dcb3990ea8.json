@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_security_and_threats",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Tratamento de Ameaças Identificadas - STS (IDS)",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 4,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 13:35:06",
+  "sys_id": "1cf8ca7f37a15fc082e483dcb3990ea8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 13:35:06",
+  "value": "treatment_of_threats_identified"
+}

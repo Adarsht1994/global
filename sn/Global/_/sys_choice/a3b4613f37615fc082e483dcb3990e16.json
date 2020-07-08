@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Balanced Scorecard",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 10:58:34",
+  "sys_id": "a3b4613f37615fc082e483dcb3990e16",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:58:34",
+  "value": "balanced_scorecard"
+}

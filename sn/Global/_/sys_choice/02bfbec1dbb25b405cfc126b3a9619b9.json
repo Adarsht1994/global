@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "申請/手続き",
+  "language": "ja",
+  "name": "incident",
+  "sequence": 90,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 07:49:14",
+  "sys_id": "02bfbec1dbb25b405cfc126b3a9619b9",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:12",
+  "value": "Procedure"
+}

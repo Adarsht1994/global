@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_applications",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Reembolso",
+  "language": "en",
+  "name": "incident",
+  "sequence": 34,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-25 12:43:28",
+  "sys_id": "b13d75f737a15fc082e483dcb3990e6f",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 12:46:15",
+  "value": "reembolso"
+}

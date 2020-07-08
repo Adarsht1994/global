@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_cuenta",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Acceso/Inicio de sesión",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:22:05",
+  "sys_id": "471d8e36db3d185492b95055ca961903",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:23:16",
+  "value": "sm_Acceso/Inicio de sesión"
+}

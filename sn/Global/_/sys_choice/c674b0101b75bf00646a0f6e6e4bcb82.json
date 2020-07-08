@@ -1,0 +1,17 @@
+{
+  "dependent_value": "security_access_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Password Reset",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:05:21",
+  "sys_id": "c674b0101b75bf00646a0f6e6e4bcb82",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:06:28",
+  "value": "password_reset_security_latco"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_almacenamiento",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Consulta/Cómo se hace",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:00:09",
+  "sys_id": "3e7806bedbf9185492b95055ca961909",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:01:51",
+  "value": "sm_Consulta/Cómo se hace"
+}

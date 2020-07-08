@@ -1,0 +1,17 @@
+{
+  "dependent_value": "mobile_telephony_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Physical Damage",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 12:29:35",
+  "sys_id": "073cec941b35bf00646a0f6e6e4bcb2a",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 12:40:21",
+  "value": "physical_damage_mobile_latco"
+}

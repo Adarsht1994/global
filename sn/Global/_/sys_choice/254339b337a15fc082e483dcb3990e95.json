@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_sap",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Environment Unavailability",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-25 12:00:35",
+  "sys_id": "254339b337a15fc082e483dcb3990e95",
+  "sys_mod_count": 1,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-25 12:02:01",
+  "value": "environment_unavailability"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Manutenção Corretiva",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:14:48",
+  "sys_id": "0c59c60837795fc082e483dcb3990eb3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-26 08:14:48",
+  "value": "corrective_maintenance"
+}

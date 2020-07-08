@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Security and Threats",
+  "language": "en",
+  "name": "incident",
+  "sequence": 7,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:22:25",
+  "sys_id": "b694f4cf37ae0b404d0e83dcb3990e8b",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:15",
+  "value": "security_threats"
+}

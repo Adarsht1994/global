@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_hardwaree",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Mover/Agregar/Cambiar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:26:17",
+  "sys_id": "2cae4abadb3d185492b95055ca961905",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 07:11:22",
+  "value": "sm_Mover/Agregar/Cambiar"
+}

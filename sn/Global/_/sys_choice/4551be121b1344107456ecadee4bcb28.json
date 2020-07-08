@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_tam",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Equipo Continuidad de Negocio (BCP)",
+  "language": "es",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "lghori",
+  "sys_created_on": "2020-03-04 13:03:37",
+  "sys_id": "4551be121b1344107456ecadee4bcb28",
+  "sys_mod_count": 2,
+  "sys_updated_by": "lghori",
+  "sys_updated_on": "2020-03-04 13:18:32",
+  "value": "sm_business_continuity_team"
+}

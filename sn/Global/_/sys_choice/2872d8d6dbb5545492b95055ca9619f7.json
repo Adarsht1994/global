@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SL",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Aplicaciones de Negocio",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-06 08:07:15",
+  "sys_id": "2872d8d6dbb5545492b95055ca9619f7",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-06 08:07:52",
+  "value": "sm_aplicaciones_de_negocio"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "mobile_telephony_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Lost/Stolen",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:56:58",
+  "sys_id": "bdc420901b35bf00646a0f6e6e4bcb2b",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 12:40:19",
+  "value": "lost_stolen_mobile_latco"
+}

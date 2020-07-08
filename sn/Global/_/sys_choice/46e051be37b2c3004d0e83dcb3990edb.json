@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Sistema Operacional",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 13,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 14:03:42",
+  "sys_id": "46e051be37b2c3004d0e83dcb3990edb",
+  "sys_mod_count": 4,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:45:09",
+  "value": "operational_system"
+}

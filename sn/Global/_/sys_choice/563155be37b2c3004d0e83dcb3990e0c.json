@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Celulares e Modens",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-06 14:05:15",
+  "sys_id": "563155be37b2c3004d0e83dcb3990e0c",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admSushil",
+  "sys_updated_on": "2019-07-01 08:44:25",
+  "value": "mobile_devices"
+}

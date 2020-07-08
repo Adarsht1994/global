@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_corporate_mobile_services",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problema de Sincronização",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 2,
+  "sys_created_by": "kbhojanapally",
+  "sys_created_on": "2018-04-26 10:05:49",
+  "sys_id": "ceb2624437b95fc082e483dcb3990e00",
+  "sys_mod_count": 0,
+  "sys_updated_by": "kbhojanapally",
+  "sys_updated_on": "2018-04-26 10:05:49",
+  "value": "synchronization_problem"
+}

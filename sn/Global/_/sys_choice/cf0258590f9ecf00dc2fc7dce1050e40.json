@@ -1,0 +1,17 @@
+{
+  "dependent_value": "How To (Ask A Question)-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technology",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:22",
+  "sys_id": "cf0258590f9ecf00dc2fc7dce1050e40",
+  "sys_mod_count": 4,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:15:40",
+  "value": "Technology"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Performance Degradation",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admsherine",
+  "sys_created_on": "2018-05-21 09:39:40",
+  "sys_id": "c24c4b04db5ad30005d2147a3a9619d7",
+  "sys_mod_count": 2,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 08:10:53",
+  "value": "Performance Degradation"
+}

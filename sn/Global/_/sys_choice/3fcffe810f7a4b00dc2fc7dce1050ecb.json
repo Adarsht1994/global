@@ -1,0 +1,17 @@
+{
+  "dependent_value": "monitoring",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Application Monitoring",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:38:27",
+  "sys_id": "3fcffe810f7a4b00dc2fc7dce1050ecb",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:04",
+  "value": "Application Monitoring"
+}

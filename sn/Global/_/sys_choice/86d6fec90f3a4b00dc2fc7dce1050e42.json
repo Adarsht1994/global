@@ -1,0 +1,17 @@
+{
+  "dependent_value": "mobile_devices",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "MDM - E-Mail Account Configuration",
+  "language": "en",
+  "name": "incident",
+  "sequence": 3,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 10:59:17",
+  "sys_id": "86d6fec90f3a4b00dc2fc7dce1050e42",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:46",
+  "value": "MDM - E-Mail Account Configuration"
+}

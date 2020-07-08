@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "PMS One",
+  "language": "en",
+  "name": "incident",
+  "sequence": 100,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:30:02",
+  "sys_id": "399d22c5db725b405cfc126b3a961995",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "PMS One"
+}

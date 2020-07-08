@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_de_negocio",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Instalar/Desinstalar/Actualizar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:09:13",
+  "sys_id": "e0ca8e32db3d185492b95055ca961952",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:11:50",
+  "value": "sm_Instalar/Desinstalar/Actualizar"
+}

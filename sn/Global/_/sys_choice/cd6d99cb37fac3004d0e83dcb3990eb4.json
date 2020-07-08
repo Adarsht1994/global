@@ -1,0 +1,17 @@
+{
+  "dependent_value": "telephone_problems",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Aparelho Não Liga/Sem Sinal de Sinha",
+  "language": "pb",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "msreeja",
+  "sys_created_on": "2017-12-07 09:37:14",
+  "sys_id": "cd6d99cb37fac3004d0e83dcb3990eb4",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:38:01",
+  "value": "Not Working, No Line"
+}

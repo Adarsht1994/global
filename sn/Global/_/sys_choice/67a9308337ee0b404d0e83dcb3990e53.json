@@ -1,0 +1,17 @@
+{
+  "dependent_value": "telephone_problems",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "PBX Unavailable",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:44:36",
+  "sys_id": "67a9308337ee0b404d0e83dcb3990e53",
+  "sys_mod_count": 2,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:09",
+  "value": "PBX Unavailable"
+}

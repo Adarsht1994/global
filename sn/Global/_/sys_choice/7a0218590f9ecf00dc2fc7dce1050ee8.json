@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it security-coe",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Antivirus Policy non-compliance",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admron",
+  "sys_created_on": "2017-11-06 21:06:20",
+  "sys_id": "7a0218590f9ecf00dc2fc7dce1050ee8",
+  "sys_mod_count": 5,
+  "sys_updated_by": "tkaushik7",
+  "sys_updated_on": "2018-10-24 07:54:47",
+  "value": "antivirus policy non-compliance"
+}

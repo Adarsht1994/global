@@ -1,0 +1,17 @@
+{
+  "dependent_value": "monitoring",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Server Monitoring",
+  "language": "en",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:38:13",
+  "sys_id": "18cfbe410f7a4b00dc2fc7dce1050e76",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:04",
+  "value": "Server Monitoring"
+}

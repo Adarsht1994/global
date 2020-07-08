@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "category",
+  "hint": null,
+  "inactive": true,
+  "label": "Hardware, Accessories and Peripherals",
+  "language": "en",
+  "name": "incident",
+  "sequence": 11,
+  "sys_created_by": "admdavid",
+  "sys_created_on": "2017-11-24 20:24:00",
+  "sys_id": "f9f4300337ee0b404d0e83dcb3990e24",
+  "sys_mod_count": 3,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:25:14",
+  "value": "hardware_accessories"
+}

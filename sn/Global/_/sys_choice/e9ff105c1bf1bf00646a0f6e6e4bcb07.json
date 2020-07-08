@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Lost/Stolen",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:35:53",
+  "sys_id": "e9ff105c1bf1bf00646a0f6e6e4bcb07",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:48:29",
+  "value": "lost_stolen_latco"
+}

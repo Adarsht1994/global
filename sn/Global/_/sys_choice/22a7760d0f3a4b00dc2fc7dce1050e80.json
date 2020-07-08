@@ -1,0 +1,17 @@
+{
+  "dependent_value": "operational_system",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": true,
+  "label": "Blue Screen Of Death",
+  "language": "en",
+  "name": "incident",
+  "sequence": 5,
+  "sys_created_by": "ribhattacharya",
+  "sys_created_on": "2017-12-01 11:02:52",
+  "sys_id": "22a7760d0f3a4b00dc2fc7dce1050e80",
+  "sys_mod_count": 1,
+  "sys_updated_by": "shuvarshney",
+  "sys_updated_on": "2018-04-25 10:40:43",
+  "value": "Blue Screen Of Death"
+}

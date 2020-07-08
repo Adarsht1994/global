@@ -1,0 +1,17 @@
+{
+  "dependent_value": "sm_aplicaciones_de_gestión",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Instalar/Desinstalar/Actualizar",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-07-08 06:05:01",
+  "sys_id": "aac98272db3d185492b95055ca961911",
+  "sys_mod_count": 3,
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-07-08 06:07:26",
+  "value": "sm_Instalar/Desinstalar/Actualizar"
+}
