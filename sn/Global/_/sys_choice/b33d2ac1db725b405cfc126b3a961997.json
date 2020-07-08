@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Business Application",
+  "language": "en",
+  "name": "incident",
+  "sequence": 40,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:28:31",
+  "sys_id": "b33d2ac1db725b405cfc126b3a961997",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "Buisiness Application"
+}

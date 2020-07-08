@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Network/Server",
+  "language": "en",
+  "name": "incident",
+  "sequence": 60,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:29:04",
+  "sys_id": "bb5daa41db725b405cfc126b3a96190c",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "Network/Server"
+}

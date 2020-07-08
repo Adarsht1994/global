@@ -1,0 +1,16 @@
+{
+  "element": "category",
+  "name": "incident",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:27:43",
+  "sys_id": "8ad1efca1b37001079c9a9722a4bcb8a",
+  "sys_mod_count": 0,
+  "sys_name": "category",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_incident_category",
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-06-18 06:27:43"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "VDI",
+  "language": "en",
+  "name": "incident",
+  "sequence": 50,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 06:28:47",
+  "sys_id": "ff4da2c1db725b405cfc126b3a9619ec",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "VDI"
+}

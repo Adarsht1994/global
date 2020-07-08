@@ -1,0 +1,17 @@
+{
+  "dependent_value": "JP",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "Mobile/周辺機器",
+  "language": "ja",
+  "name": "incident",
+  "sequence": 70,
+  "sys_created_by": "admpalak",
+  "sys_created_on": "2018-06-18 07:48:55",
+  "sys_id": "edafbe81dbb25b405cfc126b3a96195e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admpalak",
+  "sys_updated_on": "2018-10-19 13:13:13",
+  "value": "Mobile"
+}
