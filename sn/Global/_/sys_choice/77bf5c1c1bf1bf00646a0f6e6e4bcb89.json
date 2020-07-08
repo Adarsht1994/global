@@ -1,0 +1,17 @@
+{
+  "dependent_value": "application_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technical Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:34:57",
+  "sys_id": "77bf5c1c1bf1bf00646a0f6e6e4bcb89",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:45:04",
+  "value": "technical_issue_app_latco"
+}

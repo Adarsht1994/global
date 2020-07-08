@@ -1,0 +1,17 @@
+{
+  "dependent_value": "hardware_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Rollout",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:40:49",
+  "sys_id": "c421689c1bf1bf00646a0f6e6e4bcb72",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:48:39",
+  "value": "rollout_hw_latco"
+}

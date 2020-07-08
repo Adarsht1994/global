@@ -1,0 +1,17 @@
+{
+  "dependent_value": "network_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technical Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 12:55:25",
+  "sys_id": "8622381c1b35bf00646a0f6e6e4bcbe3",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 12:55:46",
+  "value": "technical_issue_network_latco"
+}

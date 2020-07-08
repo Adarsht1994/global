@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_security_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Unauthorized System Changes",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:17:14",
+  "sys_id": "0517fc501b75bf00646a0f6e6e4bcb93",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:18:52",
+  "value": "unauthorized_system_changes"
+}

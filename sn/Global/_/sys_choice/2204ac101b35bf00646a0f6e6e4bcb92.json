@@ -1,0 +1,17 @@
+{
+  "dependent_value": "how_to_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Technology",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:53:54",
+  "sys_id": "2204ac101b35bf00646a0f6e6e4bcb92",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:54:52",
+  "value": "technology_latco"
+}

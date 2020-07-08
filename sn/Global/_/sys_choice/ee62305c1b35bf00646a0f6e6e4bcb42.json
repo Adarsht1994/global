@@ -1,0 +1,17 @@
+{
+  "dependent_value": "print_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Connectivity Issue",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:02:44",
+  "sys_id": "ee62305c1b35bf00646a0f6e6e4bcb42",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:03:58",
+  "value": "connectivity_issue_latco"
+}

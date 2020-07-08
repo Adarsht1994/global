@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_security_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Unauthorized Access to Systems",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 13:16:06",
+  "sys_id": "a9d630901b75bf00646a0f6e6e4bcbf5",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 13:18:51",
+  "value": "unauthorized_access_to_systems_latco"
+}

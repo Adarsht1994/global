@@ -1,0 +1,17 @@
+{
+  "dependent_value": "application_latco",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Content/Data Update",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "admrohit",
+  "sys_created_on": "2019-05-29 11:23:31",
+  "sys_id": "77fc94981bf1bf00646a0f6e6e4bcbd9",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admrohit",
+  "sys_updated_on": "2019-05-29 11:23:31",
+  "value": "content_data_update_latco"
+}
