@@ -1,0 +1,17 @@
+{
+  "dependent_value": "Cloud Management",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Pergunta",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 0,
+  "sys_created_by": "system",
+  "sys_created_on": "2018-11-11 05:59:26",
+  "sys_id": "1dbe5e4cdb352300e4e8894d0b961959",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2018-11-11 05:59:26",
+  "value": "Question"
+}

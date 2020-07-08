@@ -1,0 +1,17 @@
+{
+  "dependent_value": "software",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Email",
+  "language": "en",
+  "name": "incident",
+  "sequence": null,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-10-04 02:00:41",
+  "sys_id": "0f5f025637610300adc6c8cfc3990ed9",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-10-04 02:00:41",
+  "value": "email"
+}

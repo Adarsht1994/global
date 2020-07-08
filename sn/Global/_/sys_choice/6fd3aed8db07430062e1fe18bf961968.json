@@ -1,0 +1,17 @@
+{
+  "dependent_value": "SFDC Case",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Complexidade do Equipamento",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 1,
+  "sys_created_by": "system",
+  "sys_created_on": "2017-12-11 11:56:38",
+  "sys_id": "6fd3aed8db07430062e1fe18bf961968",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2017-12-11 11:56:38",
+  "value": "Equipment Complexity"
+}
