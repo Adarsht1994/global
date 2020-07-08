@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Problema na Aplicação",
+  "language": "pb",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:53:30",
+  "sys_id": "b222d60c37795fc082e483dcb3990eac",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 09:38:50",
+  "value": "application_problem"
+}

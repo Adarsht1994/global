@@ -1,0 +1,17 @@
+{
+  "dependent_value": "it_deloitte_audit",
+  "element": "subcategory",
+  "hint": null,
+  "inactive": false,
+  "label": "Trial Balance",
+  "language": "en",
+  "name": "incident",
+  "sequence": 14,
+  "sys_created_by": "admGanapati",
+  "sys_created_on": "2020-01-08 06:36:27",
+  "sys_id": "3faf78d41b568010059a65b82d4bcb77",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admGanapati",
+  "sys_updated_on": "2020-01-08 06:38:43",
+  "value": "trial_balance"
+}
