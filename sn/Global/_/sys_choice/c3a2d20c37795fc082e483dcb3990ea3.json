@@ -1,0 +1,17 @@
+{
+  "dependent_value": "BR",
+  "element": "category",
+  "hint": null,
+  "inactive": false,
+  "label": "IT - Softwares",
+  "language": "en",
+  "name": "incident",
+  "sequence": 10,
+  "sys_created_by": "shuvarshney",
+  "sys_created_on": "2018-04-26 08:59:57",
+  "sys_id": "c3a2d20c37795fc082e483dcb3990ea3",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admMadhu",
+  "sys_updated_on": "2019-07-16 13:53:42",
+  "value": "it_softwares"
+}
