@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-13 10:00:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>[SL] - Changes to the Existing Request Forms:
+
+reviewed the email and observations mentioned below:
+
+1) Spell check - "Engedment" should be written as "Engagement"
+On all these CI: End User Final: Solicitud de Bandas Anchas, Solicitud de dominios adicionales,  Solicitud de Software adicional DTTL, Solicitud de Software adicional local
+      a) Description:  Engedment should be Engagement
+      b) Field name: CeCo / Engedment/ OTP should be CeCo / Engagement / OTP
+
+2) End User Final -&gt; Solicitud de Software adicional: 
+Change the description: En esta sección podrás solicitar Softare adicional el cual puede tener un costo y se encunetra sujeto a la política XXXXX to En esta sección podrás solicitar Softare adicional el cual puede tener un costo y se encunetra sujeto a la POTC-002
+
+3) Solicitud de Software gratuito:
+Remove the field 'Justification de compre' from the CI form
+
+4) For Solicitud de Software adicional Add "En esta sección podrás solicitar Software adicional" as the item description.
+
+All these enhancements are reported based on the email from MF - EPIC0010159
+</description>
+<inserted/>
+<name>SK_Slatam_SP4_STRY0015994_V1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>ce0b20a0db42909492b95055ca96195a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>8fbf68e81b8e9c5079c9a9722a4bcba1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_5f441815db19909092b95055ca961927</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="Solicitud de Software adicional gratuito&#9;&#9;&#9;">58bfbb45db95909092b95055ca961990</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>justificaci_n_de_compra</name><order>600</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>Justificación de compra</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-08 09:09:41</sys_created_on><sys_id>5f441815db19909092b95055ca961927</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Justificación de compra</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_5f441815db19909092b95055ca961927</sys_update_name><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-07-13 09:55:35</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=5f441815db19909092b95055ca961927"/><fx_price action="delete_multiple" query="id=5f441815db19909092b95055ca961927"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>5f441815db19909092b95055ca961927</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-08 09:09:41</sys_created_on><sys_id>6e641c15db19909092b95055ca96193b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-08 09:09:41</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>5f441815db19909092b95055ca961927</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-08 09:09:41</sys_created_on><sys_id>26641c15db19909092b95055ca96193b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-08 09:09:41</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1845448670</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>0bbf68e81b8e9c5079c9a9722a4bcba2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1734799e7b30000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>Justificación de compra</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>c09eac2c21829094f2a3df844299b706</update_guid>
+<update_guid_history>c09eac2c21829094f2a3df844299b706:1845448670,2a649855fb199090e5022cf680cf4c30:1555255151</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_95faf622dba8541092b95055ca961986</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category display_value="End User Technologies"&gt;03da76aedb68541092b95055ca961903&lt;/category&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time/&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;En esta sección podrás solicitar Softare adicional el cual puede tener un costo y se encunetra sujeto a la política XXXXX to En esta sección podrás solicitar Softare adicional el cual puede tener un costo y se encunetra sujeto a la POTC-002&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Solicitud de Software adicional&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=95faf622dba8541092b95055ca961986&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;sc_catalogs&gt;189a22fc1ba64490059a65b82d4bcb4e&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;short_description&gt;En esta sección podrás solicitar Software adicional&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admshruti&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-06 11:43:12&lt;/sys_created_on&gt;&lt;sys_id&gt;95faf622dba8541092b95055ca961986&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Solicitud de Software adicional&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_95faf622dba8541092b95055ca961986&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admshruti&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-13 09:59:07&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow display_value="SL Solicitud de Software adicional"&gt;cf4687e2dbe8541092b95055ca96193f&lt;/workflow&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=95faf622dba8541092b95055ca961986"/&gt;&lt;fx_price action="delete_multiple" query="id=95faf622dba8541092b95055ca961986"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;95faf622dba8541092b95055ca961986&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admshruti&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-06 11:43:12&lt;/sys_created_on&gt;&lt;sys_id&gt;e91bfa22dba8541092b95055ca961905&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admshruti&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-06 11:43:12&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;95faf622dba8541092b95055ca961986&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admshruti&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-06 11:43:12&lt;/sys_created_on&gt;&lt;sys_id&gt;a91bfa22dba8541092b95055ca961906&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admshruti&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-06 11:43:12&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1633726609</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>43bf68e81b8e9c5079c9a9722a4bcba3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>173479d23680000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>Solicitud de Software adicional</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>3f5f6c6c328290941201badaca534ae5</update_guid>
+<update_guid_history>3f5f6c6c328290941201badaca534ae5:1633726609,a20fe46c748290945fee8c9568d4feac:-554795219,a84ea8e87b829094713151f6149040a5:1189077802,4e99b740e7349450ac854ca4d13739ce:-429720768,849bf232ec601c10eb63c2c36203fb92:-1600859404,d3b6cf26c2e854109f299144014e117c:-1065252905,062b7e221fa8541036323aa6c2c6fa39:2018695670,211bfa2254a85410ef502456bcc5b816:-329319091</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_291bad54db551c5092b95055ca9619f0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Solicitud de Bandas Anchas">ecb7a150db551c5092b95055ca9619c2</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>ceco_engedment_otp</name><order>650</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>CeCo / Engagement/ OTP</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-05 12:54:47</sys_created_on><sys_id>291bad54db551c5092b95055ca9619f0</sys_id><sys_mod_count>7</sys_mod_count><sys_name>CeCo / Engagement/ OTP</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_291bad54db551c5092b95055ca9619f0</sys_update_name><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-07-13 09:50:05</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=291bad54db551c5092b95055ca9619f0"/><fx_price action="delete_multiple" query="id=291bad54db551c5092b95055ca9619f0"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>291bad54db551c5092b95055ca9619f0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-05 12:54:47</sys_created_on><sys_id>2a2b2d94db551c5092b95055ca9619d1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-05 12:54:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>291bad54db551c5092b95055ca9619f0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-05 12:54:47</sys_created_on><sys_id>ee2b2d94db551c5092b95055ca9619d0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-05 12:54:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1197584645</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>47bf68e81b8e9c5079c9a9722a4bcba2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1734794de3c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>CeCo / Engagement/ OTP</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>2f4d60a88082909420e46b6733fe17f9</update_guid>
+<update_guid_history>2f4d60a88082909420e46b6733fe17f9:1197584645,29dbec288682909441c82e7006125208:-1394707721,1ecb2ce43982909460191fece78ed3cd:1008268677,9dcba028f28290941794737121e3c5c7:-81284485,7bbb2c2856829094943ec2e290f065b6:1197584645,a8a358a0256914d0e637430a2de91ab1:-491592380,594bed944a551c509189b11f56e0548e:174304748,aa2b2d9486551c5032bb637bb7aef2d4:1236466817</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_1b48a461db11149092b95055ca961987</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Solicitud de Software adicional local&#9;&#9;&#9;">015f641ddb99909092b95055ca96191d</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>ceco_engedment_otp</name><order>960</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>CeCo / Engagement/ OTP</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-09 05:15:23</sys_created_on><sys_id>1b48a461db11149092b95055ca961987</sys_id><sys_mod_count>4</sys_mod_count><sys_name>CeCo / Engagement/ OTP</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_1b48a461db11149092b95055ca961987</sys_update_name><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-07-13 09:52:37</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=1b48a461db11149092b95055ca961987"/><fx_price action="delete_multiple" query="id=1b48a461db11149092b95055ca961987"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>1b48a461db11149092b95055ca961987</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-09 05:15:23</sys_created_on><sys_id>906868a1db11149092b95055ca9619ed</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-09 05:15:23</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>1b48a461db11149092b95055ca961987</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>lghori</sys_created_by><sys_created_on>2020-06-09 05:15:23</sys_created_on><sys_id>586868a1db11149092b95055ca9619ec</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>lghori</sys_updated_by><sys_updated_on>2020-06-09 05:15:23</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1963740711</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>83bf68e81b8e9c5079c9a9722a4bcba2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>173479730320000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>CeCo / Engagement/ OTP</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>acedece8a88290943428f83b17319055</update_guid>
+<update_guid_history>acedece8a88290943428f83b17319055:-1963740711,37ddece842829094122a63233a6abf0b:1144845907,a4dc24a8a9829094d67a89071d34be08:-1426608582,81acec685e8290943a19d0fd4d74f53a:1259052063,146868a1131114904ae11a81f75110f0:-2027881059</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_e327e1e21b5d589079c9a9722a4bcbba</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Solicitud de dominios adicionales">c38565221b5d589079c9a9722a4bcb5a</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>ceco_engedment_otp</name><order>550</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>CeCo / Engagement/ OTP</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 12:24:14</sys_created_on><sys_id>e327e1e21b5d589079c9a9722a4bcbba</sys_id><sys_mod_count>3</sys_mod_count><sys_name>CeCo / Engagement/ OTP</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_e327e1e21b5d589079c9a9722a4bcbba</sys_update_name><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-07-13 09:51:03</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=e327e1e21b5d589079c9a9722a4bcbba"/><fx_price action="delete_multiple" query="id=e327e1e21b5d589079c9a9722a4bcbba"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>e327e1e21b5d589079c9a9722a4bcbba</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 12:24:14</sys_created_on><sys_id>df47a5661b5d589079c9a9722a4bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-06-12 12:24:14</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>e327e1e21b5d589079c9a9722a4bcbba</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 12:24:14</sys_created_on><sys_id>9747a5661b5d589079c9a9722a4bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-06-12 12:24:14</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1711606172</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>8fbf68e81b8e9c5079c9a9722a4bcba2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1734795c2870000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>CeCo / Engagement/ OTP</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>f18d24e820829094c5fe257397a6720b</update_guid>
+<update_guid_history>f18d24e820829094c5fe257397a6720b:-1711606172,562cec28f88290943abd9a51a0ed5612:974054473,8398ade6b45d5890b7b8f15011948c84:-1249400761,5f47a566a35d5890f00dd8004614d38a:509190124</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_807e7caa1b59589079c9a9722a4bcbf1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Solicitud de Software adicional DTTL">61ca34a61b59589079c9a9722a4bcb2b</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>ceco_engedment_otp</name><order>750</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>CeCo / Engagement/ OTP</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 09:26:04</sys_created_on><sys_id>807e7caa1b59589079c9a9722a4bcbf1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>CeCo / Engagement/ OTP</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_807e7caa1b59589079c9a9722a4bcbf1</sys_update_name><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-07-13 09:51:38</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=807e7caa1b59589079c9a9722a4bcbf1"/><fx_price action="delete_multiple" query="id=807e7caa1b59589079c9a9722a4bcbf1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>807e7caa1b59589079c9a9722a4bcbf1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 09:26:04</sys_created_on><sys_id>6d8e78ea1b59589079c9a9722a4bcb45</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-06-12 09:26:04</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>807e7caa1b59589079c9a9722a4bcbf1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admshruti</sys_created_by><sys_created_on>2020-06-12 09:26:04</sys_created_on><sys_id>258e78ea1b59589079c9a9722a4bcb45</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admshruti</sys_updated_by><sys_updated_on>2020-06-12 09:26:04</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1239320285</payload_hash>
+<remote_update_set display_value="SK_Slatam_SP4_STRY0015994_V1">8fbf68e81b8e9c5079c9a9722a4bcba1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 10:00:42</sys_created_on>
+<sys_id>cbbf68e81b8e9c5079c9a9722a4bcba2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17347964adb0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 10:00:42</sys_updated_on>
+<table/>
+<target_name>CeCo / Engagement/ OTP</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>92ad68e8738290946e579547c96bd112</update_guid>
+<update_guid_history>92ad68e8738290946e579547c96bd112:-1239320285,2b7ce068e3829094f75e699a97b56dee:1446340360,218efcea8a5958907265a72daa45a6d8:-2022377786</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
