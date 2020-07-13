@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-13 09:22:54">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>ServicenowTest 4</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>cda620241b4e9c5079c9a9722a4bcb38</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 09:22:54</sys_created_on>
+<sys_id>dd1768ec1b4e9c5079c9a9722a4bcb6f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 09:22:54</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Integration">19190fabdbebd300dfa9b94ffe96193e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_76fd0722dbbbe7409775f6700f9619e3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sys_update_set&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;[CICD] Check state changes and run CICD&lt;/name&gt;&lt;order&gt;10&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	new CiCdRun().sys_update_set_Before_IU(current, previous);
+	
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;b.moers&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-26 13:58:55&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;76fd0722dbbbe7409775f6700f9619e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;28&lt;/sys_mod_count&gt;&lt;sys_name&gt;[CICD] Check state changes and run CICD&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CICD Integration" source="19190fabdbebd300dfa9b94ffe96193e"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Integration"&gt;19190fabdbebd300dfa9b94ffe96193e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_76fd0722dbbbe7409775f6700f9619e3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-13 09:21:14&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=76fd0722dbbbe7409775f6700f9619e3"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-226775214</payload_hash>
+<remote_update_set display_value="ServicenowTest 4">dd1768ec1b4e9c5079c9a9722a4bcb6f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 09:22:54</sys_created_on>
+<sys_id>d11768ec1b4e9c5079c9a9722a4bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>173477a76d80000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 09:22:54</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>[CICD] Check state changes and run CICD</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>0db628ec934e9c5052345ac68cad204a</update_guid>
+<update_guid_history>0db628ec934e9c5052345ac68cad204a:-226775214,4f30cce8e78a9c506a9acad011368533:1659651122,0a747123bc395850843d7aa69cf18b31:-226775214,188220a33f7158506717f64f2cb1b522:1659651122,33a16c23e9715850436bc96cfd8bcf9f:-226775214,fcb8ee7e26395450604b3a13d37aad2f:1659651122,4bbd9ebe63f55450ab3f6d0673b783f0:-226775214,9e6ddebe7ef55450fa963c70007fe528:1659651122,8d80dafaa3b55450f70a2b6f715682e5:-226775214,5fff027eedb55450a45cb2e414959085:1659651122,300f46f616b554502b9a10e48471c581:-226775214,885d4a7af2b5545012dcfe738ae5f2a7:1659651122,7a3c4e36a4b5545075f0f3956fa091d6:-226775214,18978a72e6b5545052fb954640e5a187:1659651122,e3d2ceba96755450d5923f093ed8b125:-226775214,e8bfd3f7324410509a6a3476fa295ede:1659651122,284ec6fb9408dc107f1edb3ff55ed3a0:-226775214,e9431269ba80dc503bc34e806dadfb48:1659651122,afe196213680dc5071d51ed7dfc19bd9:-226775214,77f016212580dc5000ff5b1a282084c9:1659651122,839482add1c89c505445bb03e01633f6:-226775214,13e28a6987c89c50ae1b95ee20cc8b26:1659651122,7181826923c89c50daddf512c5fcfa6c:-226775214,6cbe352593c89c502755a3d3da3f372c:1659651122,00b4cc5e12a33380ef57e5df4740596a:-1667923142,dccf8da5ac27ff40d60b158af309366b:566023238,38183c6590e3ff40ca5f0c7601b959ea:1965782833,78183c65d7e3ff401e50cb8b09ba9de7:-286709437</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_28e77de71b39585079c9a9722a4bcb16</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;DevopsTest&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Test123456");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admAdarsh&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-10 12:42:17&lt;/sys_created_on&gt;&lt;sys_id&gt;28e77de71b39585079c9a9722a4bcb16&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;DevopsTest&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_28e77de71b39585079c9a9722a4bcb16&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admAdarsh&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-13 09:21:30&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-307329556</payload_hash>
+<remote_update_set display_value="ServicenowTest 4">dd1768ec1b4e9c5079c9a9722a4bcb6f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 09:22:54</sys_created_on>
+<sys_id>d91768ec1b4e9c5079c9a9722a4bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>173477ab5620000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 09:22:54</sys_updated_on>
+<table/>
+<target_name>DevopsTest</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>01c668ec384e9c500d4ba4a613c058a8</update_guid>
+<update_guid_history>01c668ec384e9c500d4ba4a613c058a8:-307329556,589b3354e28a9c50f27063f609a35128:446620122,b6eabb10918a9c508a712c8acd41ce48:-1640720851,be337b58ec4a9c507e75f0b24d564fe2:-489700261,7a508ee37c7958502b177cb3d0a36f05:1389824058,3e0e7523b579585003d8adeac2533b9f:613798267,38f7bde7a039585075dbd81338126836:-570854737</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
