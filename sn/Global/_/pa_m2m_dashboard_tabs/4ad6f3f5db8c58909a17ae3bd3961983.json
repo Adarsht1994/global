@@ -1,0 +1,19 @@
+{
+  "dashboard": "1a929bfddb8058909a17ae3bd396194b",
+  "home": false,
+  "homepage": null,
+  "order": 100,
+  "sys_class_name": "pa_m2m_dashboard_tabs",
+  "sys_created_by": "admVinay",
+  "sys_created_on": "2020-04-09 11:37:28",
+  "sys_id": "4ad6f3f5db8c58909a17ae3bd3961983",
+  "sys_mod_count": 2,
+  "sys_name": "1a929bfddb8058909a17ae3bd396194b",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "pa_m2m_dashboard_tabs_4ad6f3f5db8c58909a17ae3bd3961983",
+  "sys_updated_by": "admVinay",
+  "sys_updated_on": "2020-06-29 04:19:08",
+  "tab": "46d6f3f5db8c58909a17ae3bd3961973"
+}

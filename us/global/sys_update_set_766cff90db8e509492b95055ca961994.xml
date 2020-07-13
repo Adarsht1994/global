@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-13 06:29:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>766cff90db8e509492b95055ca961994</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>226f3318db8e509492b95055ca96193e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_09fcecb1dbb854149a17ae3bd39619d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">0dfcecb1dbb854149a17ae3bd39619d6</portal_widget><posx>0</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-16 03:42:28</sys_created_on><sys_id>09fcecb1dbb854149a17ae3bd39619d8</sys_id><sys_mod_count>32</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_09fcecb1dbb854149a17ae3bd39619d8</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 13:23:06</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>651897611</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>226f3318db8e509492b95055ca961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a460000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>56adb754788e5094a877e9bec7e5c65e</update_guid>
+<update_guid_history>56adb754788e5094a877e9bec7e5c65e:651897611,1d5052939c385c10a7154c7db296830b:1608111212,1d389f074a745c109703a52be46242e9:1608111212,3428530747745c10dc33d4ed3e7617db:1073763568,8f5abd8fb7b8d810023e7984397d397f:1608111212,845af18f3db8d81053743a2bdb2aff2a:-117408183,624a398fbfb8d8108e0b3988b27b136f:-271181238,b94af18fbdb8d8102f3ffd5ed56f8ed3:263166406,0d4a7d4f5fb8d810af1af22863bfaf85:-424954293,a63a7d4f1fb8d810eb722ab6b8b9ede8:109393351,fb2a3d4f64b8d810cc28b42101f49602:-578727348,bd2a7d4f37b8d8103453ee0ae4cb8452:-424954293,812a7d4f0bb8d810b12735b641ae5d65:-271181238,102a394fdab8d8105e756a025c12d2b3:-117408183,dad9fdcbefb8d810d6d40c78417b1238:1073763568,b58d6839f7b854148891dd524f52920c:1608111212,d98d6079f1b85414d98c8b6e62794701:-117408183,6c8da0f587b85414ae7eb359fe341e63:416939461,df7da4790fb85414e5d4d363fa47f46c:-271181238,627d6479b2b85414f4e7badbf7646a2a:263166406,ec7dac3902b85414d4d44cc87c3bddba:-424954293,ef6da4f54cb854143d550b07e8878554:109393351,e66dec393cb854145cbd84a41aa43f88:-424954293,856d6c3955b85414fa00aaa1c152de7d:109393351,655d6439adb8541412c195a160939213:-578727348,ff4da43954b854140bb96af52290a36f:-424954293,8f4d2439fdb85414d0f4baf3feb628fd:-271181238,9d4da039d6b854147c39219a63cbe183:-117408183,903d6cb513b85414c893d64358a697af:1073763568,8f2d68f5f9b854147ff0d7500d8283ce:104182545,262de8f11db854142e9bf8f09cc3d620:-1086989206,5c2d243516b85414290b45d4fadb1572:-293111740,ff0d20f59db85414fc61bb88b02d0956:-765109149,0b0dacb552b85414f487a9e94320b2e0:-293111740,c1fcecb125b8541448f80b809dbd18db:-2021493123</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_42703d4bdb38d8109a17ae3bd396190d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="DELETE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="">4a703d4bdb38d8109a17ae3bd3961909</portal_widget><posx>5</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-20 05:49:52</sys_created_on><sys_id>42703d4bdb38d8109a17ae3bd396190d</sys_id><sys_mod_count>9</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_42703d4bdb38d8109a17ae3bd396190d</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 05:52:22</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1474850655</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>226ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d2f12e0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>b8dc3fd0fa8e5094733186dc53e9e426</update_guid>
+<update_guid_history>b8dc3fd0fa8e5094733186dc53e9e426:1474850655,9950129352385c101aa8058026c882fb:1623514437,4301718bca38d81046b3d546ec76cd81:1623514437,e2f0fd8bdc38d8104b7ae9b6bcf02b72:-1377863453,8af0fd8bec38d81089168cac8e5185cb:1623514437,a6e0b5cbd538d810ac0f625c2afb2885:653933414,2ac0bd8b4938d810921a1d1c04a4fe9e:176151976,f4c0fd8b7738d81030533df375f8bbab:329925031,9cb0bd8b6e38d81044ca26a69b817928:483698086,2fa0f18b1138d810e98473cab534959e:807706469,ef80f18b7d38d81002a5a5ada2c9fc2e:1297330509,02703d4b4938d8108e34c02630e8ed0f:-31545484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_a3473b39db8c58909a17ae3bd3961909</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">27473b39db8c58909a17ae3bd3961907</portal_widget><posx>9</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:39:29</sys_created_on><sys_id>a3473b39db8c58909a17ae3bd3961909</sys_id><sys_mod_count>24</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_a3473b39db8c58909a17ae3bd3961909</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 11:44:36</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1301315303</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>226ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b3a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9eadb754168e509472ce89053e93d57c</update_guid>
+<update_guid_history>9eadb754168e509472ce89053e93d57c:1301315303,2d50529391385c10c18c27bddfd63818:-1742591505,7fa00eb62f7cd41044114bf7a280f034:-1742591505,853daf83b164109070fe7f7110e4db7b:1999722430,a2783bbd538c58903bcc9e4e060842c7:1999722430,5978bbfd048c589069bebf806aa72e6f:-483677665,3f687bfd3d8c5890aff5aeb63f230e1b:954186905,e868b7fde28c5890b1d98b984262d816:419839261,ce5873fdb98c5890b480e93a2a76faea:800413850,1458ffbd618c5890312b60576aeebd05:266066206,3a487fbd628c589042d88d4fc9bec7ba:646640795,2a38f7bd1b8c5890dedec927f0f4792e:112293151,c928bf7d1a8c5890f664225446f9da60:-422054493,4f18fb7dee8c589081068304ca987108:-268281438,89183b7d928c5890f129109de84defae:-114508383,87f7ff3ddc8c589096130363611e7388:1999722430,cee7f73d728c5890d4ea9001ebf8fb73:419839261,14e7373d678c58909bfbffb9771a2765:1999722430,cdd7333d9e8c58902caf0af729d6bf0a:-114508383,86c7fbf97a8c589016b17eb5e96d3ead:1999722430,cba773f9e18c5890fbc3670a348bc56a:-114508383,60a7bfb9558c5890a36edc79548a9b24:1999722430,3a97fbb9238c5890ff2623f62b20622b:-114508383,fc877779718c5890432e31d7f47f3acc:1999722430,1967ff79468c58904dfbf2de0277974c:-860672927,7867ff79168c5890b6cbbd331d7f0cc9:1692452674,89573f797f8c58900f00cc654bd13c7c:929472583,ac57fb79418c58903fd6002b2ee6bfe0:2064383498,6f473b39da8c589088fc6d90d4e0a70b:-45210644</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_76e5bf2ddbac94103187b062f39619c5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sc_cat_item&lt;/collection&gt;&lt;condition&gt;!gs.hasRole('admin')&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Populate data in Cat items based on MF&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+    //(!gs.hasRole('admin')|| !gs.hasRole('coe genesis'))||(!gs.getUser().isMemberOf('Catalog Quality Dashboard Global Viewers'))
+   
+        var user = new GlideRecord('sys_user');
+        user.addActiveQuery();
+        user.addQuery('sys_id', gs.getUserID());
+        user.query();
+        if (user.next()) {
+
+            var loc = user.u_member_firm.getDisplayValue();
+            var emf = "";
+            if (user.u_mf_exceptions != "") {
+                emf = user.u_mf_exceptions.getValue().toString();
+            }
+
+            var table = current.getTableName();
+
+            var smf = new UserSharedData();
+            var tb = smf.getUserACL(loc, emf, table);
+            //var qc = current.addEncodedQuery(tb);
+
+        }
+
+
+        var str = [];
+        var glidecat = new GlideRecord("sc_catalog");
+        glidecat.addEncodedQuery("u_member_firmIN" + tb + '^ORsys_id=5cd61225db6adf0005d2147a3a961971^ORsys_id=e0d08b13c3330100c8b837659bba8fb4^ORsys_id=d28e504fdb24dc18a49284a214961985');
+        //glidecat.addQuery("active", true);
+        glidecat.query();
+        // gs.addInfoMessage('Vinay Total '+glidecat.getRowCount() + "MF "+tb);
+        while (glidecat.next()) {
+            str.push(glidecat.sys_id.toString());
+        }
+        //str.push(glidecat.sys_id);
+        //gs.addInfoMessage(str.toString())
+        current.addEncodedQuery("sc_catalogsIN" + str + "^active=true");
+    
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admVinay&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-03 13:32:26&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;76e5bf2ddbac94103187b062f39619c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;163&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate data in Cat items based on MF&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_76e5bf2ddbac94103187b062f39619c5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admvinay&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-13 06:28:12&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;u_roles/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=76e5bf2ddbac94103187b062f39619c5"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-974664418</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>226ff318db8e509492b95055ca96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346dc0bb20000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table>sc_cat_item</table>
+<target_name>Populate data in Cat items based on MF</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>561f37d4f08e5094f0b26a785abae72f</update_guid>
+<update_guid_history>561f37d4f08e5094f0b26a785abae72f:-974664418,d7be37d4648e509458151a601cfded14:1929593017,6c41771c1cce1450fbd3c23eadd87973:402494684,16ac11efa7f9d410f122c6dad759d744:1429500533,2bcbbcaf39b1d410d079960d6b02a591:1988544806,32abb8af7cb1d410a5320cc53ef68897:2020891322,e16b34af5ab1d410ebf816469841eec3:1988544806,984b786fdab1d41088d849c2b9c5b4dc:-868145675,2a2bb0eb39b1d410611eed390d79771c:1400990550,d289fca767b1d410673bfa9327338496:1140310766,8f5938a7ceb1d4106cc31b586859ef93:1222137890,6f3970a77eb1d4108788fb47f8e5ecdd:-2040784766,55a8b4e3a1b1d410ab651a78f659456f:1140310766,088870a377b1d410814e0b992462abde:1788937778,0a48b46377b1d410ceb6b9ef177d0399:-838375123,5d28746346b1d4105c28b1d6e5b2fa71:1516870384,dbd6bc2bf271d410487b2b8b126e48b0:1140310766,79b6342b6871d4101ce04c35a4ad7c90:-1999399963,85c5b863d171d410a11d1cf4d54d6958:1140310766,a70570ef6131d4102ddbbea9a3de4139:-1830810738,2a617cafb6fd9410943d65b7fd6f21e9:1389567630,cc41346f1efd9410d174587bb752a041:468833902,c921386f06fd9410b1de959200147125:-943306135,59f03c2fe3fd9410cb8606138c383638:-1472317362,7c7f60e704fd9410ac2e4d0ab31a0906:1389567630,b03e28634ffd9410eba52f7fed689512:-778768082,541ea06367fd94102b26277ba1e1b619:-613468905,d6cde42388fd941062d219f7cfba3f8e:-1839493055,4bade4efc7bd9410d935e55c765bd3ea:-59882271,783d286fd4bd941091e4295dfd8da133:154583239,491da46f7bbd9410c933a10168f5cbe8:1869042656,7cfc202fe8bd94101882a3648bfe6f0d:1958896147,657ce0abe8bd941004cf4316b1a7eea7:-903799923,ee2c682b03bd94104d3d79e2a4e6b4f4:-1940886443,bc1cace7a1bd94105979a44864c9de3d:-606405548,1dfb2ca7f2bd9410828d0e613f07d688:-1940886443,d7bb686716bd9410cc476a4fbd2d4a7d:1749438978,e28be42776bd94108cf17d3fbe6d5606:-164336470,994b2ce3c7bd9410801fd790eb85a729:-1006572837,2c1be4a30bbd94109cdcd8f7dc73c555:-1628436214,0b05333fe6e59450e7fdb6a91fe119ed:-698171973,c70bab123aa95010f2c1247f0bf74d16:-1487568434,b3142662a2d95410e826d814b024a44a:-1980372289,6df3222294d9541023fba05858a2ccf9:-1660703456,1f9e0aa524951c5030281007f56774fd:1803750048,03e8007bdb055c50570370892c7e3f49:81197070,f1b8c87bd0055c50941cd7116d9a840f:81197070,3e1888f76b055c5061a5660babf06fee:-296961763,54dff6532b41185042d557ca601cc60a:81197070,b69f3e13d6411850403e9ec8e49471e5:-1988281594,415f3e13fa4118502b3af314c3437095:-199037893,20eebadf12011850d94aff64eb446149:1745773857,03be32df920118502688050aa3ab0d1f:787587645,77ba7ad353011850d8a67bcfc732fc65:-43270162,ce0eaa533f8dd450080d4f4101521e87:-748566796,89dde6530e8dd4505631ad6252741e7f:-399132413,2de96a574b4dd4500c8324c1ed966996:1709272729,67df1e9ba98918503fad226008953fa0:-2138882487,21cf9a9b628918503445ac0472bb8c3c:-817036936,00f7715b11c1d450d003979ed35f8487:-2138882487,f4b1af029b4158105517d84988e9c1f9:-817036936,c931674e1201581017c8590ad23c947e:-2138882487,4e8789798c49d010eaee4ebc0e371218:-817036936,cf4745795c49d01099d6b42cf956ca7f:-2138882487,4ffb412fa6301050d9d24e53d4c9063c:-817036936,cea4ec271f7490508122053a8714ee3e:-300336209,75c1a02be7349050291a752e68a07a69:1106253182,b0b3fc458fc1581066bd1eba85f233b6:582860149,6ec23f43b0f85c10aa9d946e81e35360:-300336209,1d62f70328f85c10071c99b2f9bce925:-1671593393,fe32b70355f85c10a74e0b91bcd04d1e:1590863026,02227703d9f85c1051a70a9d85d48a53:-405843630,f512b3037ff85c10293acb2e98efc461:-476410062,fc02f38f84b85c10a327bd710ed802c7:-1001845521,75e1b7cffbb85c10b1bff9ef94bd1950:-957594838,b3c1f78bcdb85c107e16f4b972649d0d:1413962809,44de6f4775b85c10f62fb9d18a748fc7:1304461761,399eef07dab85c1004e5db1c7dbc6166:-948628008,fa2eafc3a1b85c10ddeb9c1d993926e9:201269572,011e678317b85c102d50cf4fe96293fa:719147362,c7fdeb0314b85c10114f60b4e4a6c634:346128738,27ddaf4320b85c108716bcddc03f11af:-60243322,1acdab43c4b85c10713cf1c063a2544f:1222559586,2dbdaf4327b85c1027b5a465a4a0c0a5:-1133647721,829d2b43fab85c105b1a7a6fef8b5797:-366995051,20ac27cffd785c10855f0b87126605e3:225373245,614c2b4fb6785c10957e19e96270c567:-1531136452,fa9b6b8bdc785c10f9db505551f48b59:810606061,197bab8b55785c108e517680f60989c6:-240390482,ddcaa7c728785c106cd78f10882b1049:776852504,7c9a2bc7c0785c10fd97e5e68b04a0e7:861191758,388aebc7ca785c106cfb9f0345eafaf6:-1370074851,1ef4e3c317385c10d3e10f5fe9c706bb:-1715210457,6dee5b4f10b45c104724538a3c04edaf:334129590,020e9b4b81b45c10f4cf317836aa255c:-2140654878,67ddd34b80b45c10f0b9c5dd8b9e7698:-1137732158,29bd9b0b14b45c100dd64becea75ffe6:1967897455,b78d5fc723b45c10d7d9ac9a8228cce7:534158798,b15d93c7a5b45c1051488965ffdcfb39:-234197402,4eb8db8706745c106a77064d5cf46bbc:-182023853,88649f071c345c101e54bbd32f1dc732:-627695817,7c839743d8345c10127cb51d48f31095:-728694678,61531f03b1345c104ebeafdb66607785:2102512256,d8231b03f7345c10e0090c1ef694e52f:-48357696,d8529b0f7bf05c1083e75be882b601f2:855386618,d012930f80f05c10fe6d0620e8911284:1045454921,2df59e0760b01c1089c4f948876b6481:1121834828,a56b824f0efcd81024540c838d9f4240:-1021289574,50770e4f80bcd81008c0bcf0b6942852:660224044,a845060f517cd8108d70626ee517f89c:-1552648228,f4640e47dc7cd81080b54ea31dbf941c:319016470,1b440647367cd8106e12ccead50c8bdf:-1976017050,5f3406079c7cd810aa8f3ccd55d6eb1d:772083278,68240e07a67cd81057830c9caa18e335:-1976017050,00f38ec3667cd810a711d977dcba058c:-1256797023,50d386c3f17cd8102d48ef02c58d11a2:869187677,ea938a83cd7cd810c8a203acf082fa93:285920320,46738a43507cd81035af589593cc3dd3:1803462484,76614a8b743cd81019c3045cc1b09e03:1200692052,7541824bba3cd810c3e5f7e1b1626999:-1529004930,3501824b5e3cd81086e904e105614ada:724175173,070086076c3cd8106ab14f6fcf872dc6:-419847243,3eaf7983ac3cd81063247a2743356eb4:-1522178283,0fdefd8f57f8d810efef32d89b62d628:4625334,8d7e7d4fb8f8d81064ec21234ea2eace:-656796593,b7e26301773cd8d0f25e5b60153b91a5:-264456795,6a50a3c18f3410143a2ce7d6abcae04a:-1245011882,d1206381f334101463f0eb6764e6d002:-264456795,f0a91b34f430d4d0ae8aaf4dab60e39a:-1245011882,72295bb0ac30d4d0501286a0b4e01973:-425751776,2a359bb45fbc94d06b722a32e770d18d:1628480623,48ee4734443c94d01cba15041fce6acd:-425751776,aac675bc853054d0b302d1ea6a23f498:-1275759247,92743d70ff3054d02dbf21e533314f4e:-627863200,2743bd789efc14d07b8732cf39c293b0:1912068817,a80239b091fc14d0d6339ca894e6c3ae:268052096,94d232ecc778d4d065489056235d1c11:1912068817,bbec62e49638d4d05ee867748c2a7726:268052096,c7ace2a4d038d4d0ee37a20fcb8523d9:268052096,b46ceaa04738d4d0a3e41e0aa8b10221:1912068817,d16d33a9d820d410cc836e9fa3bccd5c:268052096,b30a376d35ec94108e6b113801ff2b81:1124275844,55c9372dc9ec9410a1a0cc6d8e3a89f6:-572429646,d96977e994ec94101d60ce7285732d0c:-2020300655,d5f8fb69f2ec94103652fcea58cb090a:-1685435129,0128b7257aec94104045c112bd77d03c:-1245253,8018f7e1efec941087fc9282bb7df323:-407318134,6fd7b3e1a5ec941004a73a3385a74467:942783397,c38737a1a4ec9410549c36d37a0c2625:-768503852,e3773f617bec9410498cc80107bcd499:1711432787,18573f61b3ec94108a73655d0b25eb90:-1278777668</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_dashboards_1a929bfddb8058909a17ae3bd396194b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards"><pa_dashboards action="INSERT_OR_UPDATE"><active>true</active><breakdown_source/><color>#ffffff</color><disable_multiple_element>false</disable_multiple_element><group/><groups/><is_breakdown>false</is_breakdown><managed_breakdown/><managed_publisher/><name>Catalog Quality Dashboard</name><no_tabs>false</no_tabs><order/><owner display_value="Akhil Vinay Mandava">ae29512bdbbe0810149ac082ba9619e2</owner><restrict_to_roles/><role_override>true</role_override><roles/><should_migrate_permissions>false</should_migrate_permissions><sys_class_name>pa_dashboards</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 08:59:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1a929bfddb8058909a17ae3bd396194b</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Catalog Quality Dashboard</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_dashboards_1a929bfddb8058909a17ae3bd396194b</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-06-29 04:18:53</sys_updated_on><users/><visible_to>2</visible_to></pa_dashboards></record_update>]]></payload>
+<payload_hash>1260457534</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>266f3318db8e509492b95055ca96193e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649360000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>Catalog Quality Dashboard</target_name>
+<type>Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>92adb354038e5094044e8082caadda98</update_guid>
+<update_guid_history>92adb354038e5094044e8082caadda98:1260457534,87bfe398dfce145046d73b4c9b0da0f5:-150814718,9f3bdb37326194505dc39e87ec179158:-150814718,d03b5f3765619450c359b00014cab7c4:-1865865034,3cac82edc1551c50c932c712c33cee57:-150814718,f99c02ed37551c508a02eb474876ee8a:-2066874922,6b429981f2cd54100f1befdf49106957:-150814718,eb125905248558107cdfa9b56cf98c21:1260457534,59505e53b2385c10088c7d91348992a3:485137698,6ba08ab6b27cd41035a6af39d860af7d:485137698,743d6383876410906043c7989df71336:644707844,8f1de7831d641090dbdc9a966948e59b:644707844,e4191131e11410d0ad7ca8196db76a3b:-2041049884,1af819fdbdd010d0e36bc7375a2aef92:-1107969916,8ca6484eea8098900715d8ebc891e39d:-1624915965,6656484eac8098908af9922dba19994c:-1107969916,9eb2973103c05890e1fc492ad9195600:1991514601</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_widgets_ed4eebcfdb0090109a17ae3bd39619c8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widgets"><pa_widgets action="INSERT_OR_UPDATE"><aggregate/><alignment>left</alignment><breakdown/><breakdown_level2/><breakdown_page_size>5</breakdown_page_size><chart_color/><color_scheme/><coloring_method>score</coloring_method><column_bulletchart>false</column_bulletchart><column_change>true</column_change><column_change_perc>true</column_change_perc><column_current>true</column_current><column_gap>false</column_gap><column_gap_perc>false</column_gap_perc><column_multiple>true</column_multiple><column_steps>6</column_steps><column_stepsize>1</column_stepsize><column_target>false</column_target><column_trend>true</column_trend><compare_main_label/><compare_number_of_periods/><compare_period>year</compare_period><cube_facts_table/><cutoff>1</cutoff><cutoff_condition>GTE</cutoff_condition><cutoff_type>VAL</cutoff_type><date_from>00000000</date_from><date_to>00000000</date_to><default_indicator/><description>Catalog Items with Owner - Monthly Scorecard</description><element/><element_level2/><elements_filter/><field/><filter/><flip_axes>false</flip_axes><follow_element>true</follow_element><follow_managed_element>false</follow_managed_element><followed_breakdown display_value="Catalog Seg">24b8daf2db3418109a17ae3bd3961905</followed_breakdown><followed_breakdown_relation/><gauge_autoscale>false</gauge_autoscale><gauge_from/><gauge_to/><include_comments>false</include_comments><include_confidence>false</include_confidence><include_forecast>false</include_forecast><include_prediction_interval>false</include_prediction_interval><include_target>false</include_target><include_thresholds>false</include_thresholds><include_trend>false</include_trend><indicator/><is_compare_chart>false</is_compare_chart><lastscore_compare>previous_score</lastscore_compare><lastscore_periods_back/><limit>50</limit><lookup_name/><manual_elements>false</manual_elements><max_color/><multiple_elements_view>aggregate</multiple_elements_view><name>Catalog Items with Owner - Monthly Scorecard</name><number_of_records>10</number_of_records><percentages>no_percentages</percentages><period>7d</period><pivot_breakdown/><pivot_elements_filter/><related_dashboards>0</related_dashboards><score_font_size>responsive</score_font_size><scorecard_options>all</scorecard_options><show_bar>false</show_bar><show_breakdown_selector>true</show_breakdown_selector><show_change>true</show_change><show_change_perc>true</show_change_perc><show_comparison_date>true</show_comparison_date><show_data_labels>false</show_data_labels><show_empty_elements>true</show_empty_elements><show_gap>false</show_gap><show_gap_perc>false</show_gap_perc><show_legend>true</show_legend><show_on_click_link_label>true</show_on_click_link_label><show_range_selector>false</show_range_selector><show_target>false</show_target><show_top_x/><show_total>false</show_total><show_trend>true</show_trend><show_visualization_selector>true</show_visualization_selector><sort_direction>asc</sort_direction><sort_on>indicator_group</sort_on><subtitle/><sys_class_name>pa_widgets</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-13 08:13:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ed4eebcfdb0090109a17ae3bd39619c8</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Catalog Items with Owner - Monthly Scorecard</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_widgets_ed4eebcfdb0090109a17ae3bd39619c8</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:15</sys_updated_on><tag display_value="Catalog Items with Owner -Monthly sc">0328ad6bdbc8d8103187b062f3961917</tag><template>template1</template><treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color><treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color><type>list</type><visualization>scorecard</visualization><words_in_trendline>5</words_in_trendline><yaxis2_from/><yaxis2_title/><yaxis2_to/><yaxis_from/><yaxis_title/><yaxis_to/></pa_widgets><sys_translated_text action="delete_multiple" query="documentkey=ed4eebcfdb0090109a17ae3bd39619c8"/></record_update>]]></payload>
+<payload_hash>1116764327</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>266f3318db8e509492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d2f0b90000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>Catalog Items with Owner - Monthly Scorecard</target_name>
+<type>Widgets</type>
+<update_domain>global</update_domain>
+<update_guid>24dcf7d06a8e50941a32a5a1972d4cf2</update_guid>
+<update_guid_history>24dcf7d06a8e50941a32a5a1972d4cf2:1116764327,e24523b323259450768bbe4b7ee115f7:-662587664,0f4a6107d2f4d810c1d7a58579ac3929:-547418356,e2586dcbb7b4d81028a4eb7251865928:784659297,62827c2e44389010f21a624cb9872bf2:340037821,c1e189b185fc54147076334cddc2b642:1242247102,fb7f70753fd8dc90237a714e50afb28b:-722653730,b6fa97c85a54d4507605282012b4eace:-708676685,2af82167570cd810f19aa1ea4a9ce31a:-1610885966,fe6ea343c3409010287462e8f7ff8db4:790652897</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_855663b1db4858909a17ae3bd39619a1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">c15663b1db4858909a17ae3bd396199e</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 10:25:18</sys_created_on><sys_id>855663b1db4858909a17ae3bd39619a1</sys_id><sys_mod_count>8</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_855663b1db4858909a17ae3bd39619a1</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:30</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1331120844</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>266ff318db8e509492b95055ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64af70000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9eadb754438e5094101c0794e8654177</update_guid>
+<update_guid_history>9eadb754438e5094101c0794e8654177:1331120844,703daf83b6641090d4e05598ce582b77:-1586300908,72962ff12b485890157858eaa6c113cf:951990086,837663f1e64858902f73b0e8486059fc:176894535,9076afb10f485890e88ad5779209732b:1245589823,03666fb1124858906553e7f4615cc5c8:-253250636,f8662fb14c485890d9a288ef1ac703e3:-941371335,48662fb1554858901d069cfec0dd1740:-787598280,7256ebb1754858909eba808b6ecf1c7d:176894535,0656ebb16148589053a3bab1669a2249:217059849,455663b16c4858906b58b002f029caa4:-1081250387</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_e5133c6adb3490103187b062f396195d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-05-18 05:04:42">dd13386adb3490103187b062f39619c8</portal_widget><posx>5</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-18 12:04:43</sys_created_on><sys_id>e5133c6adb3490103187b062f396195d</sys_id><sys_mod_count>8</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_e5133c6adb3490103187b062f396195d</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 05:52:16</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>787112329</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>266ff318db8e509492b95055ca96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649fc0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>52adb754408e5094c02954824d5d0058</update_guid>
+<update_guid_history>52adb754408e5094c02954824d5d0058:787112329,11505293c4385c10db5b24fc1dca2f05:709136371,250171cbd538d810edfbf17f4d6021f8:709136371,97c0b1cb6f38d8104a465ff2f6f46f60:2002725777,26c071cb9b38d810b010fb7cd63cb7f0:1848952722,a380f18ba838d810cbdc5c2fad47bd8c:1695179667,ea70718bd838d81007746fe782701b67:1848952722,9753b86aa334901052f0d5b94bf2444a:2002725777,865374eadb34901097d6209549857f66:709136371,3f33b46a313490101f138d07f769bd7b:-57389436,61133c6a493490101c1fd7e8ab30b660:-1099696605</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_5ab25731dbc058909a17ae3bd39619fc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Catalog Quality Dashboard">1a929bfddb8058909a17ae3bd396194b</dashboard><home>false</home><homepage/><order>200</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 08:59:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5ab25731dbc058909a17ae3bd39619fc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>1a929bfddb8058909a17ae3bd396194b</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_5ab25731dbc058909a17ae3bd39619fc</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-06-29 04:19:12</sys_updated_on><tab display_value="Catalog Activity">5ab25731dbc058909a17ae3bd3961988</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>1391460327</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2a6f3318db8e509492b95055ca96193f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64bcf0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>1a929bfddb8058909a17ae3bd396194b</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>daadb754b28e5094d843b776e7e18c88</update_guid>
+<update_guid_history>daadb754b28e5094d843b776e7e18c88:1391460327,53bfab98f6ce1450027d23c659cda150:-1426152481,445b1777b261945048e5e0901c43e3f1:-1426152481,308b06e97e551c50210a2226a5d56a58:-458610145,c93daf831f641090243611a795125382:-73662461,dab2573196c05890aae73c26755e2aff:1925929694</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_7756ebb1db4858909a17ae3bd3961957</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">b756ebb1db4858909a17ae3bd3961955</portal_widget><posx>3</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 10:25:29</sys_created_on><sys_id>7756ebb1db4858909a17ae3bd3961957</sys_id><sys_mod_count>6</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_7756ebb1db4858909a17ae3bd3961957</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:11</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>980741892</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2a6ff318db8e509492b95055ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64abe0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>92adb754df8e50949070ab36aec09174</update_guid>
+<update_guid_history>92adb754df8e50949070ab36aec09174:980741892,f43daf83ac6410909f7b329f62156773:98583116,ca8667f123485890632da47061bd5bd0:-1934268002,0376afbdea0858904f12769f0fa9aa0d:407748504,0d766fb1b2485890c9538bc21d7b7a9e:-260186051,1476afb18c4858905d468e5b6b401a24:-447536429,83666fb1d8485890ece6d26569bb2bc1:-4004970,7c662fb19a485890300f577b882678dc:-287498801,3356ebb162485890b981d774d98d935a:611087250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_d378ffcfdba4581092b95055ca96196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="Created 2020-05-07 22:28:26">5778ffcfdba4581092b95055ca96196d</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admvinay</sys_created_by><sys_created_on>2020-05-08 05:28:26</sys_created_on><sys_id>d378ffcfdba4581092b95055ca96196f</sys_id><sys_mod_count>6</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_d378ffcfdba4581092b95055ca96196f</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-05-21 02:54:48</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>722018105</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2a6ff318db8e509492b95055ca96197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b880000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5eadb754438e5094c2085df729190682</update_guid>
+<update_guid_history>5eadb754438e5094c2085df729190682:722018105,e7f19e138bfc14107c79c8593b98bd3d:722018105,4ba87b034be45810b4a18af5b122c5aa:-809631506,75a83b0356e45810c9fd9de05dce3696:-1297271446,4a88770346e458101b08b657b0ebac0c:-809631506,0988b303c8e4581045837ee18f821f35:193183511,28883703dbe45810808921ae7877aba8:722018105,5b78ffcf95a45810acc67f3e6b804b71:977707068</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_dashboards_permissions_3831f8f1dbf854149a17ae3bd3961905</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Catalog Quality Dashboard">1a929bfddb8058909a17ae3bd396194b</dashboard><delete>false</delete><group display_value="Catalog Quality Dashboard Regional Viewers" name="Catalog Quality Dashboard Regional Viewers">b23fa4bddbb854149a17ae3bd396196a</group><identity>b23fa4bddbb854149a17ae3bd396196a</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-16 04:01:01</sys_created_on><sys_id>3831f8f1dbf854149a17ae3bd3961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b23fa4bddbb854149a17ae3bd396196a</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_dashboards_permissions_3831f8f1dbf854149a17ae3bd3961905</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-16 04:01:01</sys_updated_on><type>2</type><user/><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+<payload_hash>-1915349668</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2e6f3318db8e509492b95055ca96193e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64bed0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>b23fa4bddbb854149a17ae3bd396196a</target_name>
+<type>Dashboard Permissions</type>
+<update_domain>global</update_domain>
+<update_guid>d2adb754998e5094fdc423b33654678a</update_guid>
+<update_guid_history>d2adb754998e5094fdc423b33654678a:-1915349668,17bfab9872ce14508afb6d08f35a9e51:-1885494812,53b3f7b72ae59450201fd13b7128f162:-1885494812,65505293ab385c10688a9fa171583925:667966307,c931bc7574f85414028979ddfedf69a5:667966307</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_5f097f71dbcc58909a17ae3bd39619c7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-09 04:47:05">8f09bbfddb8c58909a17ae3bd3961978</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:47:06</sys_created_on><sys_id>5f097f71dbcc58909a17ae3bd39619c7</sys_id><sys_mod_count>38</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_5f097f71dbcc58909a17ae3bd39619c7</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 05:51:11</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1627352108</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2e6ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649aa0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5aadb354cf8e5094da62b389b4a42aa0</update_guid>
+<update_guid_history>5aadb354cf8e5094da62b389b4a42aa0:1627352108,743daf834e6410909040b452b380de48:-890058874,501ed3483794d450756bce7f66a9ec81:-890058874,bc0ed3489594d450d5d45ac0f912c8a4:453219195,487b530cd354d4502817aa98e3041df4:-890058874,236b170c3b54d450a7400ec93d092e5b:453219195,fa6b930cc754d450fc86973caf03e4fb:-18778214,1e6b170cf454d45041ef91a53a8c7692:-490775623,756bd70ceb54d4508752f6ed345d8ed2:-962773032,5d6bd70c0354d450698eafd5db97c066:-1434770441,b06bd70c5d54d450d3f4fa0897239a23:-1906767850,4c6b970cf054d450ba11febba94d89a7:1916202037,535b570c0b54d4508c4950940d83f3de:1444204628,3e5b530c0d54d4504b8b88e41a6883b6:972207219,8e5b170c1b54d450293d48b1bdff5d63:-382836217,115b170caf54d450d2cbb4e25452175e:-854833626,305bd30cf054d450c07366ef2c1890b1:-1326831035,c3fa97c87b54d450f1af68657ddc4aec:-1798828444,e1fa97c8f454d450903a678a8bd3ef19:-1326831035,32ea93c80c54d450b824ab8f5e863406:-854833626,bcea5f882b54d45064d81c051b07af1d:-382836217,eeda5b88b854d450583e62d7fe71190a:972207219,479a5b486054d4508c0ca8a69bdba87d:1444204628,259a1b48cb54d450588dfbccf48bd88a:1916202037,478a9748d354d4509a97e0be9da3fda2:-1906767850,b58a17488054d4508d3b499877231ef0:-1434770441,108a1748eb54d45059de754f55a83f84:-962773032,4b7a53480054d450455c6c623e200164:-490775623,d35a5b080c54d450635f81626261e3d2:-18778214,cb4a1b841e54d450541c65fd4935e37c:453219195,abbc59ebb384d810ee8ad5ad31842869:-890058874,cdbc15eb2c84d810bc7968666596d0fc:453219195,d7097f7180cc58907da8c0322b2695ca:-890058874</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_b3f06ff9dbc458909a17ae3bd39619ba</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">3ff06b39dbc458909a17ae3bd3961996</portal_widget><posx>9</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 10:02:00</sys_created_on><sys_id>b3f06ff9dbc458909a17ae3bd39619ba</sys_id><sys_mod_count>17</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_b3f06ff9dbc458909a17ae3bd39619ba</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:25</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1331221749</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>2e6ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b6b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9aadb754178e5094cef5d5dd23802480</update_guid>
+<update_guid_history>9aadb754178e5094cef5d5dd23802480:1331221749,853daf838c6410901aeba1f74e73097c:187345277,5196afb1b2485890a1ee34550d80b39e:281260265,2b862bf1d848589052d8ec6e3d213926:73430445,068667f1b9485890d4fa60a520a6cbd4:607778089,5876afb19c485890612176ea094e952e:1469608234,c7666fb18f485890c4f4bbfe4fa6fccb:-2023837596,81662fb194485890869c680fa40263e7:1583009001,00662fb1034858903342a3f1eddc2844:1736782056,ca56ebb15e4858903a6eaf482381214c:73430445,5956abb140485890afcbf7c8b9498acf:1068847501,6946e7b1544858904a56c53147be90ed:-594504110,0213ef35710858903c47b723a0967f20:2073505630,ea61eff9b4c4589050324cad308df7cd:281260265,ba41eb3da7c45890794d63111ea70d37:-1228452922,5531eb3d3ac4589044f0383ce486f432:1051015692,db11273d03c458908842e839a9919184:-1730132532,f911273da3c45890119fbb57e831ce33:542797937,d701ebb974c458902213baa1ea10336f:1221168976,7ff06ff9e2c45890431875e9e6e5bfbc:-1777930207</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_widgets_c5d81bccdb14d4509a17ae3bd39619be</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widgets"><pa_widgets action="INSERT_OR_UPDATE"><aggregate/><alignment>left</alignment><breakdown/><breakdown_level2/><breakdown_page_size>5</breakdown_page_size><chart_color/><color_scheme/><coloring_method>score</coloring_method><column_bulletchart>false</column_bulletchart><column_change>false</column_change><column_change_perc>false</column_change_perc><column_current>true</column_current><column_gap>false</column_gap><column_gap_perc>false</column_gap_perc><column_multiple>false</column_multiple><column_steps>1</column_steps><column_stepsize>1</column_stepsize><column_target>false</column_target><column_trend>true</column_trend><compare_main_label/><compare_number_of_periods/><compare_period>year</compare_period><cube_facts_table>undefined</cube_facts_table><cutoff>1</cutoff><cutoff_condition>GTE</cutoff_condition><cutoff_type>VAL</cutoff_type><date_from>00000000</date_from><date_to>00000000</date_to><default_indicator/><description>% of Active Catalog Items with Owner - Daily</description><element/><element_level2/><elements_filter/><field/><filter/><flip_axes>false</flip_axes><follow_element>true</follow_element><follow_managed_element>false</follow_managed_element><followed_breakdown display_value="Catalog Seg">24b8daf2db3418109a17ae3bd3961905</followed_breakdown><followed_breakdown_relation/><gauge_autoscale>false</gauge_autoscale><gauge_from/><gauge_to/><include_comments>false</include_comments><include_confidence>false</include_confidence><include_forecast>false</include_forecast><include_prediction_interval>false</include_prediction_interval><include_target>false</include_target><include_thresholds>false</include_thresholds><include_trend>false</include_trend><indicator display_value="% of Active Catalog Items with Owner">93ef116bdbc4d8103187b062f396195f</indicator><is_compare_chart>false</is_compare_chart><lastscore_compare>periods_back</lastscore_compare><lastscore_periods_back>30</lastscore_periods_back><limit>50</limit><lookup_name/><manual_elements>false</manual_elements><max_color/><multiple_elements_view/><name>% of Active Catalog Items with Owner - Daily</name><number_of_records>5</number_of_records><percentages>no_percentages</percentages><period>7d</period><pivot_breakdown/><pivot_elements_filter/><related_dashboards>0</related_dashboards><score_font_size>responsive</score_font_size><scorecard_options>all</scorecard_options><show_bar>false</show_bar><show_breakdown_selector>true</show_breakdown_selector><show_change>true</show_change><show_change_perc>true</show_change_perc><show_comparison_date>true</show_comparison_date><show_data_labels>false</show_data_labels><show_empty_elements>true</show_empty_elements><show_gap>false</show_gap><show_gap_perc>false</show_gap_perc><show_legend>true</show_legend><show_on_click_link_label>true</show_on_click_link_label><show_range_selector>false</show_range_selector><show_target>false</show_target><show_top_x/><show_total>false</show_total><show_trend>true</show_trend><show_visualization_selector>true</show_visualization_selector><sort_direction>asc</sort_direction><sort_on>value</sort_on><subtitle/><sys_class_name>pa_widgets</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:13:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c5d81bccdb14d4509a17ae3bd39619be</sys_id><sys_mod_count>7</sys_mod_count><sys_name>% of Active Catalog Items with Owner - Daily</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_widgets_c5d81bccdb14d4509a17ae3bd39619be</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:12</sys_updated_on><tag/><template>template2</template><treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color><treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color><type>score</type><visualization>latest</visualization><words_in_trendline>5</words_in_trendline><yaxis2_from/><yaxis2_title/><yaxis2_to/><yaxis_from/><yaxis_title/><yaxis_to/></pa_widgets><sys_translated_text action="delete_multiple" query="documentkey=c5d81bccdb14d4509a17ae3bd39619be"/></record_update>]]></payload>
+<payload_hash>859785139</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>626f3318db8e509492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d2e29a0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>% of Active Catalog Items with Owner - Daily</target_name>
+<type>Widgets</type>
+<update_domain>global</update_domain>
+<update_guid>bfccfbd00f8e5094bb4e558b9e22e690</update_guid>
+<update_guid_history>bfccfbd00f8e5094bb4e558b9e22e690:859785139,bf11a77771e194509cac298a6e82a616:-739334852,809c69cbd2f4d810b2cbb5fe18c95233:1641505498,cb56b479f83c541438895c35d6496031:514109396,9e57707d5918dc902af1b18555ac4edd:2092364428,219a1b482954d4502aacd3102ec65665:1056461852,fdc997443d54d450904da88989d2589b:-168012709,baf85f404654d450d8d7ec518cfaa2f9:-471239608</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_7ea7fb79db8c58909a17ae3bd39619f8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">72a7fb79db8c58909a17ae3bd39619f7</portal_widget><posx>6</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:41:04</sys_created_on><sys_id>7ea7fb79db8c58909a17ae3bd39619f8</sys_id><sys_mod_count>19</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_7ea7fb79db8c58909a17ae3bd39619f8</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 12:50:23</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1700000030</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>626ff318db8e509492b95055ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64ae50000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9aadb754118e5094b2d3c3a52f4bfd76</update_guid>
+<update_guid_history>9aadb754118e5094b2d3c3a52f4bfd76:-1700000030,2d5052934b385c1041ccd74668187213:412190570,fba0cab64b7cd4105d94c8f2459b00ef:412190570,703daf839f64109088838065a6862876:-214938662,1e87480648c09890b765afa19c4d02e0:-214938662,f4874806e4c09890723ab76725acd480:1681018513,c377080673c0989049d5b77e1d8b0748:-2079601139,08774406fec09890ab704b6e1c30a39a:2064529952,fd674006aac0989040269386c62d77ff:1681018513,a0987ffd7f8c589068b5757e428bddba:2064529952,07883ffde88c58901821ea0f1954bfd7:1681018513,78883ffd3b8c5890939c09caf52bb980:1527245458,eb783ffd218c58904d21e2a1deda3216:1373472403,99787fbd118c589085b572f9c7f48388:1907820047,b7687bfdd18c5890a3fe41599ae29e11:952525526,e868b7fd408c5890b6be3f70dfe5350f:1907820047,4a5873fd958c58905db189319ebbfae0:952525526,9e38f7bd878c5890f1457599d39d1507:1907820047,cd28bf7d9b8c5890f49384b23677eb52:1373472403,7218bb7d4c8c589005d34719a55810fb:1527245458,4d183b7da78c5890cb278dc91c0c8949:1681018513,c80873f9508c589015212057af6ad309:2064529952,4ee7bbb9608c58906a64566ca9296aed:-1372506291,fea773f9818c5890183ae17c25c72904:-757414071</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_e19a1b48db54d4509a17ae3bd3961967</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="DELETE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="">d59a9308db54d4509a17ae3bd3961939</portal_widget><posx>0</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:20:20</sys_created_on><sys_id>e19a1b48db54d4509a17ae3bd3961967</sys_id><sys_mod_count>30</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_e19a1b48db54d4509a17ae3bd3961967</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 05:52:24</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-148793417</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>626ff318db8e509492b95055ca96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d2e38d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>b7ccfbd0738e5094d0513197ff415098</update_guid>
+<update_guid_history>b7ccfbd0738e5094d0513197ff415098:-148793417,5150529313385c1050283f20afcf2c04:1236072570,9b01310f2c38d810cc38ac010e21a76c:1236072570,a5c031cb1038d8105388fe525b743186:266491547,b8c0fd8b3a38d8109f1264187df470c3:112718492,eb80f18b3338d8103faef002af4bb388:-41054563,2670718b8838d810f3a4b98c17abd364:112718492,ce5374eaa5349010df7b4f7297daaf62:266491547,895334ea63349010f4d388ddd7297279:420264602,8b43b0eadb349010a69800d17c65a344:112718492,624370eacc349010ff8faaaf7c656768:266491547,75137c6ac8349010d72a8685af18c574:112718492,bc3daf835f64109064b8b72e3112b74e:266491547,c11e1f48f094d450dc069fa3f7da2395:266491547,c10ed3483794d450a2c89aa9f29e62fb:112718492,d74c1300a194d4505db5d2de52fd728b:266491547,324c5700e294d450abe7326aaf914dd6:-703089476,614c57000694d45054206e25fddc220e:2142071233,673c5300be94d450e6ee383682b01aa7:1988298178,513c13001094d4507457d7bbddd9bf0e:-1812425407,272cd7ccff54d450772ed22b0f90d614:-1966198462,0e2c13008294d45022770e2745c8ab82:-1795963134,4a1c574c6e54d450490428a3f4f003e2:-1471954751,ddab9b4c8754d45042676abc1a9e13bf:1436788318,0a9b574cae54d450eda0d2bc5810b4da:1283015263,fc6bd70c5054d45041c7e4f19df03c26:1436788318,3f2b5fc89d54d450582c6f1df110999c:1590561373,0ffad7c82b54d4501e0187d1bcf88e19:1114336944,25fa97c86954d45072205185e6bb153a:1586334353,76ea93c85e54d4503c1644b52573f9bc:2058331762,01ea5f88c554d4504bc0aad9a628d848:-1764638125,f6da5b88a654d450923c6b744877de41:-1292640716,1b9a5b484f54d4508bccbdb5ad56148e:-820643307,699a1b485654d45008c05870eb2f0469:-99867220</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_4ad6f3f5db8c58909a17ae3bd3961983</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Catalog Quality Dashboard">1a929bfddb8058909a17ae3bd396194b</dashboard><home>false</home><homepage/><order>100</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:37:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ad6f3f5db8c58909a17ae3bd3961983</sys_id><sys_mod_count>2</sys_mod_count><sys_name>1a929bfddb8058909a17ae3bd396194b</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_4ad6f3f5db8c58909a17ae3bd3961983</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-06-29 04:19:08</sys_updated_on><tab display_value="Catalog Attributes">46d6f3f5db8c58909a17ae3bd3961973</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>-997193154</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>666f3318db8e509492b95055ca96193f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a260000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>1a929bfddb8058909a17ae3bd396194b</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>9aadb754248e5094a89cca68c379d85b</update_guid>
+<update_guid_history>9aadb754248e5094a89cca68c379d85b:-997193154,17bfab9877ce1450e93b5c5cae645437:270372214,d3b3f7b7ace594509fc141f082cff844:270372214,0b4bd37793619450bedac1c63e119163:-1276222801,168b8ea976551c50c54efb15f7ef02fa:-1032898513,b03daf83fa641090d70f3ea2f1b20552:799013453,dad6f3f5778c5890a982951c66fc6086:1644523103</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_6e28f30fdba4581092b95055ca961915</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="Created 2020-05-07 22:27:01">6228f30fdba4581092b95055ca961914</portal_widget><posx>0</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admvinay</sys_created_by><sys_created_on>2020-05-08 05:27:01</sys_created_on><sys_id>6e28f30fdba4581092b95055ca961915</sys_id><sys_mod_count>14</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_6e28f30fdba4581092b95055ca961915</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-05-08 05:29:23</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>585121707</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>666ff318db8e509492b95055ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64ab30000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d2adb754688e50941d3ff6b6691a0373</update_guid>
+<update_guid_history>d2adb754688e50941d3ff6b6691a0373:585121707,c1b83703bae458104c5a6fc8021ab1b4:585121707,fda83b0322e4581055dc52a90160cb8c:-1646814545,a398f30361e4581083ef627eb520c479:1583453064,f198b70310e45810bae1c1e88ada71fa:-1764451314,c498b703e1e458105c1429abdd7c7f0d:349848169,9f887703f7e45810633ea8af80d2f395:-1830819644,90883703b2e458103d0354d11bc1999f:232211400,a3783703e4e458105eea90388c912762:-1948456413,0178f30344e4581077df91e15e329492:-1830819644,7368b30333e458100a664d5fb560bbb0:-1713182875,d268bbcfa3a45810120f52c0c64e9c42:-1595546106,a9487b4f99a458106c9351d6b6ba89fb:-1477909337,8c48bb8bf9a45810167abffd8cc91862:-1595546106,cf3877cb55a45810afd1e0b8c93a42e4:-1477909337,e228f30f91a45810342f56a5590eeb18:-2016201718</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_cf18bb4fdba4581092b95055ca961934</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="Created 2020-05-07 22:26:47">c318bb4fdba4581092b95055ca961933</portal_widget><posx>6</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admvinay</sys_created_by><sys_created_on>2020-05-08 05:26:47</sys_created_on><sys_id>cf18bb4fdba4581092b95055ca961934</sys_id><sys_mod_count>16</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_cf18bb4fdba4581092b95055ca961934</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-05-08 05:29:15</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>2124047709</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>666ff318db8e509492b95055ca96197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b7c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9eadb7548f8e5094aaebe8ca54a04981</update_guid>
+<update_guid_history>9eadb7548f8e5094aaebe8ca54a04981:2124047709,c3a8f303e1e45810e6b5daccc90607a1:2124047709,f1a83b030de458102f1d1e9daa45eb93:1636407769,8ca8b30352e45810a55b8a935e2681ef:2124047709,a398f7035de45810880505c3e5925994:372635750,f598f70309e458109db158070b638f00:1788659488,c498b703c3e45810709f9bf78efc8545:1718315365,9388770349e458103cc953e505d5b09c:1647971242,a48837038be458107b8469c83fde67a5:1160331302,a7783703f6e458108d64dd0d15c3c768:1089987179,0578f3035de45810cf733d357b7e5498:1647971242,7768b3033ae45810e3bd145fe25e45b6:-2089011991,da68b303f5e458102e652132e73d7230:-1531027928,2d487b4f45a458106ef9cd12838d9dfe:-1683279647,8048ffcff5a45810b456c84977ef6108:-1508935285,4e38bfcf46a458104ebe7653387bc51b:-1626572054,6628330feda4581074c3d7951f3ab848:-1508935285,4718bb4f41a4581076b84ff0adcb5837:-908823898</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_598adb08db54d4509a17ae3bd396191d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:20:02">558adb08db54d4509a17ae3bd3961917</portal_widget><posx>0</posx><posy>50</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:20:03</sys_created_on><sys_id>598adb08db54d4509a17ae3bd396191d</sys_id><sys_mod_count>35</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_598adb08db54d4509a17ae3bd396191d</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:13</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1245820763</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6a6ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d6499c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5aadb354df8e5094a2329d22c6b0e89f</update_guid>
+<update_guid_history>5aadb354df8e5094a2329d22c6b0e89f:-1245820763,88dcfbd0518e509446daf6ab83f35ed9:-1245820763,19501293c1385c10465a3b15c682e8fd:-1164089008,1f21750f9938d810a8ecbdfb9f21a294:-1164089008,e9c031cb4738d81053b7c3f8d8065d71:-2133670031,74c0fd8b0a38d81005407233c58e3bb2:2007524210,6f80f18b0138d8103b040e596efae735:1853751155,9a70718b0538d810e99871bb9b4e2b4f:2007524210,c65374ea333490109911169c8584e035:-2133670031,fc5334ea343490101766b6322a70165b:-1979896976,8343b0ea7e349010aa1ff0cec7287217:2007524210,224370ea58349010e1e294a57983d447:-2133670031,b5137c6a1e3490107c63a85c6b81dc15:2007524210,b43daf83ad641090ea7502c81f40fc47:-2133670031,1aaed70c8d94d450222fb58626ce71d8:-2133670031,55ae970c7594d450c5f3c72c8d11a421:1853751155,c36e1f883794d4509b12f406632a6e88:667766876,411e1f487194d4506932b472bc72385b:195769467,f40ed3481494d450c7ae3d99e4e0e1a1:1317397247,1d4d5384ee94d450eed2a5ebd1bba799:195769467,51dc93c09e94d450b3b69d68847290b2:667766876,30cc9b808b94d45071bc2ce3c1ffb98a:195769467,e59c5b40bd94d45077b3abb3bfd18fed:667766876,5a8c97401494d450554320a7848d1ded:41996412,516c5b00ee94d4503a3b90a10c265e17:667766876,e86c1b005494d45042108088db78c7b4:1139764285,ba4c5700ef94d45032f4ba5ef8508bc4:667766876,05ab9b4cba54d45003b8211b37552c89:195769467,749bd34c2854d450dd475ac9a7de47c8:1317397247,5f5bd30c7c54d4509589f235368755c3:195769467,0ffa97c8fb54d45041e08bd3cc8612e8:667766876,2dfa97c87954d45014e07497a319c515:1139764285,7aea93c88154d450402b37db5baf2602:1611761694,f4ea5f884854d45032306cd3c13f1d1a:2083759103,2ada5b88bf54d450a95795469c842e07:-1739210784,8f9a5b489854d4505c6c407e98dbea79:-1267213375,6d9a1b483754d450eded758c5446ed86:-795215966,8f8a97481354d4504a5e4daa8d20e89e:-323218557,dd8adb081754d45088464030c61ea11f:-1884936578</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_a80e9348db94d4509a17ae3bd39619c4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:35:17">600e1f08db94d4509a17ae3bd3961914</portal_widget><posx>5</posx><posy>30</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:35:17</sys_created_on><sys_id>a80e9348db94d4509a17ae3bd39619c4</sys_id><sys_mod_count>21</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_a80e9348db94d4509a17ae3bd39619c4</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:17</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-361196944</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6a6ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649c90000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>52adb754d58e50940915c8c74e639254</update_guid>
+<update_guid_history>52adb754d58e50940915c8c74e639254:-361196944,89dc3fd09f8e5094a7fd2bb5c013f536:-361196944,5550529384385c10e68617a8ed4b7b00:-1797290149,7511b10fe338d8100743507e8ba6f281:-1797290149,a380f18bbb38d810d7c2a4b8f7caa840:-503700743,de70718b8a38d810b5782161d35eb759:-349927688,4b87a94bcdb4d810f5736328337e19ee:-196154633,c25374ea7e349010dc66ebf2eea17e4c:-503700743,455334ea803490105369a2dbb2f4f26f:-349927688,8f43b0eacf349010d4a3969773b55a2d:-503700743,664370eaf134901085281cdb77d96551:-349927688,f9137c6a11349010cf9a516395fc945d:-503700743,c9d2382a063490102975987420389a06:-349927688,ff82fc2e553890106fa9e89fc2cce2d2:-196154633,7282bc2e493890101fa94965c1611884:-349927688,703daf83b56410909a0786b07935ee4c:-503700743,a63ed788e894d450a63c3eadba6d359d:-503700743,b53e9f88a294d4509ac4d4ea4bfc5a7f:-1473281766,893e5f88bc94d450eb587314ea92c649:1528096124,3a2e5b883794d4503986c29ca1044d65:1681869179,382e5788ad94d450b4ac32b6fcb16d60:1835642234,011e1f487894d4506896b7638b992972:1989415289,1c1ed348e994d450ea0480d2b218c884:-685510092,330e1b489594d450714ea473c051b9e0:-625040251,640e9348cb94d45069537dbb42bfd8c7:1150163336</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_035a5b08db54d4509a17ae3bd39619a2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:19:21">cf5a5b08db54d4509a17ae3bd3961937</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:19:21</sys_created_on><sys_id>035a5b08db54d4509a17ae3bd39619a2</sys_id><sys_mod_count>35</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_035a5b08db54d4509a17ae3bd39619a2</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 05:52:18</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1705516059</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6e6f3318db8e509492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649600000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d2adb3543c8e5094750788ea8876999b</update_guid>
+<update_guid_history>d2adb3543c8e5094750788ea8876999b:1705516059,5d50129339385c101e189f87b227f6f8:1511304261,ca01358b6838d810e62a9d8f5de45e38:1511304261,21c0f18bf738d810fad285d16a94feb0:541723238,bcc0fd8b5f38d8105303d42085afa2a7:387950183,9b80bd4bd038d810db2fc9eacb2bec7a:234177128,1270314bce38d810285d2cb80080bce2:387950183,7953f46a9d349010c581150b1287a7b6:541723238,7c5370ea643490107f27a92c3d9caa7c:-660945193,8b437c6aef349010f9742060cfbbb0a1:387950183,9a43b46ad6349010d4e1f4025b27c380:541723238,a5133c6a3a34901013c2bcb9d320b5e2:387950183,b83daf83ed64109032e584520ebb7c43:541723238,891e5b08ee94d450b629feb9274ae4ca:541723238,380ed348ed94d4505014fc2c2bee5f55:387950183,facb1b8cac54d4506cfc7ab972511a20:541723238,0dabd74c9554d450dc40a923585bd67b:1511304261,c4abdf0c4554d4500b10c08e9994579d:725976713,8b9b574ce554d450e94a2be225fa4a3f:896212041,aa9b974c2154d45059da3600d8a54972:742438986,4a9b1b0c4a54d45093f5661ef997d816:588665931,ad9bd34ce054d450684c9937484cedcd:434892876,f89bd34c7054d4502806fbf5d20f28c4:281119821,d09b9f0cc454d450622a9787e5fd4f8a:293093013,fb8b934cab54d450b186a81f3c599475:139319958,8f8b1b0c9054d450bf494992c7c6195f:-14453097,595b5fc8b354d450c7b486b75e3849f0:-1404230729,32fa97c80254d4509bffca975506dfdb:-932233320,95fa97c89a54d4505a0a83c66d3bb80b:-460235911,a6ea53c82954d450701c86ae833ec7df:-831404863,f8ea5f88c354d4501fb36895ab654f03:-359407454,2ada1b489554d450db1f803244f35c56:112589955,879a5b48b754d45068f104386c7e4d76:584587364,a59a1b48b754d450ec42179484b29b83:1056584773,c78a97484b54d450eaf2e1a97a6c449b:1528582182,ad8a17485d54d450c1f6cb3a1782e1ec:2000579591,108adf081e54d4505f955e19ec6fc91c:-1822390296,837a53482c54d4509591c3d3cebea461:-1350392887,c75a5b081f54d450f6979d5cfc0d4aa4:21591416</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_345a5bb9db4458909a17ae3bd396191c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">f45a5bb9db4458909a17ae3bd396191a</portal_widget><posx>0</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 09:32:52</sys_created_on><sys_id>345a5bb9db4458909a17ae3bd396191c</sys_id><sys_mod_count>30</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_345a5bb9db4458909a17ae3bd396191c</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:30</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1238981560</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6e6ff318db8e509492b95055ca961976</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a730000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d2adb754dd8e509403f0dee72168d26e</update_guid>
+<update_guid_history>d2adb754dd8e509403f0dee72168d26e:1238981560,fc3daf83306410904866b406cbcbd655:921967936,2e962fb1d748589017fc3df0b346544f:-960197061,1196afb17a485890e4c36f6112926997:-826610150,9386e7f16748589005614d42080b27ac:-292262506,0286ebb1ff4858900ac93807a7b440ed:-1247557027,c0766fb14d485890810344aff47f8018:-713209383,8766abb1a0485890b7d7dfe7d5fa1ddc:-1401330082,fc662fb1604858904c061c44a17145d5:-599808616,3f5627b106485890f4e0aea642e08a63:-446035561,8a56e3b1d3485890f5979629fb7ebc53:-292262506,955663b1754858905823644d1da095af:-1113970116,4213ef35140858909e186bdd185cd119:-960197061,3c13aff14b08589046834e35c5b9218f:-1494544705,1c61677dddc45890a76fbca3def8df3e:-960197061,1951e37de3c458909eb726ff86d02aed:-1648317760,7f216b3d3dc45890da99a61331d22a18:-1802090815,0711273d84c458908fe9863125f7217a:-1955863870,7ff023399fc45890366ae2fe1a596459:-2109636925,e5e027f99dc458904cdf613f3f86ff4f:-1955863870,97d067393dc45890cf71bb1cafd85ca8:-1802090815,b3c0ebb98dc45890e48d3f41122f9baa:-1648317760,e8ac173533845890767cbde950a568a8:-1494544705,064c13f139845890a49b78f5c2e1993d:-524963682,454c97f12a84589000fca7989f4c061d:537954397,c84c97b162845890cbc7f365dd14f13e:-2145005597,fc3c9bf14e845890126e67fd90114d85:-832509792,a42cd7b1348458907b0c3294a68e614c:-678736737,de0c13b1c5845890a8860c04ca11f9bc:-524963682,23fb53b1a08458902d70a3bdd58401e6:-678736737,2f6a13f9ed4458908fa3d6eaf93ee158:-522187089,546a5b399d4458909be4dc92cb413fe5:-50189680,cd5a5bb9414458905eab112a9584641e:-1459467599</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_a0273339db8c58909a17ae3bd39619a6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">24273339db8c58909a17ae3bd39619a4</portal_widget><posx>3</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:38:43</sys_created_on><sys_id>a0273339db8c58909a17ae3bd39619a6</sys_id><sys_mod_count>33</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_a0273339db8c58909a17ae3bd39619a6</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 12:50:17</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1496467671</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6e6ff318db8e509492b95055ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b280000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>9aadb754d58e5094afb5a486ec8fa17b</update_guid>
+<update_guid_history>9aadb754d58e5094afb5a486ec8fa17b:-1496467671,2d50529343385c10ba26ccee601cdd17:-1677501263,7ba00eb6667cd41047560779c016c933:-1677501263,853daf8326641090fdd7f3ac7cc3e27a:2058703578,30874806e6c098901ee7ed07a332d884:2058703578,8377080623c09890490c598fdfb2504f:-2046712447,40774406bec0989074888cdf8f53909e:2058703578,bd678006b3c098903b39bb2d64b4e206:1713907205,8e683bfda48c5890aa2c4684bd870671:2058703578,25587bbdc38c58903b927e18bde674f2:247136377,72487fbdc78c58901fcc6e78516dd5b7:2094481794,6238f7bd1c8c5890f6f871aa5638212b:1940708739,0528bf7d1f8c58902634d44a679a6e5d:1406361095,8718fb7dc48c5890e47c104f1d591b05:1560134150,c1183b7d1e8c58904942497d954328ab:1713907205,b8f73f3d7d8c5890ac1f9f755ee09f85:2058703578,0ae7f73d7d8c5890de3c5a750a75da70:-2046712447,5ce7373d198c5890c91dc9a6093e2361:2058703578,09d7333de98c5890280a4cd5fe4fc007:1713907205,cec7fbf98b8c5890b138749c06b654a9:2058703578,07a773f9d58c589023d59becb4837667:1713907205,a8a7bfb9348c58901098d6ff7ecd1c20:2058703578,6297fbb9a98c5890905340c5408bfa28:1713907205,4177fb79908c589068fa9b41a88692f4:2058703578,4257f339288c5890b0c1fb8e50693309:-722444646,c1573f79bf8c58909fc3f0f628157379:1216717400,e457fb791d8c58900a16cfc8c2a673dd:1617478133,bf47bb795f8c5890bbfa9fa2958441c5:-1935487451,c947f779168c589063e50aa6cabb3600:1216717400,104777794a8c58901a191698c9f6c0c7:1751065044,5737b339748c58907337dc2a2ba400e8:-1935487451,0637b379ea8c58909013781f2e1fac84:1216717400,38373379648c5890f17943ace88c15a9:1991812951,c8377739a28c589076cc01110079169d:180245750,e7273ff5008c589010e0bb82f9a2ad26:1182494807,3927fb39338c5890b0bdefc31e89cfa7:648147163,1527f7393a8c58908b99aabf848244b6:1948748788,6c273339b68c58901e399bfde31378a8:-160845354</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_fc66ab71db4858909a17ae3bd39619fa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">3066ab71db4858909a17ae3bd39619f9</portal_widget><posx>6</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 10:25:33</sys_created_on><sys_id>fc66ab71db4858909a17ae3bd39619fa</sys_id><sys_mod_count>5</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_fc66ab71db4858909a17ae3bd39619fa</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:19</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>772767242</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>6e6ff318db8e509492b95055ca96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64bb20000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>16adb7545f8e50945f55bfc76c9b1486</update_guid>
+<update_guid_history>16adb7545f8e50945f55bfc76c9b1486:772767242,453daf8331641090e725f5baa5beed80:361992402,ff862bf1a7485890ae06db74d929c58c:-1349749379,6f862bf134485890c9ad6dbe321b0730:-380168356,0f7663f159485890fd6ab6a6e7f3abff:-1727732483,1f666fb1474858902b70bdaaefd5e7d5:1899300258,de66e3318a4858908eb6632e8376ca86:389587071,b866ab71d248589083b14880412fdcfd:-1771646768</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_indicators_812f5c27dbc0d4109a17ae3bd39619b0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators"><pa_indicators action="INSERT_OR_UPDATE"><aggregate>1</aggregate><allow_multi_element_aggregation>false</allow_multi_element_aggregation><benchmarking>false</benchmarking><collect_breakdown_matrix>false</collect_breakdown_matrix><collect_records>true</collect_records><conditions table="sc_cat_item">picture!=^metaISNOTEMPTY^short_descriptionISNOTEMPTY^descriptionISNOTEMPTY^icon!=^active=true^EQ<item endquery="false" field="picture" goto="false" newquery="false" operator="!=" or="false" value=""/><item endquery="false" field="meta" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="short_description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="icon" goto="false" newquery="false" operator="!=" or="false" value=""/><item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></conditions><contributor/><cube display_value="Active.Catalog_Item.Monthly ">9b6ad06bdb40d4109a17ae3bd39619f4</cube><data_source/><default_aggregate/><default_chart_type>line</default_chart_type><description># of Active Catalog Items with all Attributes - Monthly is measured monthly as unit #.
+The goal for this indicator is not set.
+It is the count on data source Active.Catalog_Item.Monthly , which is using the table: 
+sc_cat_item
+with the following conditions:
+Active = true .and. Catalogs CONTAINS Service Catalog</description><direction>3</direction><display>false</display><excluded_statistics/><field>active</field><forecast_base_periods>2</forecast_base_periods><forecast_base_start>00000000</forecast_base_start><forecast_base_type>1</forecast_base_type><forecast_lower_limit/><forecast_method>1</forecast_method><forecast_periods>2</forecast_periods><forecast_upper_limit/><formula/><formula_aggregate_whole>false</formula_aggregate_whole><formula_allow_null>false</formula_allow_null><frequency>40</frequency><groups/><has_managed_indicators>false</has_managed_indicators><id>275</id><key>false</key><label/><linked_indicator/><live_group_profile/><managed_breakdown/><managed_element/><managing_indicator/><name># of Active Catalog Items with all Attributes - Monthly</name><order/><override_periods>false</override_periods><precision>0</precision><related_breakdowns>1</related_breakdowns><related_jobs>2</related_jobs><render_continuous_lines>false</render_continuous_lines><role_override>true</role_override><roles/><score_periods>-1</score_periods><scores_modified_at>2020-06-29 04:00:12</scores_modified_at><script/><scripted>false</scripted><show_delta>true</show_delta><show_realtime_score>false</show_realtime_score><snapshot_periods>-1</snapshot_periods><sql_statement/><sys_class_name>pa_indicators</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-14 06:25:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>812f5c27dbc0d4109a17ae3bd39619b0</sys_id><sys_mod_count>12</sys_mod_count><sys_name># of Active Catalog Items with all Attributes - Monthly</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_indicators_812f5c27dbc0d4109a17ae3bd39619b0</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:19:53</sys_updated_on><type>1</type><u_coe>false</u_coe><unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit><users/><value_when_nil>0</value_when_nil><visible_to>2</visible_to></pa_indicators><sys_translated_text action="delete_multiple" query="documentkey=812f5c27dbc0d4109a17ae3bd39619b0"/></record_update>]]></payload>
+<payload_hash>237933384</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a26f3318db8e509492b95055ca96193f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d46c410000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name># of Active Catalog Items with all Attributes - Monthly</target_name>
+<type>Indicator</type>
+<update_domain>global</update_domain>
+<update_guid>d43d3b14318e50940a0c9a6ed6f8fa7f</update_guid>
+<update_guid_history>d43d3b14318e50940a0c9a6ed6f8fa7f:237933384,6fd8e3bf40259450a7abbc9c64585707:-336343834,bd2929cf9db4d81064858db57a202f41:1261749317,7529e5cffbb4d810b4fb7b8f70b3fd55:-501367803,a5ff707d5fbc5414413d84bf3fe49fcb:379912934,65ff707d84bc541467d3a3515a76b7bf:543271749,c6d21d1a88e018106e48bf3cf9593bd8:1915651040,50464d44a5641010ed72d84d1763286c:1231797043,ba0f34351bd8dc9008004391b1c57f00:-1411211680,4a5df03d4798dc90aa42ee2c8f39b368:-293752191,21c2ef806118d45069eb8eee16a08359:-390525654,e16f14a7bbc0d41065c38086d49211c7:1967675787,185f50a7a9c0d410ebcc0022924673c3:-2100266212,905f50a751c0d41076f5e526222bd7c2:1319564426,985f50a767c0d410e2e84d5861b412c0:628239687</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_6c283b7ddb8c58909a17ae3bd3961923</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">60283b7ddb8c58909a17ae3bd3961922</portal_widget><posx>0</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:43:05</sys_created_on><sys_id>6c283b7ddb8c58909a17ae3bd3961923</sys_id><sys_mod_count>9</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_6c283b7ddb8c58909a17ae3bd3961923</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-06 08:32:47</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>805993392</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a26ff318db8e509492b95055ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64aa40000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>deadb754d08e509491fdb84b38c2b071</update_guid>
+<update_guid_history>deadb754d08e509491fdb84b38c2b071:805993392,2d50529372385c102713cc1b25ef2810:1826903656,7ba0cab6947cd410a2ec6ae26030ddeb:1826903656,783daf83f764109086b015c4249cbb59:605643927,088f86e67e2c5450fe205974ce9f51b1:605643927,928700c2f7c098904c99222bc336d1bf:-1710151200,2967400630c0989050c8a8c64216c9fc:78528949,b3b8b7fd348c5890e55b3ad64e356d60:-1710151200,34b83ffd848c5890d7cc9e3737097aa4:1291226690,e8987ffd808c5890d23cb04df548f9b6:605643927,eb78b3fd4c8c58903e0bee1adedd46cb:-232446894,bf68f3fd018c5890eeae7020bde9f445:-847539114,0148b7bd748c589064de5cf6f84f62f0:-232446894,28283b7d8d8c589092a1102aeff36a26:382645326</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_c48a1748db54d4509a17ae3bd3961947</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:19:57">808a9308db54d4509a17ae3bd39619d0</portal_widget><posx>0</posx><posy>60</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:19:58</sys_created_on><sys_id>c48a1748db54d4509a17ae3bd3961947</sys_id><sys_mod_count>37</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_c48a1748db54d4509a17ae3bd3961947</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:14</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>2115710550</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a26ff318db8e509492b95055ca96197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649e40000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>52adb754aa8e50946bd792400259d656</update_guid>
+<update_guid_history>52adb754aa8e50946bd792400259d656:2115710550,d8dcfbd05d8e509458dcaba7e300e1e3:2115710550,d150529352385c10e8ea63cb63fed902:697008193,7431b10fb338d8102d8921b07e4ef68c:697008193,29c031cb4838d8100bac08ccb318ef7f:-272572830,b0c0fd8ba238d8107abc7433ff4d52c0:-426345885,e380f18b3538d810a3749dec9af03f85:-580118940,5e70718b7238d810e995aa15d1855260:-426345885,0a5374eaf0349010b46382f833f6a75f:-272572830,c15334ea08349010dd3dfa4ff244aa76:-118799775,c343b0ea7f349010e4a4fd3fb10e6241:-426345885,aa4370ea7434901053bfdf9c24481964:-272572830,39137c6a2d3490107370009e0dc59764:-426345885,fc3daf83e66410906f5fb5b01366124d:-272572830,b5bed3ccd994d450d4f183237ffadb64:-272572830,8dbe138cee94d450f7eb941aab97c713:-426345885,16ae9f8c6c94d4505a19dde0cd71455a:-1295764628,df6e9b0cd794d450f5f26ca0c09ee803:-1767762037,0d1e1f483594d450d90b7df74b440591:577462767,0d0ed348eb94d4508c64d0c75e9655f7:105465358,914d53843194d450f922da759e22e6b4:577462767,d5dc93c0c894d4505d57ab703d40a0cc:-1767762037,4cccd3803494d450e5d06fec7c066d15:577462767,e99c9b408394d450a155fe17ad2cfb20:-1767762037,a18c5b005194d45026a383be14103e58:423689712,d56c5b00a994d450153cbe85f3407b31:-1767762037,a86c1b005694d450a2a0f7cc408409c2:-1295764628,7a4c57007794d450b2223bbf37e84cd2:-1767762037,19ab9b4c4c54d45032317c253dda6dbc:577462767,149b9f0ca154d450b1f8f4c85534fd8e:105465358,3a5b530c2854d450ed35fbf6b3cc01ba:577462767,c7fa97c82954d450af8bf73bbdfafafd:-1767762037,6dfa97c86b54d4500e6fe32a15bf9236:-1295764628,32ea93c83b54d450a33b3605eb89d5a0:-823767219,49ea5f885a54d450b99d10c950cb5344:-351769810,7ada5b88f954d450648e6915d88e2e31:120227599,539a5b48bc54d450777fb4403264c88b:592225008,319a1b482c54d450683430516a46eb98:1064222417,4b8a97481f54d45007437cb47f0c5ac5:1536219826,fd8a57485a54d450cee6922a438de48f:2008217235,4c8a17487654d450c235b85e2508b049:129933678</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_19fa57c8db54d4509a17ae3bd39619fb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:21:57">8dfa1f48db54d4509a17ae3bd3961998</portal_widget><posx>5</posx><posy>40</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:21:57</sys_created_on><sys_id>19fa57c8db54d4509a17ae3bd39619fb</sys_id><sys_mod_count>25</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_19fa57c8db54d4509a17ae3bd39619fb</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:17</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>2107716510</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a66f3318db8e509492b95055ca961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d6496f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d6adb354e38e5094c3346e8877b67c9c</update_guid>
+<update_guid_history>d6adb354e38e5094c3346e8877b67c9c:2107716510,34dcb3d00c8e5094cf0b37efdb754b78:2107716510,1d50129325385c10d8688b869af573f9:-1328760311,9821f1cb3a38d81025bf5aec920de1d2:-1328760311,5380bd4b2c38d81026e17d28741a607e:-35170905,1670718bc838d81047ea1493a84b9245:118602150,8787ed0bbbb4d8108217480ad343c225:272375205,b15374ead3349010e4219d153846d62b:-35170905,345370eacd349010c2435470205ed480:118602150,43437c6a90349010db5f8e28a16646a5:-35170905,e24330eab8349010312704a162c683d9:118602150,7d133c6a3c3490100ba3132912ccfbe5:-35170905,09d2f42adc3490101a3fd038e01240ff:118602150,3f82fc2e2b3890103ecf019706de65cb:272375205,3282bc2e9038901061a1c2482fb3637d:118602150,783daf832b6410907b8e40d9eb275d44:-35170905,a25e9fc82a94d450e1dda01b2b91290c:-35170905,525e9f883694d45030629b01c9e87b87:1260862627,0d1e1f48c294d450f0f4e623dbe8ff50:291281604,fc0ed3483c94d45025e20a234ba3a258:137508549,594ddb804594d450d151a093790d565a:291281604,1d6c53004f94d4507454514494b19f46:445054659,be4c57009594d4503628381fd48577ad:598827714,214c5700ef94d450761c1f5b2a91d60a:445054659,ea7b5b0c2d54d450d0c6a05ddc666561:598827714,a76b170cb254d450ac3bc51aa7c94757:752600769,814b530c2c54d4509142235c1dc8469b:906373824,f6fa97c83554d45082b67d9b198d8ede:1387118764,9dfa57c87754d4508aa11a111fcf47fd:1772466229</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_4f2a1379db4458909a17ae3bd396190c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">4f2a1379db4458909a17ae3bd3961909</portal_widget><posx>0</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 09:32:11</sys_created_on><sys_id>4f2a1379db4458909a17ae3bd396190c</sys_id><sys_mod_count>32</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_4f2a1379db4458909a17ae3bd396190c</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:30</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-913840341</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a66ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a840000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d6adb754cd8e5094fe978fa1e0003a6f</update_guid>
+<update_guid_history>d6adb754cd8e5094fe978fa1e0003a6f:-913840341,343daf830b64109051496af4aae3cf57:-1507348749,e2962fb1df485890a483737ea60e2553:2091188187,d596afb176485890cb5af404726e5c9a:-2070192198,5b86e7f1a8485890a287150c6888c6af:-1535844554,c686ebb18a485890df7feefab02377f0:-1921130409,88766fb1b54858909feb2cef2c9e9f1b:-1386782765,4f66abb11648589025a0e1a68bd280df:-2074903464,b4662fb11c485890ac6a5ed1ff714fd9:-1273381998,c06627b156485890b3d07a29cd434367:-1119608943,4256e3b1924858908889fdcc3c088b57:-1535844554,5d5663b1cb48589019223dd5d1b031b2:-1787543498,0a13ef35f90858907abedd488f2d201c:2091188187,70136f357d08589042ce14eeb01dc5e1:1556840543,d061677d34c458903e94040610323b42:2091188187,dd51e37d0dc458908313f6b416e9c6f0:1973076154,37216b3d96c45890994fddf4a2ada41c:1819303099,cb11273dcbc4589095155a7e6c99e17d:1665530044,fbf06ff98dc458908aa08d959e8f12d2:1511756989,ade027f989c4589041b545a3fad17752:1665530044,57d023f904c45890d16449655a8de0d0:1819303099,ffc0ebb926c458903d94063b743fc9ad:1973076154,8a6c17350b845890fae51b4d44580bb1:1556840543,ca4c13f1a484589071aca79aa1b2d840:587259520,1d4c97f19d845890ba6f873d5db19620:1003495131,6c2cd7b18c84589068c57848d9076d4f:587259520,e21c97b1a68458903702d20b3e52f288:-616546784,a60c13b11d845890b03308474d2224c0:849722076,b8fb57b1e98458904a29d7f6267dfa4f:695949021,0beb57b1a28458905a7ce1786218a94a:542175966,e36a13f9a3445890bc0efd51cf11db5c:-1328598960,906a9fb963445890dad73c398524d227:-856601551,c95a1fb90b44589058736a83e528bc28:-384604142,4a3a1fb5a3445890f6ed6a6c44a4f182:87393267,0b2a13797544589064e870e8d5bf0a10:68991214</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_a72afd4fdbb8d8109a17ae3bd396197c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">6b2ab90fdbb8d8109a17ae3bd396190d</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-20 06:32:17</sys_created_on><sys_id>a72afd4fdbb8d8109a17ae3bd396197c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_a72afd4fdbb8d8109a17ae3bd396197c</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 13:23:06</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>490160420</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>a66ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b5d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>96adb754ed8e5094e9176b96704b9c7f</update_guid>
+<update_guid_history>96adb754ed8e5094e9176b96704b9c7f:490160420,2d5052932a385c10238b3969fc19af1a:-273234060,55389f073b745c10ac720144eef712ed:-273234060,356afd8f47b8d810fc3ec192c5bfa7e8:-1595556333,6b3af18fe5b8d81007ea39865e1e3625:-645164884,be3ab18f91b8d810c3df51cecb031ebf:-273234060,632afd4f63b8d810192d7a29e5591c7f:170297399</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_4ad6f3f5db8c58909a17ae3bd396196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page/><name>PA New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:37:28</sys_created_on><sys_id>4ad6f3f5db8c58909a17ae3bd396196f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA New Tab 2</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_4ad6f3f5db8c58909a17ae3bd396196f</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 11:37:28</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>-951260180</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>aa6f3318db8e509492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d6494d0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>PA New Tab 2</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>daadb354ef8e509441758bf2f6be0999</update_guid>
+<update_guid_history>daadb354ef8e509441758bf2f6be0999:-951260180,fc3d63839a641090ac1fb67f07cbd93b:890761150,c6d6f3f5a38c5890ec521ab8aaf37d72:1723692524</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_2b0decb5dbb854149a17ae3bd39619b3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">e30de8b5dbb854149a17ae3bd39619db</portal_widget><posx>0</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-16 03:42:55</sys_created_on><sys_id>2b0decb5dbb854149a17ae3bd39619b3</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_2b0decb5dbb854149a17ae3bd39619b3</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 06:33:04</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1522044653</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>aa6ff318db8e509492b95055ca961976</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a610000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>deadb7546d8e5094d57ef86bfdffce6c</update_guid>
+<update_guid_history>deadb7546d8e5094d57ef86bfdffce6c:1522044653,1d50529386385c100079a4027425980c:-969470056,475abd8f5fb8d81014a8bad803726983:-969470056,845ab98fc2b8d81074b7e29b3e67c420:-826375245,2a4a398ff3b8d81088f38b1018f35772:-1298372654,714af18f0db8d8107d01bf7a506e3fd7:-1913464874,c14a7d4f9cb8d81008ba8346a9fdae89:-1770370063,6e3a7d4f13b8d810f16f505548f412eb:1909505013,b32a3d4f40b8d810e120dff20d323b06:2052599824,752a7d4ff4b8d810192cf9711ea87556:-1770370063,492a7d4f46b8d810e98ad99dc7e0ad68:-1298372654,d42a394fa7b8d81043a917a1effcd7b6:-826375245,94e9b50fc7b8d8109f82ac9b8da38a4f:-354377836,758d287942b8541494c64715067a3ba8:-969470056,d18d6079b0b85414188756a1ba6fd805:-826375245,648da0f58ab85414490838cc4367af67:-1441467465,d77da4793fb854140abf4e731317f670:-1298372654,7a7d647902b85414ba05d82da492ae2d:-1913464874,e47dac395fb85414cdb189f01ff60cbe:-1770370063,a36d207909b85414beee92f0435cabef:1909505013,ee6dec39e6b85414d4c5ef54afaa448b:-1770370063,056d6c3930b854147578c45cbedab584:1909505013,a55d283906b85414c71259847ebd1fed:2052599824,b74da43972b85414f4fdb0fffb1b1473:-1770370063,474d64398bb854149a0cd771828ec801:-1298372654,554da039e3b854145e6e5ac166378587:-826375245,472d68f5c1b85414b143753d1133cbd2:-354377836,902da4f5e4b85414b4ae70f19adfa24f:-826375245,031d24b53bb85414760790867e8081a4:-354377836,e30decb584b85414e4b690565e9f09b6:-222354131</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_97373779db8c58909a17ae3bd3961975</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">0b373779db8c58909a17ae3bd3961973</portal_widget><posx>6</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:39:10</sys_created_on><sys_id>97373779db8c58909a17ae3bd3961975</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_97373779db8c58909a17ae3bd3961975</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 11:44:39</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1414944702</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>aa6ff318db8e509492b95055ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b180000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>96adb754318e509463d6cd0b0a8ea17a</update_guid>
+<update_guid_history>96adb754318e509463d6cd0b0a8ea17a:1414944702,2d50529382385c10566a0b1fd5effd16:-1763075194,77a00eb6bd7cd410148bb922e6e9c931:-1763075194,b43daf836264109091638712a862de79:-1442269586,6b783ffd418c5890765830214fb7591d:-1442269586,37687bfd528c58904219fdf5672c4e18:903645259,c65873fd808c589020b1c559ec690fe7:1092269165,63487fbdc98c5890b0877578022dad92:938496110,ba487fbd4a8c5890ea0d8105ba8be2b3:1319070699,9a38f7bdfe8c589087b83c5e7db8b827:784723055,4d28bf7de88c5890cd270cf710e1e259:250375411,fe18fb7dd38c58902a780b00a6975501:404148466,c9183b7d0a8c5890de9b23a7a7d33e50:557921521,86f7bf3dc58c5890ca0c06ea9b313346:-1442269586,42e7f73dde8c58907b8bafd339b2036d:1092269165,94e7373dc88c58908c4bb717988add5e:-1442269586,45d7fff96a8c58908ba5404b26b4ccd2:557921521,cec777b9b58c589041a32ec1c8c9b527:-1442269586,4fa773f98a8c58902ad0edf6f8b76463:557921521,e0a7bfb9018c58900be525adc4496c1d:-1442269586,aa97fbb9d38c589067d7f873d86cc224:557921521,8f77bb79998c5890e54d5421dcc8c6cb:-1442269586,666733b9c18c5890512248248ddbc92d:71549486,3357f339518c5890b10dee8d83808e0e:1883116687,22573779128c5890f2c137b056bc1090:-1740017715,45573339d48c5890a2e6c0c24670346d:199144331,2057fb79b68c58903a4ffb09129752da:599905064,bf473379968c589075f07dc5c2eb9eb3:879485778,7547fb39d88c5890810fc0bf01e082b3:199144331,0547b7791e8c589097a6652f025310fd:1806780051,484777794b8c5890475c789e8758dbc3:-788337348,53373779448c5890c3abed6c7ba7be78:-344805889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_fa6a1f39db4458909a17ae3bd396199f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">be6a1f39db4458909a17ae3bd396199d</portal_widget><posx>7</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 09:33:16</sys_created_on><sys_id>fa6a1f39db4458909a17ae3bd396199f</sys_id><sys_mod_count>25</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_fa6a1f39db4458909a17ae3bd396199f</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:17</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1326196872</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>aa6ff318db8e509492b95055ca96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64ba40000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>12adb754578e5094b61cd1c2a39ccd85</update_guid>
+<update_guid_history>12adb754578e5094b61cd1c2a39ccd85:-1326196872,013daf8332641090ad25299889b6197f:-63912384,a7862bf1b7485890a435d95d0de2b72d:1676825972,4d766fb1ed4858900c3659a3258c38a5:1142478328,d476afb1024858906009a4e6eafb6235:-2083793680,47666fb1404858905c6bc2858a236ed2:1523052917,45666fb16b4858905ed1bf5b94e65613:834932218,cc662fb190485890592241768b2f5c4a:988705273,ba56ebb17b4858902690defdfaa5f180:1142478328,4a56ebb129485890ad93e3105aba0653:1810412883,d556abb183485890c131812f4734a2d6:988705273,6146e7b14848589091b38e1d7a4f35f1:1142478328,ae612b7de0c458905f6b6d14cf0f8982:1676825972,f7216b3d27c458902926e1c1d5477a46:988705273,f411e33d7cc458901bd66aa8e671c4c7:1142478328,0401aff97fc45890297bd63a93bc4400:834932218,ade027f9b3c458907e1e2ec9a130c595:988705273,90e0a3f94cc45890548445a925c3fd7d:1142478328,5bd023f926c45890886483cab055a9ea:988705273,38d06fb9cac45890a0eab85b6f15034a:1142478328,c0d0ebb95ec458900880b334d5fe28d1:988705273,035c1bf17b845890cc3fe7f49bb1dc26:1142478328,f95c97358c845890a20085f474405d57:-1038203342,954c1335088458902f6834a04119bce4:-1191976397,fc3c9bf10c84589045715b8cb819438c:-1038203342,202c17f199845890b84050b1142b4a5c:-884430287,e50c5bb12d845890f403a1d6bdede9e5:-1690398614,f66adfb9e2445890322abd47a325102d:-1818934204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_5ab25731dbc058909a17ae3bd3961988</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</canvas_page><name>Catalog Activity</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 08:59:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5ab25731dbc058909a17ae3bd3961988</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Catalog Activity</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_tabs_5ab25731dbc058909a17ae3bd3961988</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-06-29 04:20:43</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>-797632043</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ae6f3318db8e509492b95055ca96193f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64bc00000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>Catalog Activity</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>d6adb754178e50948d37aa68d27c8887</update_guid>
+<update_guid_history>d6adb754178e50948d37aa68d27c8887:-797632043,c93daf83446410904a31a881d04c2b81:-1963859744,6bb633f5a28c589041106c4a5e96799a:-1963859744,c0e2df31f0c05890925102bc9f44074a:127165504,c0e2df31f0c05890925102bc9f44074a:127165504,1ab2573149c05890d103a35c93da10fb:-1611983213</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_7d3ad779db4458909a17ae3bd39619fc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">313ad779db4458909a17ae3bd39619fb</portal_widget><posx>6</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 09:32:23</sys_created_on><sys_id>7d3ad779db4458909a17ae3bd39619fc</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_7d3ad779db4458909a17ae3bd39619fc</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:17</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>503656980</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ae6ff318db8e509492b95055ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64ace0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>96adb754a38e50949f07d78f89246975</update_guid>
+<update_guid_history>96adb754a38e50949f07d78f89246975:503656980,3c3daf83366410906a3daca271b6e274:-1723133668,5386e7f17048589096c2e310513af2b3:2127468901,c1766fb1ae4858904666a051a4cfe6a2:1593121257,d876afb17f485890f946238286418327:-1633150751,4b666fb1c2485890e5ef85238f4bc1c4:-662841364,34662fb1fb48589024cfcc11ad7d7ae0:-1350962063,c86627b191485890a04686126a75ad6a:-1197189008,ba56ebb1c44858907878848576f78e79:1593121257,4e56ebb1bb485890807265f9b3118745:-2033911484,5156abb118485890199e29b1affc44cc:-1197189008,6546e73131485890059177f51f22b0d9:1593121257,e261eff985c45890a5b438a9d7eb22ca:2127468901,3f216b3d16c4589034ebc58ce578d31f:-1197189008,3c11e33dcac45890ec8e178c8815ddc3:1593121257,7bf06ff90bc4589089c82a1cca9d1bd9:-1350962063,a5e027f990c45890261e8aab24c41256:-1197189008,90e0a3f937c4589087e0b872e1b18576:1593121257,1fd023f9d7c45890603e8c2b708701d3:-1197189008,78d06fb955c45890541f36163f240343:1593121257,b7c0ebb906c45890a9a98c4f18dd3cb1:-1197189008,256c1bf125845890c211c202369cb1c0:1593121257,690c9f717f845890a0416bd7e2fb5c83:79302185,ac0c1bb1c084589084d5beb43c439b4a:96400398,2bfb53b141845890f36e9df660feb3e9:-57372657,70fb57b1e38458903e18e53696928253:-211145712,ab6a13f96a44589074ecf031a09a9b5f:-214556671,686a9fb9ce445890bf8527be71e5e82a:257440738,815a1fb920445890c8a806562e4fc02c:729438147,793a13b9eb4458904d2530ba084816e3:-1157223650</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_dc6a5f39db4458909a17ae3bd3961956</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">906a5f39db4458909a17ae3bd3961955</portal_widget><posx>4</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 09:33:05</sys_created_on><sys_id>dc6a5f39db4458909a17ae3bd3961956</sys_id><sys_mod_count>29</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_dc6a5f39db4458909a17ae3bd3961956</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 10:26:30</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-311954062</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ae6ff318db8e509492b95055ca96197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b940000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>1eadb754478e5094891f3b88da5cb283</update_guid>
+<update_guid_history>1eadb754478e5094891f3b88da5cb283:-311954062,c93daf8336641090456d8dc44085247d:-523277766,7a962ff1d84858903481630f8c11a0d2:1188945294,9196abf1f4485890677fbc0460e79195:1322532205,ef862bf1bb4858909a9ee4e51185af29:1856879849,ca8667f1f948589065221aaf820933d7:901585328,1076afb17b485890ce9cc819693e5932:1435932972,8f666fb19a4858905179b661e67c80ce:747812273,49662fb1e648589093662ebc1b9841ea:1549333739,08662fb113485890dfe6b9de253fbf47:1703106794,8256ebb16c48589092092af1bc82ed50:1856879849,1156abb11b48589018917d8e0a7e73d3:1035172239,e6612b7dd9c45890dfa70106ebd62a7f:1188945294,6151e37de0c458901bfd6e1d915431f8:500824595,33216b3d39c45890c00259bb4ff16a43:347051540,5b11273d54c45890dba02615a521328b:193278485,4c016ff903c458904b023e37a276b6fc:39505430,e5e027f97ac458901d2811a5a54b6792:193278485,93d023f987c458906b2839c023ef7de7:347051540,3fc0ebb963c4589077ea78d9fe538ccd:500824595,2dacd375aa845890e7c5b4f9237c77e4:654597650,ea5c17f1ca84589083310e438653ed52:-638991756,355c97351b84589013e7788e29ca0954:-2025215983,dd4c133575845890ac1cc57311ad3ce0:-558947123,383c9bf1f584589069dcad8fdae80e89:-405174068,682c17f1e78458900a936bc9eb357858:1945742930,621c53f1a184589025b901aeeadb5e23:1791969875,a91cd7b1088458905210ed8459cf19c6:1945742930,e20cdbb1b5845890d5b671f5b99fe904:1621734547,640c1bb191845890a047bc355f74724e:-405174068,ef6a13f97c445890fbde92164c883c7b:-631678942,986a5f39db445890d37d8d937f795359:-1339677985</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_0f08b7c3dba4581092b95055ca961906</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="Created 2020-05-07 22:26:30">7e08b7c3dba4581092b95055ca961903</portal_widget><posx>0</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admvinay</sys_created_by><sys_created_on>2020-05-08 05:26:31</sys_created_on><sys_id>0f08b7c3dba4581092b95055ca961906</sys_id><sys_mod_count>20</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_0f08b7c3dba4581092b95055ca961906</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-05-21 02:54:48</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-221607758</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e26f3318db8e509492b95055ca961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a550000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5aadb7543c8e50944747716b87de4c5f</update_guid>
+<update_guid_history>5aadb7543c8e50944747716b87de4c5f:-221607758,23f19e137bfc141021e744d53f02f13a:-221607758,8af196137bfc141087218d5f0c84debd:266032182,8db8370337e458109730b4a4503ec4ad:-221607758,e1a873030ae4581099eb6f8eaf3f9c08:-709247698,af98f303a8e45810afd0b4beb4ad8e75:671760305,bd98b703f8e45810631e7180fa3facf3:2087784043,ff88b30317e45810e853a6c1d68f1c39:2017439920,5788b3037ee458104878883654af11f9:1947095797,9c88f30f61a458100033b573c0e09a30:1459455857,d778b30374e45810a54f2146b3c927a5:1389111734,c978f303eae45810b46079680177c58b:1947095797,bf68b30342e45810035d81e38451e0ac:-1789887436,5268bbcf03a45810b5122aee49a8fd3f:-1231903373,d348bfcf46a4581019f6af1f9df51e21:266032182,3248778bcba45810347fcdb87bb5ebf6:-703548841,b448ffcf96a458106819d6442434086b:266032182,4f3877cb52a458107341fcb1ac505ce1:-1291362313,c638ff0b02a458109bbc4a602cb39f78:-482724262,a228330fd1a45810726fe7f2a385ae45:-600361031,4b18b38739a458102a1bad6377a4d792:-482724262,8708bbcf00a45810eaf237592cbde73a:-1291362313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_439a9748db54d4509a17ae3bd39619d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:20:26">7e9a9748db54d4509a17ae3bd39619cb</portal_widget><posx>0</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:20:26</sys_created_on><sys_id>439a9748db54d4509a17ae3bd39619d2</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_439a9748db54d4509a17ae3bd39619d2</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:13</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-2082571458</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e26ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d6498f0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5aadb354da8e509406bdf35c06ba689e</update_guid>
+<update_guid_history>5aadb354da8e509406bdf35c06ba689e:-2082571458,c8dcf7d0f98e509447c61a14740cfe38:-2082571458,595012936b385c10b36aea944815f8fc:-590672087,e411b1cb2038d810b6aa746af1025967:-590672087,25c031cb5238d810551b30c8ada4146e:-1560253110,bcc0fd8b4538d810a33d196f9771abae:-1714026165,a780f18bde38d810b2934e2bee96c732:-1867799220,d270718b3338d810b2487fe02ee4c24c:-1714026165,025374eae1349010e272beb74a564f32:-1560253110,385334eace349010d19689d798aa7b58:-1406480055,cb43b0ea3c3490106145ad31ae16a113:-1714026165,624330eaff349010136dd379f1b48fe0:-1560253110,31137c6a54349010e38f69b9f02add12:-1714026165,f43daf8302641090d74175b95af7c146:-1560253110,891e1f487f94d450b1c6be2ce12cc357:-1560253110,7c0ed348c194d450d8fdc6d25958bd5f:-1714026165,a87cdbcc9d54d4500c14094a52fbfc26:-1560253110,996c5b004e94d450c8924cebdb4d7b13:-2087150235,775cd7005a94d4507497a2c1a58220e7:1735819652,075c5f8cea54d4505f411eb72e530127:1263822243,f24c5700d694d45046fbc3c2a30257c1:791824834,672cd7cca454d450b8e19f1c2db1fd10:319827425,4dab9b4c2454d45090d32afce0701485:791824834,e29b974c2654d45054514ad34ff67d76:319827425,556bd70c4b54d4507f0760248fc03f63:791824834,47fa97c86d54d450dc68da6a5781e9e5:1263822243,65fa97c89c54d450ef4a30bdb7dd2312:1735819652,b2ea53c81854d45070490907fddd98ff:-2087150235,30ea5f886954d4506fa8060a462aef17:-1615152826,62da5b88be54d4506e2c016bcbc3ec04:-1143155417,c79a97485354d450986f4de5ebeb52d4:-1772838822</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_a6fc2c75dbb854149a17ae3bd3961985</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">aafc2c75dbb854149a17ae3bd3961983</portal_widget><posx>6</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-16 03:42:35</sys_created_on><sys_id>a6fc2c75dbb854149a17ae3bd3961985</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_a6fc2c75dbb854149a17ae3bd3961985</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-05-20 06:33:02</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1337585284</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e26ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b4b0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>92adb754de8e50940c5a187578f70f7e</update_guid>
+<update_guid_history>92adb754de8e50940c5a187578f70f7e:-1337585284,2d50529316385c10059b31498a175819:-366049479,225a358f5ab8d810bb1012a576996e18:-366049479,845ab98febb8d8105028155514303d27:-1186847460,664a398f53b8d8103774a27356399e89:-1340620515,f14af58fb7b8d810e1f4ed740a2dab7d:-806272871,cd4ab58f19b8d810a9ef71f3cf512523:-1494393570,3a3ab18f76b8d81004be97385fff1c4c:-960045926,b72afd4facb8d810725bad703cb54593:-1648166625,792abd4f2db8d810c5f1818e4a425e40:-1494393570,092a7d4fc6b8d810e49fdc833b4df16f:-1340620515,dc2a394f5ab8d810386a3367b6d5a6b9:-1186847460,54e9790fccb8d810dedfdcc8ef6e4d0b:-900397123,958d2879acb854145228a075ea9937a0:-366049479,348d287993b854145d0bd77e48549b0c:-652499816,d37da479b8b8541489228ab263bec087:-1340620515,7e7d64793db854144172f4882fa4e5a7:-806272871,687da079ddb8541400750f54b820356d:-1494393570,e76d20790cb8541414b6e8eeb21a4df9:-960045926,266dec39feb85414b0d65cb50e5e4e96:-1494393570,456d6c39d3b85414a1d34f87a0ea59c0:-960045926,b15d6839e1b85414364b1fddbfacec04:-1648166625,fb4da439e4b854144891ca9d02d94f7d:-1494393570,074d643956b8541470f55c79a493aa08:-1340620515,6d4da03942b85414148824f8f54d968a:-1186847460,ff2dacb5feb85414d57a7b9454f7e7e9:-900397123,0f2d68f52eb85414ae265f746bf4b0d5:911170078,c71d24b513b85414873fbe14e7b6f8a7:-1146882102,f70d20f520b8541464476dc23da0c15a:1050026135,72fc2c7502b8541431614a431f101388:-1146882102</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_4ab25731dbc058909a17ae3bd3961984</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page/><name>PA New Tab</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 08:59:38</sys_created_on><sys_id>4ab25731dbc058909a17ae3bd3961984</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA New Tab</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_4ab25731dbc058909a17ae3bd3961984</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 08:59:38</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>-696549908</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e66f3318db8e509492b95055ca961940</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a360000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>PA New Tab</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>deadb754ff8e5094d39c31f08945495c</update_guid>
+<update_guid_history>deadb754ff8e5094d39c31f08945495c:-696549908,3c3daf83ee641090075d3c16d5bbdc54:-301777180,4ab2573189c0589063d681278bfbd087:-747609749,4ab2573189c0589063d681278bfbd087:-747609749</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_22da1b88db54d4509a17ae3bd39619b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:21:29">dada1b88db54d4509a17ae3bd39619aa</portal_widget><posx>5</posx><posy>60</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:21:29</sys_created_on><sys_id>22da1b88db54d4509a17ae3bd39619b1</sys_id><sys_mod_count>34</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_22da1b88db54d4509a17ae3bd39619b1</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:17</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1543214641</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e66ff318db8e509492b95055ca961976</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649820000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5aadb354cf8e5094bc97138c8619df9d</update_guid>
+<update_guid_history>5aadb354cf8e5094bc97138c8619df9d:-1543214641,41dc3fd0418e50945da04d1439d9b333:-1543214641,d950129351385c10d72f7a7359fe52fa:34587002,0031b50f1038d81082e5b2e32086ecb5:34587002,2b80f18ba138d810bbf514eb6687d02b:1328176408,da70718bf738d810fe2771f4e8d57948:1481949463,0387ed0b2ab4d810e404e7e015195829:1635722518,4a5374eaac349010af5c0baee526b92e:1328176408,f85370ea48349010a20c8c8c35ad7b83:1481949463,0743b0ea2f349010008d330687759f10:1328176408,aa4330ea9534901033a027a10b960bdc:1481949463,35133c6ad834901046f61f86609815e9:1328176408,01d2382a65349010c1ada6746c59c603:1481949463,f382fc2e24389010161805478b0deacf:1635722518,b682bc2e4a389010da7b83600e20d680:1481949463,383daf834064109085f198b0c8292645:1328176408,32be1f0ccc94d4509ec80c0177ee011a:1328176408,edbe970ca794d450ad11afaf22decbb6:34587002,cb6e1f885e94d45058070e92d6a92684:-1186777129,6a6e970c7894d4505aae421a30174811:-1658774538,c11e1f48d794d450c701dbe106bda354:-1186777129,b40ed348f494d450463827e0e29a5a5c:-1658774538,154d5384b394d450a7e1c4688afd7196:-1186777129,8ddc1380e094d4507e8a997537fbaff2:-714779720,fecc9b80f094d450d7280d362a38d692:-1186777129,d16c5b00a394d45066a7e451b0348a10:-714779720,e06c1b00b394d4509a89dba4c40afbb1:-242782311,4f5c5f8ca654d45038640dc4ec6ebd23:-714779720,764c5700c294d450885747b681673bb1:-242782311,413c13008694d450c392bd5885de660a:-714779720,05abd74ce754d4501afe5132ff27fc7f:-242782311,839b574caa54d450a8f4888576fe4c43:-714779720,f96b970cee54d450bae49a7145bffbb0:-242782311,befa97c8a854d45016622d21acf9f5e1:229215098,9dfa97c8f454d45081709d2c33db080e:701212507,6eea53c89854d450e9dc0d7fbffd79e2:1173209916,b0ea5f88fd54d45096e1b5d75f659a07:1645207325,a6da1b88a254d4509f6e47ae2164ebb3:-851607644</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_9697bbb9db8c58909a17ae3bd39619e6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>10</height><portal_widget display_value="">1e977779db8c58909a17ae3bd39619ce</portal_widget><posx>0</posx><posy>4</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:40:46</sys_created_on><sys_id>9697bbb9db8c58909a17ae3bd39619e6</sys_id><sys_mod_count>27</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_9697bbb9db8c58909a17ae3bd39619e6</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 12:50:09</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1287108354</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e66ff318db8e509492b95055ca961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64b070000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>92adb754e68e5094d228501a93780b79</update_guid>
+<update_guid_history>92adb754e68e5094d228501a93780b79:-1287108354,2d5052930f385c1068981ae335309b15:-994601850,73a00eb6b87cd4100807a7b2122bc030:-994601850,b43daf83c86410906b86b5f65b6d8278:461012437,8b770806afc09890e97f0f315cb19b4b:461012437,b5678006d8c09890326c95a0982e2903:-73335207,5598bffd3c8c5890b6b60a9af46a7da8:-1818456177,2098bffdda8c5890c1845cb6dacf0391:1413759747,ff887ffda18c589035dda65daff557eb:1567532802,cb883ffd598c5890e7dc9a42f5077bda:1259986692,f5887ffdfa8c58905f59f062d7acc727:1413759747,b8883ffd048c5890318adf5fe385b1ce:1106213637,a3783ffde18c5890938ece1fb063181a:1259986692,51787fbd398c5890f9a17ad03afe0b8c:1794334336,7f687bfd138c5890ba631ec210eb5414:839039815,a068b7fda48c5890145d5fbe5b82b013:1794334336,025873fd438c58904b2d83d67b3491e4:839039815,1c583b7d9f8c589015915ba173dff706:1794334336,3248fbbdbf8c5890565d2f4cae3e5be4:839039815,d238f7bda68c5890587c8ecc6a810f24:1794334336,8528bf7df58c58907053d17ff0008e56:1259986692,3a18bb7d2b8c589053b1bef91ffe2cfe:1413759747,05183b7d978c58907b54cd2111a5864d:1567532802,a1083b79948c5890d368a9633fce795c:-1818456177,47f7fbf94d8c589033386ba0a6e236b2:536468337,8ae7f73d738c5890848ad9b9cd9be969:-78623883,dce7373d0e8c58908a2c08b875ffc15a:458058296,8dd7fff93f8c5890faba23477b2bd1ce:536468337,0ac777b9548c5890ec210a861de5a224:458058296,87a773f9628c5890a9b48efe4f8e2460:536468337,2ca7bfb9888c58902148fb5e276ff419:458058296,6297bbb9338c5890fb17ed9e258006e9:1073150516</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_eaea53c8db54d4509a17ae3bd3961919</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:21:46">e2ea53c8db54d4509a17ae3bd3961913</portal_widget><posx>5</posx><posy>50</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:21:46</sys_created_on><sys_id>eaea53c8db54d4509a17ae3bd3961919</sys_id><sys_mod_count>32</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_eaea53c8db54d4509a17ae3bd3961919</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:17</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1762540032</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>e66ff318db8e509492b95055ca96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a0c0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>56adb754c38e509439aa0d18040f9059</update_guid>
+<update_guid_history>56adb754c38e509439aa0d18040f9059:1762540032,c5dc3fd0e88e5094d1b85f7751356f3d:1762540032,dd50529392385c107bc06d5835b64a05:1958863595,7621f50f2038d8107dd0088a1be2441c:1958863595,e780f18b0438d81038e7e487e3c0eaa8:-1042514295,6a70718bc338d8109836c3576da1d677:-888741240,0787a94b16b4d810375fde6344f9cff2:-734968185,165374ea6d349010a2be505404acd776:-1042514295,815334ea07349010799999cae5ee737d:-888741240,9343b0eae83490100b34110821f4c148:-1042514295,6a4370ea1c349010a2cf5e2b82d1106b:-888741240,3d137c6af934901022f27872d3d25777:-1042514295,cdd23c2a41349010460452f4cc62a237:-888741240,7b82fc2ef9389010bdc8b25dfd8f42d6:-734968185,7282bc2ecd3890101299f73eabd60394:-888741240,7c3daf83d7641090e7fe28e7a5571e4f:-1042514295,04ae5b8cad94d450268b2b7e4b6049ac:-1042514295,7b9e5b4cfd94d450a833741e779312b4:1958863595,991e1f488f94d45088e24f7f1c98e198:-716061786,890ed348a994d450c236ade26b491dfe:-869834841,994d5384e394d450f2f7c3ecd23945b7:-716061786,dddc93c0cc94d450f2641e91778be6cf:-562288731,3bccdf40ae94d45053f492ad496d2e0f:-716061786,6d6c5b006494d45035654e7ce22b354d:-562288731,686c1b001394d450f3684c897410d8d2:-408515676,775cd700a894d450534eb4f587d121eb:-562288731,f64c5700d194d450001790cdf9df5fd9:-408515676,2f3c53008494d450aa176d5631c9a2aa:-562288731,5dab9b4c8254d4508105e811e3719ccf:-408515676,94ab5b4c4554d450648058bcd36a0627:-562288731,467b9b0c2754d450627068833a517e78:-408515676,7a6b930c9454d450529ebb226f77c6ff:-254742621,d44b1fc89354d450b907484fa76b2ae8:-100969566,c3fad7c87b54d450ef3d91e630e6511d:224244746,e9fa97c83e54d450a4d53cdf6e6b063d:696242155,a2ea53c83554d4506bf1fc365667841c:918895894</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_46d6f3f5db8c58909a17ae3bd3961973</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</canvas_page><name>Catalog Attributes</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:37:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>46d6f3f5db8c58909a17ae3bd3961973</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Catalog Attributes</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_tabs_46d6f3f5db8c58909a17ae3bd3961973</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-06-29 04:19:50</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>-1346629773</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ea6f3318db8e509492b95055ca96193f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a170000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>Catalog Attributes</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>56adb754568e50940ca07599c1d12b5a</update_guid>
+<update_guid_history>56adb754568e50940ca07599c1d12b5a:-1346629773,d3bfab98f4ce1450dc149f4e121f4236:-2105805121,9d7bdb371561945002bd0e33acd27f72:-2105805121,3c3daf8391641090e624bac1f17e9050:-1104554173,a60a13845954d450c5ffeb66e5bbfe4e:-554208914,dbe633f5758c589063505e8b58ca26b7:1783509509,0ad6f3f5ad8c5890661d575310fbc282:-195968202</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_7a8a9748db54d4509a17ae3bd396195c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:20:09">f68a9f08db54d4509a17ae3bd3961977</portal_widget><posx>0</posx><posy>40</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:20:09</sys_created_on><sys_id>7a8a9748db54d4509a17ae3bd396195c</sys_id><sys_mod_count>34</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_7a8a9748db54d4509a17ae3bd396195c</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:13</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>451889892</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ea6ff318db8e509492b95055ca961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649bc0000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>5eadb354e38e509404c459b8086393a1</update_guid>
+<update_guid_history>5eadb354e38e509404c459b8086393a1:451889892,00dcfbd0c68e509446e4530b50d23ddd:451889892,95501293f2385c10e06bcd16d82affff:-2055608753,8521f50fbb38d810ec03f0b2f740ea07:-2055608753,69c031cbdc38d8108462c92ef7487b78:1269777520,f0c0fd8b1d38d81044620a392744a0b9:1116004465,eb80f18bfc38d8103e1b37e40ddf873c:962231410,1a70718bc938d810d7603c412544e856:1116004465,0e5374eacc3490105b4ddcf8966d8d48:1269777520,c55334eab33490105d4a43f8d411305f:1423550575,c743b0ea003490103ff39e62048e832a:1116004465,ae4370eae2349010db7953c347d77a4d:1269777520,b1137c6a7734901062dcda30b80df81c:1116004465,343daf83336410900ce1278794e7c049:1269777520,176e9b0cc594d4501062d2c18e2b6a00:1269777520,266e970c3194d4504d71eda228540e15:962231410,806ed7884d94d45039e9ad95e310dd56:808458355,c51e1f48d894d45020ae221f23b2216e:-1671538852,b80ed3489794d4508044edc73266c7c4:-2143536261,914d53845b94d45010f736bef5f368ad:-1671538852,11dc93c0a194d45059808e0140f123b9:-1199541443,edccdf405e94d4508a143ae12fee9f33:-1671538852,a59c5b400894d4506397f14bc232cff4:-1199541443,638cd340c894d45085dc1cee85e52970:-1825311907,d56c5b009294d450a36dad186cc6cd2a:-1199541443,a86c1b00a994d4503672c085e6b0dcbb:-727544034,7a4c5700d594d45082a1209891d8afcb:-1199541443,09ab9b4ca654d45089f70253293e12b5:-1671538852,a59b574ca254d450cd58d9a6a7c7133a:-2143536261,446b970c9554d450307ca1628b4718ab:-1671538852,43fa97c88854d450a35a7083b57f32f3:-1199541443,29fa97c8de54d450e0d2b14a6ab38d2c:-727544034,faea93c8d654d450a6491978596fdd95:-255546625,89ea5f885c54d4501b53d4e8e6fdfe3d:216450784,fada5b886e54d4503e71fc9c87b75f2a:688448193,d39a5b48aa54d450002b06ab4d66b784:1160445602,b19a1b48ef54d450ff6b81383e022491:1632443011,fe8a97480e54d450ab741976695c665e:1364737918</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_d380f90bdb38d8109a17ae3bd3961910</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-05-19 22:50:13">d380f90bdb38d8109a17ae3bd396190e</portal_widget><posx>5</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-05-20 05:50:13</sys_created_on><sys_id>d380f90bdb38d8109a17ae3bd3961910</sys_id><sys_mod_count>7</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_d380f90bdb38d8109a17ae3bd3961910</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:17</sys_updated_on><width>7</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>650411884</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ea6ff318db8e509492b95055ca96197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649f10000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>52adb7548e8e509480f2bd7320a16e57</update_guid>
+<update_guid_history>52adb7548e8e509480f2bd7320a16e57:650411884,41dc3fd0a38e509481a80837e548be3a:650411884,915052935d385c102c3ea2e790398403:-419189340,e811310fbd38d8109e269405eea80db7:-419189340,6401b9cb5438d8106af55f5d9f1d4d50:874400066,26e0b5cb4c38d810d34771ae1f48d689:-1712778746,17c0bd8b2738d81034494dcfe582232f:-1559005691,edc031cbff38d810a272d487fdcb0082:-1405232636,b2a03d8bac38d8108f0aad79620da4be:-371162443,5380f18b5838d8107138521bdb46ef13:-1920476206</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_indicators_46be58a3dbc0d4109a17ae3bd39619b5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators"><pa_indicators action="INSERT_OR_UPDATE"><aggregate>1</aggregate><allow_multi_element_aggregation>false</allow_multi_element_aggregation><benchmarking>false</benchmarking><collect_breakdown_matrix>false</collect_breakdown_matrix><collect_records>true</collect_records><conditions table="sc_cat_item">icon!=^metaISNOTEMPTY^short_descriptionISNOTEMPTY^descriptionISNOTEMPTY^picture!=^active=true^EQ<item endquery="false" field="icon" goto="false" newquery="false" operator="!=" or="false" value=""/><item endquery="false" field="meta" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="short_description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="false" field="picture" goto="false" newquery="false" operator="!=" or="false" value=""/><item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></conditions><contributor/><cube display_value="Active.Catalog_Item">6305f3bddb4c58909a17ae3bd396194b</cube><data_source/><default_aggregate/><default_chart_type>line</default_chart_type><description># of Active Catalog Items with All Attributes is measured daily as unit #.
+The goal for this indicator is not set.
+It is the count on data source Active.Catalog_Item, which is using the table: 
+sc_cat_item
+with the following conditions:
+Active = true .and. Catalogs CONTAINS Service Catalog</description><direction>3</direction><display>false</display><excluded_statistics/><field>active</field><forecast_base_periods>2</forecast_base_periods><forecast_base_start>00000000</forecast_base_start><forecast_base_type>1</forecast_base_type><forecast_lower_limit/><forecast_method>1</forecast_method><forecast_periods>2</forecast_periods><forecast_upper_limit/><formula/><formula_aggregate_whole>false</formula_aggregate_whole><formula_allow_null>false</formula_allow_null><frequency>10</frequency><groups/><has_managed_indicators>false</has_managed_indicators><id>266</id><key>false</key><label/><linked_indicator/><live_group_profile/><managed_breakdown/><managed_element/><managing_indicator/><name># of Active Catalog Items with All Attributes</name><order/><override_periods>false</override_periods><precision>0</precision><related_breakdowns>1</related_breakdowns><related_jobs>1</related_jobs><render_continuous_lines>false</render_continuous_lines><role_override>true</role_override><roles/><score_periods>-1</score_periods><scores_modified_at>2020-06-29 04:00:11</scores_modified_at><script/><scripted>false</scripted><show_delta>true</show_delta><show_realtime_score>false</show_realtime_score><snapshot_periods>-1</snapshot_periods><sql_statement/><sys_class_name>pa_indicators</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-14 06:23:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>46be58a3dbc0d4109a17ae3bd39619b5</sys_id><sys_mod_count>13</sys_mod_count><sys_name># of Active Catalog Items with All Attributes</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_indicators_46be58a3dbc0d4109a17ae3bd39619b5</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:19:43</sys_updated_on><type>1</type><u_coe>false</u_coe><unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit><users/><value_when_nil/><visible_to>2</visible_to></pa_indicators><sys_translated_text action="delete_multiple" query="documentkey=46be58a3dbc0d4109a17ae3bd39619b5"/></record_update>]]></payload>
+<payload_hash>-655516602</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ee6f3318db8e509492b95055ca96193e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d447a70000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name># of Active Catalog Items with All Attributes</target_name>
+<type>Indicator</type>
+<update_domain>global</update_domain>
+<update_guid>0a2df714e48e50948b7e9b2797d90b00</update_guid>
+<update_guid_history>0a2df714e48e50948b7e9b2797d90b00:-655516602,e317e7f708259450118c2a185b13cf89:-2066745685,217da1cf39f4d8109a90beba907c845f:643374128,617da1cfa8f4d810049ca2c32cfc9f45:1883642673,ab6d343559bc5414ce6c99d91453d793:-494279695,5c293cf1867c54144805e5a74f1a0e37:89454704,7b5774bd6d3c541444188d99fe0eee52:-494279695,bb5774bd283c5414069b140f7ea7532d:745988850,e6c2115acae018109db0be4f96a64884:-1261564647,7e76b5cc89a050105b13a30802ab76b2:309857173,879a5d759c1410d0f1f208b86bea49ea:-450862409,a5c2ef807618d4509d1105a165267e54:-1554730278,ed0f14278dc0d4105282e65ed48e2587:1331504722,83ee1ce37ac0d410a6609bc48be90c4e:-1981879339,0fee1ce3b6c0d410dcc7837f44bdfc4c:406083251,07ee1ce35bc0d41083169c036e1d754b:-649117773</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_65177739db8c58909a17ae3bd3961995</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">4ab25731dbc058909a17ae3bd3961984</grid_canvas><height>4</height><portal_widget display_value="">2117bff5db8c58909a17ae3bd396193c</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-09 11:38:31</sys_created_on><sys_id>65177739db8c58909a17ae3bd3961995</sys_id><sys_mod_count>28</sys_mod_count><sys_name>4ab25731dbc058909a17ae3bd3961984</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_65177739db8c58909a17ae3bd3961995</sys_update_name><sys_updated_by>admVinay</sys_updated_by><sys_updated_on>2020-04-09 12:49:57</sys_updated_on><width>3</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1862294228</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ee6ff318db8e509492b95055ca961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d64a930000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ab25731dbc058909a17ae3bd3961984</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>daadb754d98e5094e7dd1fec70dd3b70</update_guid>
+<update_guid_history>daadb754d98e5094e7dd1fec70dd3b70:1862294228,2d505293d4385c1035f7432807e4930f:1481814556,77a0cab67b7cd4107acd9a734aecc6ea:1481814556,783daf8334641090ce2f6c61e7e05858:670986468,0077440602c0989000e2317f48ef4397:670986468,6167400636c09890a3b7201cf0ca76f9:1644349755,4948b7bdd88c589064655a0a6a994dec:670986468,6b3873f93b8c5890b4eb35559377c16f:1644349755,9638f7bd118c58909edf8c5c009c3f04:1490576700,c528bf7dfc8c5890f5e256e6027f594f:1336803645,ba18bb7da98c5890080fe4e4d690a5f7:1490576700,b4183b7dac8c589070356aceecd6d346:1644349755,9ce7b379d08c58909e3ddc44f0167da3:670986468,85d7fff96f8c58905004c5d4c85f15cb:1644349755,02c777b9c78c58903e08991022088e21:670986468,8fa773f9df8c58906eb4b14e08a03e5c:1644349755,64a733b9a68c589023df73830d3542df:670986468,2297f379228c5890154355c259f44621:1644349755,747733b94e8c589055c6f2c5ef99c3da:670986468,3067ff793c8c589057d618790f29e2c6:-298594555,6157b379628c5890366158a514308789:102166178,6857fb79298c58904a79a61a9590ead6:2041328224,f74733794f8c5890d013c71b9ddd61b0:-1681036518,bd47fb397c8c5890311f3dac6f1b50af:1640567491,0c473779788c5890f94d2e23362bb97c:-2120052161,5f37b339248c58908376e422841707e4:-1681036518,23273ff5438c5890756bcb850e972523:1640567491,5d27f739e48c589004a1ba22f834ecb2:2041328224,a427f3f5208c58907369f5cef2135c8d:-1681036518,1b17b3398d8c5890f9e19d05b7498d6b:1640567491,0317f739e58c58908b6b75b79c97f9ae:865471940,da17b3392b8c5890a49a6106c95e0066:95882283,ad177739658c58904e65511ec243c498:-1202427953</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_be7a9348db54d4509a17ae3bd39619ab</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 2">4ad6f3f5db8c58909a17ae3bd396196f</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-16 02:19:52">727a1b08db54d4509a17ae3bd39619d5</portal_widget><posx>0</posx><posy>30</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admVinay</sys_created_by><sys_created_on>2020-04-16 09:19:53</sys_created_on><sys_id>be7a9348db54d4509a17ae3bd39619ab</sys_id><sys_mod_count>40</sys_mod_count><sys_name>4ad6f3f5db8c58909a17ae3bd396196f</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_be7a9348db54d4509a17ae3bd39619ab</sys_update_name><sys_updated_by>admvinay</sys_updated_by><sys_updated_on>2020-07-13 06:18:14</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1509843464</payload_hash>
+<remote_update_set display_value="AVM_COE_Catalog_Quality_Dashboard_for_Regions_V2">226f3318db8e509492b95055ca96193e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admAdarsh</sys_created_by>
+<sys_created_on>2020-07-13 06:29:35</sys_created_on>
+<sys_id>ee6ff318db8e509492b95055ca96197a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17346d649d60000001</sys_recorded_at>
+<sys_updated_by>admAdarsh</sys_updated_by>
+<sys_updated_on>2020-07-13 06:29:35</sys_updated_on>
+<table/>
+<target_name>4ad6f3f5db8c58909a17ae3bd396196f</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>52adb754318e5094b1269be3c05f0355</update_guid>
+<update_guid_history>52adb754318e5094b1269be3c05f0355:-1509843464,94dcfbd04c8e5094061872fd2360b4e0:-1509843464,155052937b385c10db67c2fa826f8e01:1632019043,6611f1cb5938d810c953600b8fad95cd:1632019043,61c031cbf938d810d66250859e47127c:662438020,f8c0fd8b7f38d81035bd5042508afbbc:508664965,2f80f18ba938d8108711811c907b7281:354891910,9670718b5638d8105ed574b63ffd195d:508664965,425374eaf634901043977233bd0b3a5c:662438020,0d5334ea55349010eb102c029e506b72:816211075,4743b0eae53490109c159402c11aad31:508664965,e24370ea4334901075ba12daac733461:662438020,b1137c6af33490108315b35980664e61:508664965,303daf8351641090fcd2b1ad26e0144d:662438020,c51e1f485894d4509064acb1138ecc75:662438020,010ed3489a94d450d5816b9ea69dedcf:508664965,b38ddf44c794d450ac9dbe631a0868c7:662438020,d94d53848e94d45023f7f3ebc7d576b0:-307143003,59dc93c0bf94d45046f58bad8b35a2bc:1719765612,ffccdf404994d450da2480514dba800b:1890000940,becc5f80be94d4508d9e280f180bb042:2060236268,e5ccdb807194d450ba673a29dbf02350:1906463213,3ccc9b807d94d450de3911bc2891e38d:1752690158,84ccd380ea94d4501b30802cf4486112:1598917103,dabc5740ee94d450f4038fdd2674cff9:-782885860,259c9b402694d4507c56928fab37041d:528638676,098c57400d94d450142753feebeba5f1:-97131788,116c5b000094d450c8908bbd97bb892e:528638676,e06c1b003594d4509797764f138a85bf:31778310,b24c5700fd94d4500010cc584ad343cf:528638676,51ab9b4cbb54d450d6fe0a83aa92b3b9:56641267,fb8b934c5854d4500dd2b0ca5571b679:-415356142,4a5b170cde54d4503056e4b4cc7d7d67:56641267,03fa97c81354d45073e4f307d6a92afa:528638676,a5fa97c8ce54d450559987105e626a33:31778310,7aea93c8fb54d45089c0ee517a60529c:503775719,81ea5f88ae54d45033f23ba0f47bf541:975773128,b2da5b884954d4507687f03e7e21462e:1447770537,9b9a5b48cd54d450742e313a549e8487:1919767946,799a1b481954d4505a4bb279ab0f0c94:-1903201941,838a97482254d4506c3979ee2a23ecc2:-1431204532,398a57484654d450d290bcdd0f52788c:-959207123,9c8a17481a54d45076bbc2fe6669188a:-487209714,767a93487f54d45081de6f3c418547ae:603625363</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
