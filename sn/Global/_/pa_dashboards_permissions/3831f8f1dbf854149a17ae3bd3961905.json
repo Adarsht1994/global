@@ -1,0 +1,23 @@
+{
+  "dashboard": "1a929bfddb8058909a17ae3bd396194b",
+  "delete": false,
+  "group": "b23fa4bddbb854149a17ae3bd396196a",
+  "identity": "b23fa4bddbb854149a17ae3bd396196a",
+  "read": true,
+  "role": null,
+  "sys_class_name": "pa_dashboards_permissions",
+  "sys_created_by": "admVinay",
+  "sys_created_on": "2020-05-16 04:01:01",
+  "sys_id": "3831f8f1dbf854149a17ae3bd3961905",
+  "sys_mod_count": 0,
+  "sys_name": "b23fa4bddbb854149a17ae3bd396196a",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "pa_dashboards_permissions_3831f8f1dbf854149a17ae3bd3961905",
+  "sys_updated_by": "admVinay",
+  "sys_updated_on": "2020-05-16 04:01:01",
+  "type": 2,
+  "user": null,
+  "write": false
+}
