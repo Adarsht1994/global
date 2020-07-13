@@ -1,0 +1,20 @@
+{
+  "grid_canvas": "4ab25731dbc058909a17ae3bd3961984",
+  "height": 10,
+  "portal_widget": "7e08b7c3dba4581092b95055ca961903",
+  "posx": 0,
+  "posy": 4,
+  "sys_class_name": "sys_grid_canvas_pane",
+  "sys_created_by": "admvinay",
+  "sys_created_on": "2020-05-08 05:26:31",
+  "sys_id": "0f08b7c3dba4581092b95055ca961906",
+  "sys_mod_count": 20,
+  "sys_name": "4ab25731dbc058909a17ae3bd3961984",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_grid_canvas_pane_0f08b7c3dba4581092b95055ca961906",
+  "sys_updated_by": "admvinay",
+  "sys_updated_on": "2020-05-21 02:54:48",
+  "width": 6
+}
