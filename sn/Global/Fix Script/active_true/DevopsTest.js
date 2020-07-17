@@ -1,10 +1,10 @@
 /* 
  * Application : Global
  * ClassName   : sys_script_fix
- * Created On  : 2020-07-10 12:42:17
+ * Created On  : 2020-07-17 06:25:12
  * Created By  : admAdarsh
- * Updated On  : 2020-07-13 06:09:57
+ * Updated On  : 2020-07-17 06:25:54
  * Updated By  : admAdarsh
- * URL         : /sys_script_fix.do?sys_id=28e77de71b39585079c9a9722a4bcb16
+ * URL         : /sys_script_fix.do?sys_id=c0b4a8b9db06141092b95055ca96199f
  */
-gs.log("Test1234");
+gs.log("testdevops123");
