@@ -13,13 +13,20 @@
   "sys_created_by": "admAdarsh",
   "sys_created_on": "2020-07-17 06:25:12",
   "sys_id": "c0b4a8b9db06141092b95055ca96199f",
+ servicenowtest-10-@4fd4e0b5db06141092b95055ca96199c
   "sys_mod_count": 1,
+
+
+ master
   "sys_name": "DevopsTest",
   "sys_package": "global",
   "sys_policy": null,
   "sys_scope": "global",
   "sys_update_name": "sys_script_fix_c0b4a8b9db06141092b95055ca96199f",
   "sys_updated_by": "admAdarsh",
+ servicenowtest-10-@4fd4e0b5db06141092b95055ca96199c
   "sys_updated_on": "2020-07-17 06:25:54",
+
+ master
   "unloadable": false
 }
