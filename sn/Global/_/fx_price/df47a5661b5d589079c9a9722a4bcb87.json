@@ -1,0 +1,17 @@
+{
+  "amount": 0,
+  "currency": "USD",
+  "field": "price_if_checked",
+  "id": "e327e1e21b5d589079c9a9722a4bcbba",
+  "parent": null,
+  "reference_amount": 0,
+  "reference_currency": "USD",
+  "sys_created_by": "admshruti",
+  "sys_created_on": "2020-06-12 12:24:14",
+  "sys_id": "df47a5661b5d589079c9a9722a4bcb87",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admshruti",
+  "sys_updated_on": "2020-06-12 12:24:14",
+  "table": "item_option_new",
+  "type": "calculated"
+}
